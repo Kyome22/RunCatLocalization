@@ -6,16 +6,21 @@
 //
 
 import SwiftUI
+import RunCatLocalization
 
 struct ContentView: View {
+    @State var category = Category.dashboard
+
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
+        TabView(selection: $category) {
+            ForEach(Category.allCases) { category in
+                Text(category.title)
+                    .tabItem {
+                        Text(category.title)
+                    }
+                    .tag(category)
+            }
         }
-        .padding()
     }
 }
 
