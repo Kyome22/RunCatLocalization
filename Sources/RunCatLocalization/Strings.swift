@@ -1,9 +1,7 @@
-public protocol RCLStrings: Hashable, Identifiable, CaseIterable {
-    var localizedString: String { get }
-}
+import SwiftUI
 
 public enum RCL {
-    public enum Dashboard: String, RCLStrings {
+    public enum Dashboard: String, Identifiable, CaseIterable {
         case aboutApp
         case activityMonitor
         case back
@@ -26,51 +24,51 @@ public enum RCL {
         
         public var id: String { rawValue }
         
-        public var localizedString: String {
+        public var localizedText: Text {
             return switch self {
-                case .aboutApp:
-                    String(localized: "aboutApp", table: "Dashboard", bundle: .module)
-                case .activityMonitor:
-                    String(localized: "activityMonitor", table: "Dashboard", bundle: .module)
-                case .back:
-                    String(localized: "back", table: "Dashboard", bundle: .module)
-                case .categoryAnimal:
-                    String(localized: "categoryAnimal", table: "Dashboard", bundle: .module)
-                case .categoryDefault:
-                    String(localized: "categoryDefault", table: "Dashboard", bundle: .module)
-                case .categoryInanimate:
-                    String(localized: "categoryInanimate", table: "Dashboard", bundle: .module)
-                case .categorySeasonal:
-                    String(localized: "categorySeasonal", table: "Dashboard", bundle: .module)
-                case .categorySelfMade:
-                    String(localized: "categorySelfMade", table: "Dashboard", bundle: .module)
-                case .categorySpecial:
-                    String(localized: "categorySpecial", table: "Dashboard", bundle: .module)
-                case .debugSleep:
-                    String(localized: "debugSleep", table: "Dashboard", bundle: .module)
-                case .debugWakeUp:
-                    String(localized: "debugWakeUp", table: "Dashboard", bundle: .module)
-                case .help:
-                    String(localized: "help", table: "Dashboard", bundle: .module)
-                case .more:
-                    String(localized: "more", table: "Dashboard", bundle: .module)
-                case .reportAnIssue:
-                    String(localized: "reportAnIssue", table: "Dashboard", bundle: .module)
-                case .runners:
-                    String(localized: "runners", table: "Dashboard", bundle: .module)
-                case .selfMade:
-                    String(localized: "selfMade", table: "Dashboard", bundle: .module)
-                case .settings:
-                    String(localized: "settings", table: "Dashboard", bundle: .module)
-                case .store:
-                    String(localized: "store", table: "Dashboard", bundle: .module)
-                case .terminateApp:
-                    String(localized: "terminateApp", table: "Dashboard", bundle: .module)
+            case .aboutApp:
+                Text("aboutApp", tableName: "Dashboard", bundle: .module)
+            case .activityMonitor:
+                Text("activityMonitor", tableName: "Dashboard", bundle: .module)
+            case .back:
+                Text("back", tableName: "Dashboard", bundle: .module)
+            case .categoryAnimal:
+                Text("categoryAnimal", tableName: "Dashboard", bundle: .module)
+            case .categoryDefault:
+                Text("categoryDefault", tableName: "Dashboard", bundle: .module)
+            case .categoryInanimate:
+                Text("categoryInanimate", tableName: "Dashboard", bundle: .module)
+            case .categorySeasonal:
+                Text("categorySeasonal", tableName: "Dashboard", bundle: .module)
+            case .categorySelfMade:
+                Text("categorySelfMade", tableName: "Dashboard", bundle: .module)
+            case .categorySpecial:
+                Text("categorySpecial", tableName: "Dashboard", bundle: .module)
+            case .debugSleep:
+                Text("debugSleep", tableName: "Dashboard", bundle: .module)
+            case .debugWakeUp:
+                Text("debugWakeUp", tableName: "Dashboard", bundle: .module)
+            case .help:
+                Text("help", tableName: "Dashboard", bundle: .module)
+            case .more:
+                Text("more", tableName: "Dashboard", bundle: .module)
+            case .reportAnIssue:
+                Text("reportAnIssue", tableName: "Dashboard", bundle: .module)
+            case .runners:
+                Text("runners", tableName: "Dashboard", bundle: .module)
+            case .selfMade:
+                Text("selfMade", tableName: "Dashboard", bundle: .module)
+            case .settings:
+                Text("settings", tableName: "Dashboard", bundle: .module)
+            case .store:
+                Text("store", tableName: "Dashboard", bundle: .module)
+            case .terminateApp:
+                Text("terminateApp", tableName: "Dashboard", bundle: .module)
             }
         }
     }
     
-    public enum GeneralSettings: String, RCLStrings {
+    public enum GeneralSettings: String, Identifiable, CaseIterable {
         case allRunners
         case changedMyMind
         case flipHorizontally
@@ -88,41 +86,41 @@ public enum RCL {
         
         public var id: String { rawValue }
         
-        public var localizedString: String {
+        public var localizedText: Text {
             return switch self {
-                case .allRunners:
-                    String(localized: "allRunners", table: "GeneralSettings", bundle: .module)
-                case .changedMyMind:
-                    String(localized: "changedMyMind", table: "GeneralSettings", bundle: .module)
-                case .flipHorizontally:
-                    String(localized: "flipHorizontally", table: "GeneralSettings", bundle: .module)
-                case .invertSpeed:
-                    String(localized: "invertSpeed", table: "GeneralSettings", bundle: .module)
-                case .launch:
-                    String(localized: "launch", table: "GeneralSettings", bundle: .module)
-                case .launchAtLogin:
-                    String(localized: "launchAtLogin", table: "GeneralSettings", bundle: .module)
-                case .onlyMonochromeRunners:
-                    String(localized: "onlyMonochromeRunners", table: "GeneralSettings", bundle: .module)
-                case .runner:
-                    String(localized: "runner", table: "GeneralSettings", bundle: .module)
-                case .selectAutomatically:
-                    String(localized: "selectAutomatically", table: "GeneralSettings", bundle: .module)
-                case .stop:
-                    String(localized: "stop", table: "GeneralSettings", bundle: .module)
-                case .stopRunner:
-                    String(localized: "stopRunner", table: "GeneralSettings", bundle: .module)
-                case .stopRunnerMessage:
-                    String(localized: "stopRunnerMessage", table: "GeneralSettings", bundle: .module)
-                case .stopRunnerTitle:
-                    String(localized: "stopRunnerTitle", table: "GeneralSettings", bundle: .module)
-                case .useAccentColor:
-                    String(localized: "useAccentColor", table: "GeneralSettings", bundle: .module)
+            case .allRunners:
+                Text("allRunners", tableName: "GeneralSettings", bundle: .module)
+            case .changedMyMind:
+                Text("changedMyMind", tableName: "GeneralSettings", bundle: .module)
+            case .flipHorizontally:
+                Text("flipHorizontally", tableName: "GeneralSettings", bundle: .module)
+            case .invertSpeed:
+                Text("invertSpeed", tableName: "GeneralSettings", bundle: .module)
+            case .launch:
+                Text("launch", tableName: "GeneralSettings", bundle: .module)
+            case .launchAtLogin:
+                Text("launchAtLogin", tableName: "GeneralSettings", bundle: .module)
+            case .onlyMonochromeRunners:
+                Text("onlyMonochromeRunners", tableName: "GeneralSettings", bundle: .module)
+            case .runner:
+                Text("runner", tableName: "GeneralSettings", bundle: .module)
+            case .selectAutomatically:
+                Text("selectAutomatically", tableName: "GeneralSettings", bundle: .module)
+            case .stop:
+                Text("stop", tableName: "GeneralSettings", bundle: .module)
+            case .stopRunner:
+                Text("stopRunner", tableName: "GeneralSettings", bundle: .module)
+            case .stopRunnerMessage:
+                Text("stopRunnerMessage", tableName: "GeneralSettings", bundle: .module)
+            case .stopRunnerTitle:
+                Text("stopRunnerTitle", tableName: "GeneralSettings", bundle: .module)
+            case .useAccentColor:
+                Text("useAccentColor", tableName: "GeneralSettings", bundle: .module)
             }
         }
     }
     
-    public enum Others: String, RCLStrings {
+    public enum Others: String, Identifiable, CaseIterable {
         case generalTab
         case helpFAQ
         case helpHowToRegister
@@ -138,37 +136,37 @@ public enum RCL {
         
         public var id: String { rawValue }
         
-        public var localizedString: String {
+        public var localizedText: Text {
             return switch self {
-                case .generalTab:
-                    String(localized: "generalTab", table: "Others", bundle: .module)
-                case .helpFAQ:
-                    String(localized: "helpFAQ", table: "Others", bundle: .module)
-                case .helpHowToRegister:
-                    String(localized: "helpHowToRegister", table: "Others", bundle: .module)
-                case .mailEnvironment:
-                    String(localized: "mailEnvironment", table: "Others", bundle: .module)
-                case .mailExpectedResult:
-                    String(localized: "mailExpectedResult", table: "Others", bundle: .module)
-                case .mailIssueReport:
-                    String(localized: "mailIssueReport", table: "Others", bundle: .module)
-                case .mailReproduceIssue:
-                    String(localized: "mailReproduceIssue", table: "Others", bundle: .module)
-                case .mailShortDescription:
-                    String(localized: "mailShortDescription", table: "Others", bundle: .module)
-                case .mailWhatYouTried:
-                    String(localized: "mailWhatYouTried", table: "Others", bundle: .module)
-                case .queryLang:
-                    String(localized: "queryLang", table: "Others", bundle: .module)
-                case .support:
-                    String(localized: "support", table: "Others", bundle: .module)
-                case .systemInfoTab:
-                    String(localized: "systemInfoTab", table: "Others", bundle: .module)
+            case .generalTab:
+                Text("generalTab", tableName: "Others", bundle: .module)
+            case .helpFAQ:
+                Text("helpFAQ", tableName: "Others", bundle: .module)
+            case .helpHowToRegister:
+                Text("helpHowToRegister", tableName: "Others", bundle: .module)
+            case .mailEnvironment:
+                Text("mailEnvironment", tableName: "Others", bundle: .module)
+            case .mailExpectedResult:
+                Text("mailExpectedResult", tableName: "Others", bundle: .module)
+            case .mailIssueReport:
+                Text("mailIssueReport", tableName: "Others", bundle: .module)
+            case .mailReproduceIssue:
+                Text("mailReproduceIssue", tableName: "Others", bundle: .module)
+            case .mailShortDescription:
+                Text("mailShortDescription", tableName: "Others", bundle: .module)
+            case .mailWhatYouTried:
+                Text("mailWhatYouTried", tableName: "Others", bundle: .module)
+            case .queryLang:
+                Text("queryLang", tableName: "Others", bundle: .module)
+            case .support:
+                Text("support", tableName: "Others", bundle: .module)
+            case .systemInfoTab:
+                Text("systemInfoTab", tableName: "Others", bundle: .module)
             }
         }
     }
     
-    public enum RunnerName: String, RCLStrings {
+    public enum RunnerName: String, Identifiable, CaseIterable {
         case b_cat
         case bird
         case bonfire
@@ -254,177 +252,177 @@ public enum RCL {
         
         public var id: String { rawValue }
         
-        public var localizedString: String {
+        public var localizedText: Text {
             return switch self {
-                case .b_cat:
-                    String(localized: "b_cat", table: "RunnerName", bundle: .module)
-                case .bird:
-                    String(localized: "bird", table: "RunnerName", bundle: .module)
-                case .bonfire:
-                    String(localized: "bonfire", table: "RunnerName", bundle: .module)
-                case .butterfly:
-                    String(localized: "butterfly", table: "RunnerName", bundle: .module)
-                case .c_cat:
-                    String(localized: "c_cat", table: "RunnerName", bundle: .module)
-                case .cat:
-                    String(localized: "cat", table: "RunnerName", bundle: .module)
-                case .cat_cluster_metal:
-                    String(localized: "cat_cluster_metal", table: "RunnerName", bundle: .module)
-                case .cat_flash:
-                    String(localized: "cat_flash", table: "RunnerName", bundle: .module)
-                case .cat_gaming:
-                    String(localized: "cat_gaming", table: "RunnerName", bundle: .module)
-                case .cat_golden:
-                    String(localized: "cat_golden", table: "RunnerName", bundle: .module)
-                case .cat_nyan_mock:
-                    String(localized: "cat_nyan_mock", table: "RunnerName", bundle: .module)
-                case .chameleon:
-                    String(localized: "chameleon", table: "RunnerName", bundle: .module)
-                case .cheetah:
-                    String(localized: "cheetah", table: "RunnerName", bundle: .module)
-                case .chicken:
-                    String(localized: "chicken", table: "RunnerName", bundle: .module)
-                case .chime_wind:
-                    String(localized: "chime_wind", table: "RunnerName", bundle: .module)
-                case .city:
-                    String(localized: "city", table: "RunnerName", bundle: .module)
-                case .coffee:
-                    String(localized: "coffee", table: "RunnerName", bundle: .module)
-                case .cogwheel:
-                    String(localized: "cogwheel", table: "RunnerName", bundle: .module)
-                case .corgi_welsh:
-                    String(localized: "corgi_welsh", table: "RunnerName", bundle: .module)
-                case .cradle:
-                    String(localized: "cradle", table: "RunnerName", bundle: .module)
-                case .curve_sine:
-                    String(localized: "curve_sine", table: "RunnerName", bundle: .module)
-                case .dinosaur:
-                    String(localized: "dinosaur", table: "RunnerName", bundle: .module)
-                case .dog:
-                    String(localized: "dog", table: "RunnerName", bundle: .module)
-                case .dogeza:
-                    String(localized: "dogeza", table: "RunnerName", bundle: .module)
-                case .dolphin:
-                    String(localized: "dolphin", table: "RunnerName", bundle: .module)
-                case .dots:
-                    String(localized: "dots", table: "RunnerName", bundle: .module)
-                case .dragon:
-                    String(localized: "dragon", table: "RunnerName", bundle: .module)
-                case .drink_tapioca:
-                    String(localized: "drink_tapioca", table: "RunnerName", bundle: .module)
-                case .drop:
-                    String(localized: "drop", table: "RunnerName", bundle: .module)
-                case .duck_rubber:
-                    String(localized: "duck_rubber", table: "RunnerName", bundle: .module)
-                case .earth:
-                    String(localized: "earth", table: "RunnerName", bundle: .module)
-                case .engine:
-                    String(localized: "engine", table: "RunnerName", bundle: .module)
-                case .entaku:
-                    String(localized: "entaku", table: "RunnerName", bundle: .module)
-                case .factory:
-                    String(localized: "factory", table: "RunnerName", bundle: .module)
-                case .fishman:
-                    String(localized: "fishman", table: "RunnerName", bundle: .module)
-                case .fox:
-                    String(localized: "fox", table: "RunnerName", bundle: .module)
-                case .frog:
-                    String(localized: "frog", table: "RunnerName", bundle: .module)
-                case .frypan:
-                    String(localized: "frypan", table: "RunnerName", bundle: .module)
-                case .ghost:
-                    String(localized: "ghost", table: "RunnerName", bundle: .module)
-                case .greyhound:
-                    String(localized: "greyhound", table: "RunnerName", bundle: .module)
-                case .hedgehog:
-                    String(localized: "hedgehog", table: "RunnerName", bundle: .module)
-                case .horse:
-                    String(localized: "horse", table: "RunnerName", bundle: .module)
-                case .human:
-                    String(localized: "human", table: "RunnerName", bundle: .module)
-                case .lantern_o_jack:
-                    String(localized: "lantern_o_jack", table: "RunnerName", bundle: .module)
-                case .locomotive_steam:
-                    String(localized: "locomotive_steam", table: "RunnerName", bundle: .module)
-                case .made_self:
-                    String(localized: "made_self", table: "RunnerName", bundle: .module)
-                case .mochi:
-                    String(localized: "mochi", table: "RunnerName", bundle: .module)
-                case .mouse:
-                    String(localized: "mouse", table: "RunnerName", bundle: .module)
-                case .neko_maneki:
-                    String(localized: "neko_maneki", table: "RunnerName", bundle: .module)
-                case .octopus:
-                    String(localized: "octopus", table: "RunnerName", bundle: .module)
-                case .otter:
-                    String(localized: "otter", table: "RunnerName", bundle: .module)
-                case .owl:
-                    String(localized: "owl", table: "RunnerName", bundle: .module)
-                case .parrot:
-                    String(localized: "parrot", table: "RunnerName", bundle: .module)
-                case .parrot_party:
-                    String(localized: "parrot_party", table: "RunnerName", bundle: .module)
-                case .pendulum:
-                    String(localized: "pendulum", table: "RunnerName", bundle: .module)
-                case .penguin:
-                    String(localized: "penguin", table: "RunnerName", bundle: .module)
-                case .penguin2:
-                    String(localized: "penguin2", table: "RunnerName", bundle: .module)
-                case .people_party:
-                    String(localized: "people_party", table: "RunnerName", bundle: .module)
-                case .pig:
-                    String(localized: "pig", table: "RunnerName", bundle: .module)
-                case .pulse:
-                    String(localized: "pulse", table: "RunnerName", bundle: .module)
-                case .puppy:
-                    String(localized: "puppy", table: "RunnerName", bundle: .module)
-                case .rabbit:
-                    String(localized: "rabbit", table: "RunnerName", bundle: .module)
-                case .reactor:
-                    String(localized: "reactor", table: "RunnerName", bundle: .module)
-                case .rocket:
-                    String(localized: "rocket", table: "RunnerName", bundle: .module)
-                case .runners_all:
-                    String(localized: "runners_all", table: "RunnerName", bundle: .module)
-                case .sausage:
-                    String(localized: "sausage", table: "RunnerName", bundle: .module)
-                case .sheep:
-                    String(localized: "sheep", table: "RunnerName", bundle: .module)
-                case .sleigh_reindeer:
-                    String(localized: "sleigh_reindeer", table: "RunnerName", bundle: .module)
-                case .slime:
-                    String(localized: "slime", table: "RunnerName", bundle: .module)
-                case .snowman:
-                    String(localized: "snowman", table: "RunnerName", bundle: .module)
-                case .sparkler:
-                    String(localized: "sparkler", table: "RunnerName", bundle: .module)
-                case .squirrel:
-                    String(localized: "squirrel", table: "RunnerName", bundle: .module)
-                case .sushi:
-                    String(localized: "sushi", table: "RunnerName", bundle: .module)
-                case .sushi_rotating:
-                    String(localized: "sushi_rotating", table: "RunnerName", bundle: .module)
-                case .tail_cat:
-                    String(localized: "tail_cat", table: "RunnerName", bundle: .module)
-                case .terrier:
-                    String(localized: "terrier", table: "RunnerName", bundle: .module)
-                case .triforce:
-                    String(localized: "triforce", table: "RunnerName", bundle: .module)
-                case .uhooi:
-                    String(localized: "uhooi", table: "RunnerName", bundle: .module)
-                case .up_push:
-                    String(localized: "up_push", table: "RunnerName", bundle: .module)
-                case .up_sit:
-                    String(localized: "up_sit", table: "RunnerName", bundle: .module)
-                case .whale:
-                    String(localized: "whale", table: "RunnerName", bundle: .module)
-                case .wheel_hamster:
-                    String(localized: "wheel_hamster", table: "RunnerName", bundle: .module)
+            case .b_cat:
+                Text("b_cat", tableName: "RunnerName", bundle: .module)
+            case .bird:
+                Text("bird", tableName: "RunnerName", bundle: .module)
+            case .bonfire:
+                Text("bonfire", tableName: "RunnerName", bundle: .module)
+            case .butterfly:
+                Text("butterfly", tableName: "RunnerName", bundle: .module)
+            case .c_cat:
+                Text("c_cat", tableName: "RunnerName", bundle: .module)
+            case .cat:
+                Text("cat", tableName: "RunnerName", bundle: .module)
+            case .cat_cluster_metal:
+                Text("cat_cluster_metal", tableName: "RunnerName", bundle: .module)
+            case .cat_flash:
+                Text("cat_flash", tableName: "RunnerName", bundle: .module)
+            case .cat_gaming:
+                Text("cat_gaming", tableName: "RunnerName", bundle: .module)
+            case .cat_golden:
+                Text("cat_golden", tableName: "RunnerName", bundle: .module)
+            case .cat_nyan_mock:
+                Text("cat_nyan_mock", tableName: "RunnerName", bundle: .module)
+            case .chameleon:
+                Text("chameleon", tableName: "RunnerName", bundle: .module)
+            case .cheetah:
+                Text("cheetah", tableName: "RunnerName", bundle: .module)
+            case .chicken:
+                Text("chicken", tableName: "RunnerName", bundle: .module)
+            case .chime_wind:
+                Text("chime_wind", tableName: "RunnerName", bundle: .module)
+            case .city:
+                Text("city", tableName: "RunnerName", bundle: .module)
+            case .coffee:
+                Text("coffee", tableName: "RunnerName", bundle: .module)
+            case .cogwheel:
+                Text("cogwheel", tableName: "RunnerName", bundle: .module)
+            case .corgi_welsh:
+                Text("corgi_welsh", tableName: "RunnerName", bundle: .module)
+            case .cradle:
+                Text("cradle", tableName: "RunnerName", bundle: .module)
+            case .curve_sine:
+                Text("curve_sine", tableName: "RunnerName", bundle: .module)
+            case .dinosaur:
+                Text("dinosaur", tableName: "RunnerName", bundle: .module)
+            case .dog:
+                Text("dog", tableName: "RunnerName", bundle: .module)
+            case .dogeza:
+                Text("dogeza", tableName: "RunnerName", bundle: .module)
+            case .dolphin:
+                Text("dolphin", tableName: "RunnerName", bundle: .module)
+            case .dots:
+                Text("dots", tableName: "RunnerName", bundle: .module)
+            case .dragon:
+                Text("dragon", tableName: "RunnerName", bundle: .module)
+            case .drink_tapioca:
+                Text("drink_tapioca", tableName: "RunnerName", bundle: .module)
+            case .drop:
+                Text("drop", tableName: "RunnerName", bundle: .module)
+            case .duck_rubber:
+                Text("duck_rubber", tableName: "RunnerName", bundle: .module)
+            case .earth:
+                Text("earth", tableName: "RunnerName", bundle: .module)
+            case .engine:
+                Text("engine", tableName: "RunnerName", bundle: .module)
+            case .entaku:
+                Text("entaku", tableName: "RunnerName", bundle: .module)
+            case .factory:
+                Text("factory", tableName: "RunnerName", bundle: .module)
+            case .fishman:
+                Text("fishman", tableName: "RunnerName", bundle: .module)
+            case .fox:
+                Text("fox", tableName: "RunnerName", bundle: .module)
+            case .frog:
+                Text("frog", tableName: "RunnerName", bundle: .module)
+            case .frypan:
+                Text("frypan", tableName: "RunnerName", bundle: .module)
+            case .ghost:
+                Text("ghost", tableName: "RunnerName", bundle: .module)
+            case .greyhound:
+                Text("greyhound", tableName: "RunnerName", bundle: .module)
+            case .hedgehog:
+                Text("hedgehog", tableName: "RunnerName", bundle: .module)
+            case .horse:
+                Text("horse", tableName: "RunnerName", bundle: .module)
+            case .human:
+                Text("human", tableName: "RunnerName", bundle: .module)
+            case .lantern_o_jack:
+                Text("lantern_o_jack", tableName: "RunnerName", bundle: .module)
+            case .locomotive_steam:
+                Text("locomotive_steam", tableName: "RunnerName", bundle: .module)
+            case .made_self:
+                Text("made_self", tableName: "RunnerName", bundle: .module)
+            case .mochi:
+                Text("mochi", tableName: "RunnerName", bundle: .module)
+            case .mouse:
+                Text("mouse", tableName: "RunnerName", bundle: .module)
+            case .neko_maneki:
+                Text("neko_maneki", tableName: "RunnerName", bundle: .module)
+            case .octopus:
+                Text("octopus", tableName: "RunnerName", bundle: .module)
+            case .otter:
+                Text("otter", tableName: "RunnerName", bundle: .module)
+            case .owl:
+                Text("owl", tableName: "RunnerName", bundle: .module)
+            case .parrot:
+                Text("parrot", tableName: "RunnerName", bundle: .module)
+            case .parrot_party:
+                Text("parrot_party", tableName: "RunnerName", bundle: .module)
+            case .pendulum:
+                Text("pendulum", tableName: "RunnerName", bundle: .module)
+            case .penguin:
+                Text("penguin", tableName: "RunnerName", bundle: .module)
+            case .penguin2:
+                Text("penguin2", tableName: "RunnerName", bundle: .module)
+            case .people_party:
+                Text("people_party", tableName: "RunnerName", bundle: .module)
+            case .pig:
+                Text("pig", tableName: "RunnerName", bundle: .module)
+            case .pulse:
+                Text("pulse", tableName: "RunnerName", bundle: .module)
+            case .puppy:
+                Text("puppy", tableName: "RunnerName", bundle: .module)
+            case .rabbit:
+                Text("rabbit", tableName: "RunnerName", bundle: .module)
+            case .reactor:
+                Text("reactor", tableName: "RunnerName", bundle: .module)
+            case .rocket:
+                Text("rocket", tableName: "RunnerName", bundle: .module)
+            case .runners_all:
+                Text("runners_all", tableName: "RunnerName", bundle: .module)
+            case .sausage:
+                Text("sausage", tableName: "RunnerName", bundle: .module)
+            case .sheep:
+                Text("sheep", tableName: "RunnerName", bundle: .module)
+            case .sleigh_reindeer:
+                Text("sleigh_reindeer", tableName: "RunnerName", bundle: .module)
+            case .slime:
+                Text("slime", tableName: "RunnerName", bundle: .module)
+            case .snowman:
+                Text("snowman", tableName: "RunnerName", bundle: .module)
+            case .sparkler:
+                Text("sparkler", tableName: "RunnerName", bundle: .module)
+            case .squirrel:
+                Text("squirrel", tableName: "RunnerName", bundle: .module)
+            case .sushi:
+                Text("sushi", tableName: "RunnerName", bundle: .module)
+            case .sushi_rotating:
+                Text("sushi_rotating", tableName: "RunnerName", bundle: .module)
+            case .tail_cat:
+                Text("tail_cat", tableName: "RunnerName", bundle: .module)
+            case .terrier:
+                Text("terrier", tableName: "RunnerName", bundle: .module)
+            case .triforce:
+                Text("triforce", tableName: "RunnerName", bundle: .module)
+            case .uhooi:
+                Text("uhooi", tableName: "RunnerName", bundle: .module)
+            case .up_push:
+                Text("up_push", tableName: "RunnerName", bundle: .module)
+            case .up_sit:
+                Text("up_sit", tableName: "RunnerName", bundle: .module)
+            case .whale:
+                Text("whale", tableName: "RunnerName", bundle: .module)
+            case .wheel_hamster:
+                Text("wheel_hamster", tableName: "RunnerName", bundle: .module)
             }
         }
     }
     
-    public enum RunnersStore: String, RCLStrings {
+    public enum RunnersStore: String, Identifiable, CaseIterable {
         case categoryAnimal
         case categoryInanimate
         case categoryRecommended
@@ -447,51 +445,51 @@ public enum RCL {
         
         public var id: String { rawValue }
         
-        public var localizedString: String {
+        public var localizedText: Text {
             return switch self {
-                case .categoryAnimal:
-                    String(localized: "categoryAnimal", table: "RunnersStore", bundle: .module)
-                case .categoryInanimate:
-                    String(localized: "categoryInanimate", table: "RunnersStore", bundle: .module)
-                case .categoryRecommended:
-                    String(localized: "categoryRecommended", table: "RunnersStore", bundle: .module)
-                case .categorySeasonal:
-                    String(localized: "categorySeasonal", table: "RunnersStore", bundle: .module)
-                case .categorySpecial:
-                    String(localized: "categorySpecial", table: "RunnersStore", bundle: .module)
-                case .failedVerification:
-                    String(localized: "failedVerification", table: "RunnersStore", bundle: .module)
-                case .pending:
-                    String(localized: "pending", table: "RunnersStore", bundle: .module)
-                case .productNotFound:
-                    String(localized: "productNotFound", table: "RunnersStore", bundle: .module)
-                case .productNotFoundSuggestion:
-                    String(localized: "productNotFoundSuggestion", table: "RunnersStore", bundle: .module)
-                case .productUnavailable:
-                    String(localized: "productUnavailable", table: "RunnersStore", bundle: .module)
-                case .purchase:
-                    String(localized: "purchase", table: "RunnersStore", bundle: .module)
-                case .purchaseErrorTitle:
-                    String(localized: "purchaseErrorTitle", table: "RunnersStore", bundle: .module)
-                case .purchaseNotAllowed:
-                    String(localized: "purchaseNotAllowed", table: "RunnersStore", bundle: .module)
-                case .purchaseNotAllowedSuggestion:
-                    String(localized: "purchaseNotAllowedSuggestion", table: "RunnersStore", bundle: .module)
-                case .restore:
-                    String(localized: "restore", table: "RunnersStore", bundle: .module)
-                case .restoreTitle:
-                    String(localized: "restoreTitle", table: "RunnersStore", bundle: .module)
-                case .runnersStoreTitle:
-                    String(localized: "runnersStoreTitle", table: "RunnersStore", bundle: .module)
-                case .unknownError:
-                    String(localized: "unknownError", table: "RunnersStore", bundle: .module)
-                case .userCancelled:
-                    String(localized: "userCancelled", table: "RunnersStore", bundle: .module)
+            case .categoryAnimal:
+                Text("categoryAnimal", tableName: "RunnersStore", bundle: .module)
+            case .categoryInanimate:
+                Text("categoryInanimate", tableName: "RunnersStore", bundle: .module)
+            case .categoryRecommended:
+                Text("categoryRecommended", tableName: "RunnersStore", bundle: .module)
+            case .categorySeasonal:
+                Text("categorySeasonal", tableName: "RunnersStore", bundle: .module)
+            case .categorySpecial:
+                Text("categorySpecial", tableName: "RunnersStore", bundle: .module)
+            case .failedVerification:
+                Text("failedVerification", tableName: "RunnersStore", bundle: .module)
+            case .pending:
+                Text("pending", tableName: "RunnersStore", bundle: .module)
+            case .productNotFound:
+                Text("productNotFound", tableName: "RunnersStore", bundle: .module)
+            case .productNotFoundSuggestion:
+                Text("productNotFoundSuggestion", tableName: "RunnersStore", bundle: .module)
+            case .productUnavailable:
+                Text("productUnavailable", tableName: "RunnersStore", bundle: .module)
+            case .purchase:
+                Text("purchase", tableName: "RunnersStore", bundle: .module)
+            case .purchaseErrorTitle:
+                Text("purchaseErrorTitle", tableName: "RunnersStore", bundle: .module)
+            case .purchaseNotAllowed:
+                Text("purchaseNotAllowed", tableName: "RunnersStore", bundle: .module)
+            case .purchaseNotAllowedSuggestion:
+                Text("purchaseNotAllowedSuggestion", tableName: "RunnersStore", bundle: .module)
+            case .restore:
+                Text("restore", tableName: "RunnersStore", bundle: .module)
+            case .restoreTitle:
+                Text("restoreTitle", tableName: "RunnersStore", bundle: .module)
+            case .runnersStoreTitle:
+                Text("runnersStoreTitle", tableName: "RunnersStore", bundle: .module)
+            case .unknownError:
+                Text("unknownError", tableName: "RunnersStore", bundle: .module)
+            case .userCancelled:
+                Text("userCancelled", tableName: "RunnersStore", bundle: .module)
             }
         }
     }
     
-    public enum SelfMadeRunners: String, RCLStrings {
+    public enum SelfMadeRunners: String, Identifiable, CaseIterable {
         case color
         case conflictName
         case formatPrecondition
@@ -512,47 +510,47 @@ public enum RCL {
         
         public var id: String { rawValue }
         
-        public var localizedString: String {
+        public var localizedText: Text {
             return switch self {
-                case .color:
-                    String(localized: "color", table: "SelfMadeRunners", bundle: .module)
-                case .conflictName:
-                    String(localized: "conflictName", table: "SelfMadeRunners", bundle: .module)
-                case .formatPrecondition:
-                    String(localized: "formatPrecondition", table: "SelfMadeRunners", bundle: .module)
-                case .frames:
-                    String(localized: "frames", table: "SelfMadeRunners", bundle: .module)
-                case .heightPrecondition:
-                    String(localized: "heightPrecondition", table: "SelfMadeRunners", bundle: .module)
-                case .preconditions:
-                    String(localized: "preconditions", table: "SelfMadeRunners", bundle: .module)
-                case .preview:
-                    String(localized: "preview", table: "SelfMadeRunners", bundle: .module)
-                case .register:
-                    String(localized: "register", table: "SelfMadeRunners", bundle: .module)
-                case .registerErrorTitle:
-                    String(localized: "registerErrorTitle", table: "SelfMadeRunners", bundle: .module)
-                case .registeredRunners:
-                    String(localized: "registeredRunners", table: "SelfMadeRunners", bundle: .module)
-                case .runnerName:
-                    String(localized: "runnerName", table: "SelfMadeRunners", bundle: .module)
-                case .selfMadeRunnersTitle:
-                    String(localized: "selfMadeRunnersTitle", table: "SelfMadeRunners", bundle: .module)
-                case .toRegister:
-                    String(localized: "toRegister", table: "SelfMadeRunners", bundle: .module)
-                case .useOriginalColor:
-                    String(localized: "useOriginalColor", table: "SelfMadeRunners", bundle: .module)
-                case .violatePrecondition:
-                    String(localized: "violatePrecondition", table: "SelfMadeRunners", bundle: .module)
-                case .violateUpperLimit:
-                    String(localized: "violateUpperLimit", table: "SelfMadeRunners", bundle: .module)
-                case .widthPrecondition:
-                    String(localized: "widthPrecondition", table: "SelfMadeRunners", bundle: .module)
+            case .color:
+                Text("color", tableName: "SelfMadeRunners", bundle: .module)
+            case .conflictName:
+                Text("conflictName", tableName: "SelfMadeRunners", bundle: .module)
+            case .formatPrecondition:
+                Text("formatPrecondition", tableName: "SelfMadeRunners", bundle: .module)
+            case .frames:
+                Text("frames", tableName: "SelfMadeRunners", bundle: .module)
+            case .heightPrecondition:
+                Text("heightPrecondition", tableName: "SelfMadeRunners", bundle: .module)
+            case .preconditions:
+                Text("preconditions", tableName: "SelfMadeRunners", bundle: .module)
+            case .preview:
+                Text("preview", tableName: "SelfMadeRunners", bundle: .module)
+            case .register:
+                Text("register", tableName: "SelfMadeRunners", bundle: .module)
+            case .registerErrorTitle:
+                Text("registerErrorTitle", tableName: "SelfMadeRunners", bundle: .module)
+            case .registeredRunners:
+                Text("registeredRunners", tableName: "SelfMadeRunners", bundle: .module)
+            case .runnerName:
+                Text("runnerName", tableName: "SelfMadeRunners", bundle: .module)
+            case .selfMadeRunnersTitle:
+                Text("selfMadeRunnersTitle", tableName: "SelfMadeRunners", bundle: .module)
+            case .toRegister:
+                Text("toRegister", tableName: "SelfMadeRunners", bundle: .module)
+            case .useOriginalColor:
+                Text("useOriginalColor", tableName: "SelfMadeRunners", bundle: .module)
+            case .violatePrecondition:
+                Text("violatePrecondition", tableName: "SelfMadeRunners", bundle: .module)
+            case .violateUpperLimit:
+                Text("violateUpperLimit", tableName: "SelfMadeRunners", bundle: .module)
+            case .widthPrecondition:
+                Text("widthPrecondition", tableName: "SelfMadeRunners", bundle: .module)
             }
         }
     }
     
-    public enum SystemInfoBar: String, RCLStrings {
+    public enum SystemInfoBar: String, Identifiable, CaseIterable {
         case available
         case barGraph
         case onlyIcon
@@ -567,35 +565,35 @@ public enum RCL {
         
         public var id: String { rawValue }
         
-        public var localizedString: String {
+        public var localizedText: Text {
             return switch self {
-                case .available:
-                    String(localized: "available", table: "SystemInfoBar", bundle: .module)
-                case .barGraph:
-                    String(localized: "barGraph", table: "SystemInfoBar", bundle: .module)
-                case .onlyIcon:
-                    String(localized: "onlyIcon", table: "SystemInfoBar", bundle: .module)
-                case .percentage:
-                    String(localized: "percentage", table: "SystemInfoBar", bundle: .module)
-                case .pieChart:
-                    String(localized: "pieChart", table: "SystemInfoBar", bundle: .module)
-                case .showBatteryState:
-                    String(localized: "showBatteryState", table: "SystemInfoBar", bundle: .module)
-                case .showCPUUsage:
-                    String(localized: "showCPUUsage", table: "SystemInfoBar", bundle: .module)
-                case .showMemoryPerformance:
-                    String(localized: "showMemoryPerformance", table: "SystemInfoBar", bundle: .module)
-                case .showNetworkSpeed:
-                    String(localized: "showNetworkSpeed", table: "SystemInfoBar", bundle: .module)
-                case .showStorageCapacity:
-                    String(localized: "showStorageCapacity", table: "SystemInfoBar", bundle: .module)
-                case .used:
-                    String(localized: "used", table: "SystemInfoBar", bundle: .module)
+            case .available:
+                Text("available", tableName: "SystemInfoBar", bundle: .module)
+            case .barGraph:
+                Text("barGraph", tableName: "SystemInfoBar", bundle: .module)
+            case .onlyIcon:
+                Text("onlyIcon", tableName: "SystemInfoBar", bundle: .module)
+            case .percentage:
+                Text("percentage", tableName: "SystemInfoBar", bundle: .module)
+            case .pieChart:
+                Text("pieChart", tableName: "SystemInfoBar", bundle: .module)
+            case .showBatteryState:
+                Text("showBatteryState", tableName: "SystemInfoBar", bundle: .module)
+            case .showCPUUsage:
+                Text("showCPUUsage", tableName: "SystemInfoBar", bundle: .module)
+            case .showMemoryPerformance:
+                Text("showMemoryPerformance", tableName: "SystemInfoBar", bundle: .module)
+            case .showNetworkSpeed:
+                Text("showNetworkSpeed", tableName: "SystemInfoBar", bundle: .module)
+            case .showStorageCapacity:
+                Text("showStorageCapacity", tableName: "SystemInfoBar", bundle: .module)
+            case .used:
+                Text("used", tableName: "SystemInfoBar", bundle: .module)
             }
         }
     }
     
-    public enum SystemInfoSettings: String, RCLStrings {
+    public enum SystemInfoSettings: String, Identifiable, CaseIterable {
         case activate
         case activateSystemInfoBarMessage
         case activateSystemInfoBarTitle
@@ -610,30 +608,30 @@ public enum RCL {
         
         public var id: String { rawValue }
         
-        public var localizedString: String {
+        public var localizedText: Text {
             return switch self {
-                case .activate:
-                    String(localized: "activate", table: "SystemInfoSettings", bundle: .module)
-                case .activateSystemInfoBarMessage:
-                    String(localized: "activateSystemInfoBarMessage", table: "SystemInfoSettings", bundle: .module)
-                case .activateSystemInfoBarTitle:
-                    String(localized: "activateSystemInfoBarTitle", table: "SystemInfoSettings", bundle: .module)
-                case .batteryState:
-                    String(localized: "batteryState", table: "SystemInfoSettings", bundle: .module)
-                case .changedMyMind:
-                    String(localized: "changedMyMind", table: "SystemInfoSettings", bundle: .module)
-                case .experimentalFeature:
-                    String(localized: "experimentalFeature", table: "SystemInfoSettings", bundle: .module)
-                case .memoryPerformance:
-                    String(localized: "memoryPerformance", table: "SystemInfoSettings", bundle: .module)
-                case .monitoring:
-                    String(localized: "monitoring", table: "SystemInfoSettings", bundle: .module)
-                case .networkConnection:
-                    String(localized: "networkConnection", table: "SystemInfoSettings", bundle: .module)
-                case .storageCapacity:
-                    String(localized: "storageCapacity", table: "SystemInfoSettings", bundle: .module)
-                case .systemInfoBar:
-                    String(localized: "systemInfoBar", table: "SystemInfoSettings", bundle: .module)
+            case .activate:
+                Text("activate", tableName: "SystemInfoSettings", bundle: .module)
+            case .activateSystemInfoBarMessage:
+                Text("activateSystemInfoBarMessage", tableName: "SystemInfoSettings", bundle: .module)
+            case .activateSystemInfoBarTitle:
+                Text("activateSystemInfoBarTitle", tableName: "SystemInfoSettings", bundle: .module)
+            case .batteryState:
+                Text("batteryState", tableName: "SystemInfoSettings", bundle: .module)
+            case .changedMyMind:
+                Text("changedMyMind", tableName: "SystemInfoSettings", bundle: .module)
+            case .experimentalFeature:
+                Text("experimentalFeature", tableName: "SystemInfoSettings", bundle: .module)
+            case .memoryPerformance:
+                Text("memoryPerformance", tableName: "SystemInfoSettings", bundle: .module)
+            case .monitoring:
+                Text("monitoring", tableName: "SystemInfoSettings", bundle: .module)
+            case .networkConnection:
+                Text("networkConnection", tableName: "SystemInfoSettings", bundle: .module)
+            case .storageCapacity:
+                Text("storageCapacity", tableName: "SystemInfoSettings", bundle: .module)
+            case .systemInfoBar:
+                Text("systemInfoBar", tableName: "SystemInfoSettings", bundle: .module)
             }
         }
     }

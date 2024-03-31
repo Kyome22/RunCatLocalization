@@ -55,30 +55,26 @@ struct RCLStrings: ParsableCommand {
         } else {
             text = xcstringsItems
                 .map { xcstrings -> String in
-                    let keys = xcstrings.strings
-                        .map {
-                            $0.replacingOccurrences(of: ".", with: "_")
-                                .replacingOccurrences(of: ":", with: "")
-                        }
+                    let keys = xcstrings.strings.sorted()
                     var text = keys
                         .map { key -> String in
                             """
                             case .\(key):
-                                String(localized: "\(key)", table: "\(xcstrings.category)", bundle: .module)
+                                Text("\(key)", tableName: "\(xcstrings.category)", bundle: .module)
                             """
                         }
                         .joined(separator: "\n")
 
                     text = """
                     return switch self {
-                    \(text.nest())
+                    \(text)
                     }
                     """
 
                     text = """
                     public var id: String { rawValue }
 
-                    public var localizedString: String {
+                    public var localizedText: Text {
                     \(text.nest())
                     }
                     """
@@ -94,7 +90,7 @@ struct RCLStrings: ParsableCommand {
                     """
 
                     text = """
-                    public enum \(xcstrings.category): String, RCLStrings {
+                    public enum \(xcstrings.category): String, Identifiable, CaseIterable {
                     \(text.nest())
                     }
                     """
@@ -104,9 +100,7 @@ struct RCLStrings: ParsableCommand {
                 .joined(separator: "\n\n")
 
             text = """
-                public protocol RCLStrings: Hashable, Identifiable, CaseIterable {
-                    var localizedString: String { get }
-                }
+                import SwiftUI
 
                 public enum RCL {
                 \(text.nest())

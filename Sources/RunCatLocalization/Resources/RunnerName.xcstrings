@@ -2,9 +2,6 @@
   "sourceLanguage" : "en",
   "strings" : {
     "b_cat" : {
-
-    },
-    "b.cat" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -73,9 +70,6 @@
       }
     },
     "c_cat" : {
-
-    },
-    "c.cat" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -110,21 +104,6 @@
       }
     },
     "cat_cluster_metal" : {
-
-    },
-    "cat_flash" : {
-
-    },
-    "cat_gaming" : {
-
-    },
-    "cat_golden" : {
-
-    },
-    "cat_nyan_mock" : {
-
-    },
-    "cat.cluster.metal" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -141,7 +120,7 @@
         }
       }
     },
-    "cat.flash" : {
+    "cat_flash" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -158,7 +137,7 @@
         }
       }
     },
-    "cat.gaming" : {
+    "cat_gaming" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -175,7 +154,7 @@
         }
       }
     },
-    "cat.golden" : {
+    "cat_golden" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -192,7 +171,7 @@
         }
       }
     },
-    "cat.nyan.mock" : {
+    "cat_nyan_mock" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -261,9 +240,6 @@
       }
     },
     "chime_wind" : {
-
-    },
-    "chime.wind" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -332,9 +308,6 @@
       }
     },
     "corgi_welsh" : {
-
-    },
-    "corgi.welsh" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -369,9 +342,6 @@
       }
     },
     "curve_sine" : {
-
-    },
-    "curve.sine" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -491,9 +461,6 @@
       }
     },
     "drink_tapioca" : {
-
-    },
-    "drink.tapioca" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -528,9 +495,6 @@
       }
     },
     "duck_rubber" : {
-
-    },
-    "duck.rubber" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -769,9 +733,6 @@
       }
     },
     "lantern_o_jack" : {
-
-    },
-    "lantern.o.jack" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -789,9 +750,6 @@
       }
     },
     "locomotive_steam" : {
-
-    },
-    "locomotive.steam" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -809,9 +767,6 @@
       }
     },
     "made_self" : {
-
-    },
-    "made.self" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -863,9 +818,6 @@
       }
     },
     "neko_maneki" : {
-
-    },
-    "neko.maneki" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -951,9 +903,6 @@
       }
     },
     "parrot_party" : {
-
-    },
-    "parrot.party" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -1022,9 +971,6 @@
       }
     },
     "people_party" : {
-
-    },
-    "people.party" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -1144,9 +1090,6 @@
       }
     },
     "runners_all" : {
-
-    },
-    "runners.all" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -1198,9 +1141,6 @@
       }
     },
     "sleigh_reindeer" : {
-
-    },
-    "sleigh.reindeer" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -1303,9 +1243,6 @@
       }
     },
     "sushi_rotating" : {
-
-    },
-    "sushi.rotating" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -1323,9 +1260,6 @@
       }
     },
     "tail_cat" : {
-
-    },
-    "tail.cat" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -1394,12 +1328,6 @@
       }
     },
     "up_push" : {
-
-    },
-    "up_sit" : {
-
-    },
-    "up.push" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -1416,7 +1344,7 @@
         }
       }
     },
-    "up.sit" : {
+    "up_sit" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -1451,9 +1379,6 @@
       }
     },
     "wheel_hamster" : {
-
-    },
-    "wheel.hamster" : {
       "extractionState" : "manual",
       "localizations" : {
         "en" : {
@@ -1471,5 +1396,5 @@
       }
     }
   },
-  "version" : "1.0"
+  "version" : "1_0"
 }

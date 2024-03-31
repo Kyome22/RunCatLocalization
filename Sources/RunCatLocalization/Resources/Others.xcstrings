@@ -50,7 +50,6 @@
       }
     },
     "mailEnvironment" : {
-      "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -147,7 +146,6 @@
       }
     },
     "queryLang" : {
-      "extractionState" : "manual",
       "localizations" : {
         "en" : {
           "stringUnit" : {

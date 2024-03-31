@@ -6,6 +6,7 @@
  
 */
 
+import SwiftUI
 import RunCatLocalization
 
 enum Category: String, Identifiable, CaseIterable {
@@ -20,29 +21,31 @@ enum Category: String, Identifiable, CaseIterable {
 
     var id: String { rawValue }
 
-    var title: String {
+    var title: LocalizedStringKey {
         return switch self {
-        case .dashboard: String(localized: "dashboard")
-        case .systemInfoBar: String(localized: "systemInfoBar")
-        case .runnerName: String(localized: "runnerName")
-        case .runnersStore: String(localized: "runnersStore")
-        case .selfMadeRunners: String(localized: "selfMadeRunners")
-        case .generalSettings: String(localized: "generalSettings")
-        case .systemInfoSettings: String(localized: "systemInfoSettings")
-        case .others: String(localized: "others")
+        case .dashboard: LocalizedStringKey("dashboard")
+        case .systemInfoBar: LocalizedStringKey("systemInfoBar")
+        case .runnerName: LocalizedStringKey("runnerName")
+        case .runnersStore: LocalizedStringKey("runnersStore")
+        case .selfMadeRunners: LocalizedStringKey("selfMadeRunners")
+        case .generalSettings: LocalizedStringKey("generalSettings")
+        case .systemInfoSettings: LocalizedStringKey("systemInfoSettings")
+        case .others: LocalizedStringKey("others")
         }
     }
 
-    var strings: [any RCLStrings] {
-        return switch self {
-        case .dashboard: RCL.Dashboard.allCases
-        case .systemInfoBar: RCL.SystemInfoBar.allCases
-        case .runnerName: RCL.RunnerName.allCases
-        case .runnersStore: RCL.RunnersStore.allCases
-        case .selfMadeRunners: RCL.SelfMadeRunners.allCases
-        case .generalSettings: RCL.GeneralSettings.allCases
-        case .systemInfoSettings: RCL.SystemInfoSettings.allCases
-        case .others: RCL.Others.allCases
+    var view: some View {
+        Group {
+            switch self {
+            case .dashboard: DashboardView()
+            case .systemInfoBar: SystemInfoBarView()
+            case .runnerName: RunnerNameView()
+            case .runnersStore: RunnersStoreView()
+            case .selfMadeRunners: SelfMadeRunnersView()
+            case .generalSettings:GeneralSettingsView()
+            case .systemInfoSettings: SystemInfoSettingsView()
+            case .others: OthersView()
+            }
         }
     }
 }

@@ -2,10 +2,6 @@
   "sourceLanguage" : "en",
   "strings" : {
     "color" : {
-
-    },
-    "color:" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -54,10 +50,6 @@
       }
     },
     "frames" : {
-
-    },
-    "frames:" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -90,10 +82,6 @@
       }
     },
     "preconditions" : {
-
-    },
-    "preconditions:" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -110,10 +98,6 @@
       }
     },
     "preview" : {
-
-    },
-    "preview:" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -146,10 +130,6 @@
       }
     },
     "registeredRunners" : {
-
-    },
-    "registeredRunners:" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -182,10 +162,6 @@
       }
     },
     "runnerName" : {
-
-    },
-    "runnerName:" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
