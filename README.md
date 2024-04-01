@@ -23,11 +23,11 @@ Build & Run StringsChecker project.
 1. Add Locale to StringsChecker Target  
    <img src="Screenshots/add-locale-to-target.png" width="500px" />
 2. Edit StringsChecker/Language.swift  
-   ```swift
+   ```diff swift
    enum Language: String, Identifiable, CaseIterable {
        case english = "en"
        case japanese = "ja"
-   +   case newLanguage = "xx"
+   +   case newLanguage = "new language code"
    
        var id: String { rawValue }
    
