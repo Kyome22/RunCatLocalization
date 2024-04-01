@@ -17,38 +17,6 @@
         }
       }
     },
-    "helpFAQ" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Frequently Asked Questions"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "よくある質問"
-          }
-        }
-      }
-    },
-    "helpHowToRegister" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "How to register self-made runners"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "自作ランナー登録方法"
-          }
-        }
-      }
-    },
     "mailEnvironment" : {
       "localizations" : {
         "en" : {

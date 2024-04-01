@@ -37,14 +37,14 @@ enum Category: String, Identifiable, CaseIterable {
     func view(language: Language) -> some View {
         Group {
             switch self {
-            case .dashboard: DashboardView()
+            case .dashboard: DashboardView(language: language)
             case .systemInfoBar: SystemInfoBarView(language: language)
             case .runnerName: RunnerNameView()
             case .runnersStore: RunnersStoreView()
             case .selfMadeRunners: SelfMadeRunnersView()
-            case .generalSettings:GeneralSettingsView()
-            case .systemInfoSettings: SystemInfoSettingsView()
-            case .others: OthersView()
+            case .generalSettings: GeneralSettingsView(language: language)
+            case .systemInfoSettings: SystemInfoSettingsView(language: language)
+            case .others: OthersView(language: language)
             }
         }
     }

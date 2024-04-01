@@ -14,6 +14,8 @@ public enum RCL {
         case debugSleep
         case debugWakeUp
         case help
+        case helpFAQ
+        case helpHowToRegister
         case more
         case reportAnIssue
         case runners
@@ -50,6 +52,10 @@ public enum RCL {
                 String(localized: "debugWakeUp", table: "Dashboard", lang: lang)
             case .help:
                 String(localized: "help", table: "Dashboard", lang: lang)
+            case .helpFAQ:
+                String(localized: "helpFAQ", table: "Dashboard", lang: lang)
+            case .helpHowToRegister:
+                String(localized: "helpHowToRegister", table: "Dashboard", lang: lang)
             case .more:
                 String(localized: "more", table: "Dashboard", lang: lang)
             case .reportAnIssue:
@@ -122,8 +128,6 @@ public enum RCL {
 
     public enum Others: String, Identifiable, CaseIterable {
         case generalTab
-        case helpFAQ
-        case helpHowToRegister
         case mailEnvironment
         case mailExpectedResult
         case mailIssueReport
@@ -140,10 +144,6 @@ public enum RCL {
             return switch self {
             case .generalTab:
                 String(localized: "generalTab", table: "Others", lang: lang)
-            case .helpFAQ:
-                String(localized: "helpFAQ", table: "Others", lang: lang)
-            case .helpHowToRegister:
-                String(localized: "helpHowToRegister", table: "Others", lang: lang)
             case .mailEnvironment:
                 String(localized: "mailEnvironment", table: "Others", lang: lang)
             case .mailExpectedResult:

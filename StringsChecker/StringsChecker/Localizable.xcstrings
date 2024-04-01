@@ -1,6 +1,9 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "about" : {
+
+    },
     "dashboard" : {
       "localizations" : {
         "en" : {
@@ -32,6 +35,9 @@
           }
         }
       }
+    },
+    "mail" : {
+
     },
     "others" : {
       "localizations" : {
@@ -96,6 +102,9 @@
           }
         }
       }
+    },
+    "settingsTab" : {
+
     },
     "systemInfoBar" : {
       "localizations" : {
