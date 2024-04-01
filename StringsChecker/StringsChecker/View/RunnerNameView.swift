@@ -45,7 +45,7 @@ struct RunnerNameView: View {
             Label {
                 Text(runnerType.name.string(lang: language.id))
             } icon: {
-                Image(systemName: "cat.fill")
+                Image(runnerType.id)
                     .renderingMode(isTemplate ? .template : .original)
                     .resizable()
             }

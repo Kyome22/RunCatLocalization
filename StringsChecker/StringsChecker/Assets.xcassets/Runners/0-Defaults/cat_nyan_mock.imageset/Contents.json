@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "mock-nyan-cat-page-0.png",
+      "idiom" : "mac"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

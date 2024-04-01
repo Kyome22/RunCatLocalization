@@ -103,8 +103,4 @@ enum RunnerType: String, Identifiable {
     var name: RCL.RunnerName {
         RCL.RunnerName(rawValue: rawValue)!
     }
-
-    var imageTag: String {
-        rawValue.components(separatedBy: "_").reversed().joined(separator: "-")
-    }
 }
