@@ -34,11 +34,11 @@ enum Category: String, Identifiable, CaseIterable {
         }
     }
 
-    var view: some View {
+    func view(language: Language) -> some View {
         Group {
             switch self {
             case .dashboard: DashboardView()
-            case .systemInfoBar: SystemInfoBarView()
+            case .systemInfoBar: SystemInfoBarView(language: language)
             case .runnerName: RunnerNameView()
             case .runnersStore: RunnersStoreView()
             case .selfMadeRunners: SelfMadeRunnersView()

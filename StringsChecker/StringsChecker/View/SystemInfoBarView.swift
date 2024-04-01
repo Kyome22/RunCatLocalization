@@ -10,35 +10,37 @@ import SwiftUI
 import RunCatLocalization
 
 struct SystemInfoBarView: View {
+    let language: Language
+
     var body: some View {
         Form {
             Section {
                 Toggle(isOn: .constant(true)) {
-                    RCL.SystemInfoBar.showCPUUsage.localizedText
+                    Text(RCL.SystemInfoBar.showCPUUsage.string(lang: language.id))
                 }
                 valueIndicatorTypePicker
             }
             Section {
                 Toggle(isOn: .constant(true)) {
-                    RCL.SystemInfoBar.showMemoryPerformance.localizedText
+                    Text(RCL.SystemInfoBar.showMemoryPerformance.string(lang: language.id))
                 }
                 valueIndicatorTypePicker
             }
             Section {
                 Toggle(isOn: .constant(true)) {
-                    RCL.SystemInfoBar.showStorageCapacity.localizedText
+                    Text(RCL.SystemInfoBar.showStorageCapacity.string(lang: language.id))
                 }
                 storageIndicatorTypePicker
             }
             Section {
                 Toggle(isOn: .constant(true)) {
-                    RCL.SystemInfoBar.showBatteryState.localizedText
+                    Text(RCL.SystemInfoBar.showBatteryState.string(lang: language.id))
                 }
                 batteryIndicatorTypePicker
             }
             Section {
                 Toggle(isOn: .constant(true)) {
-                    RCL.SystemInfoBar.showNetworkSpeed.localizedText
+                    Text(RCL.SystemInfoBar.showNetworkSpeed.string(lang: language.id))
                 }
             }
         }
@@ -49,9 +51,9 @@ struct SystemInfoBarView: View {
 
     private var valueIndicatorTypePicker: some View {
         Picker(selection: .constant(0)) {
-            RCL.SystemInfoBar.percentage.localizedText.fixedSize().tag(0)
-            RCL.SystemInfoBar.barGraph.localizedText.fixedSize().tag(1)
-            RCL.SystemInfoBar.pieChart.localizedText.fixedSize().tag(2)
+            Text(RCL.SystemInfoBar.percentage.string(lang: language.id)).fixedSize().tag(0)
+            Text(RCL.SystemInfoBar.barGraph.string(lang: language.id)).fixedSize().tag(1)
+            Text(RCL.SystemInfoBar.pieChart.string(lang: language.id)).fixedSize().tag(2)
         } label: {
             EmptyView()
         }
@@ -61,9 +63,9 @@ struct SystemInfoBarView: View {
 
     private var storageIndicatorTypePicker: some View {
         Picker(selection: .constant(0)) {
-            RCL.SystemInfoBar.percentage.localizedText.fixedSize().tag(0)
-            RCL.SystemInfoBar.available.localizedText.fixedSize().tag(1)
-            RCL.SystemInfoBar.used.localizedText.fixedSize().tag(2)
+            Text(RCL.SystemInfoBar.percentage.string(lang: language.id)).fixedSize().tag(0)
+            Text(RCL.SystemInfoBar.available.string(lang: language.id)).fixedSize().tag(1)
+            Text(RCL.SystemInfoBar.used.string(lang: language.id)).fixedSize().tag(2)
         } label: {
             EmptyView()
         }
@@ -73,8 +75,8 @@ struct SystemInfoBarView: View {
 
     private var batteryIndicatorTypePicker: some View {
         Picker(selection: .constant(0)) {
-            RCL.SystemInfoBar.percentage.localizedText.fixedSize().tag(0)
-            RCL.SystemInfoBar.onlyIcon.localizedText.fixedSize().tag(1)
+            Text(RCL.SystemInfoBar.percentage.string(lang: language.id)).fixedSize().tag(0)
+            Text(RCL.SystemInfoBar.onlyIcon.string(lang: language.id)).fixedSize().tag(1)
         } label: {
             EmptyView()
         }
@@ -84,5 +86,5 @@ struct SystemInfoBarView: View {
 }
 
 #Preview {
-    SystemInfoBarView()
+    SystemInfoBarView(language: .english)
 }

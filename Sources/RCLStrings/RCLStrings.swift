@@ -60,7 +60,7 @@ struct RCLStrings: ParsableCommand {
                         .map { key -> String in
                             """
                             case .\(key):
-                                Text("\(key)", tableName: "\(xcstrings.category)", bundle: .module)
+                                String(localized: "\(key)", table: "\(xcstrings.category)", lang: lang)
                             """
                         }
                         .joined(separator: "\n")
@@ -74,7 +74,7 @@ struct RCLStrings: ParsableCommand {
                     text = """
                     public var id: String { rawValue }
 
-                    public var localizedText: Text {
+                    public func string(lang: String) -> String {
                     \(text.nest())
                     }
                     """

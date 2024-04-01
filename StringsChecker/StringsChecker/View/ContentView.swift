@@ -16,13 +16,14 @@ struct ContentView: View {
         VStack {
             TabView(selection: $category) {
                 ForEach(Category.allCases) { category in
-                    category.view
+                    category.view(language: language)
                         .tabItem {
                             Text(category.title)
                         }
                         .tag(category)
                 }
             }
+            .environment(\.locale, language.locale)
             HStack {
                 Spacer()
                 Picker(selection: $language) {
@@ -38,7 +39,6 @@ struct ContentView: View {
             }
         }
         .padding()
-        .environment(\.locale, language.locale)
     }
 }
 
