@@ -42,29 +42,36 @@ struct SystemInfoSettingsView: View {
             .formStyle(.grouped)
             .fixedSize()
 
-            VStack(spacing: 8) {
-                Text(RCL.SystemInfoSettings.activateSystemInfoBarTitle.string(lang: language.id))
-                    .font(.headline)
-                Text(RCL.SystemInfoSettings.activateSystemInfoBarMessage.string(lang: language.id))
-                    .font(.caption)
-                Button(action: {}, label: {
-                    Text(RCL.SystemInfoSettings.changedMyMind.string(lang: language.id))
-                        .frame(width: 160)
-                })
-                .buttonStyle(.borderedProminent)
-                .controlSize(.large)
-                Button(role: .cancel, action: {}, label: {
-                    Text(RCL.SystemInfoSettings.activate.string(lang: language.id))
-                        .frame(width: 160)
-                })
-                .buttonStyle(.bordered)
-                .controlSize(.large)
+            VStack {
+                Text("alert")
+                alert
             }
-            .multilineTextAlignment(.center)
-            .frame(width: 200)
-            .padding()
-            .background(Color(nsColor: NSColor.windowBackgroundColor))
         }
+    }
+
+    var alert: some View {
+        VStack(spacing: 8) {
+            Text(RCL.SystemInfoSettings.activateSystemInfoBarTitle.string(lang: language.id))
+                .font(.headline)
+            Text(RCL.SystemInfoSettings.activateSystemInfoBarMessage.string(lang: language.id))
+                .font(.caption)
+            Button(action: {}, label: {
+                Text(RCL.SystemInfoSettings.changedMyMind.string(lang: language.id))
+                    .frame(width: 160)
+            })
+            .buttonStyle(.borderedProminent)
+            .controlSize(.large)
+            Button(role: .cancel, action: {}, label: {
+                Text(RCL.SystemInfoSettings.activate.string(lang: language.id))
+                    .frame(width: 160)
+            })
+            .buttonStyle(.bordered)
+            .controlSize(.large)
+        }
+        .multilineTextAlignment(.center)
+        .frame(width: 200)
+        .padding()
+        .background(Color(nsColor: NSColor.windowBackgroundColor))
     }
 }
 

@@ -53,6 +53,7 @@ struct DashboardView: View {
         }
         .buttonStyle(.medium)
         .padding(8)
+        .background(Color(nsColor: NSColor.windowBackgroundColor))
         .fixedSize()
     }
 
@@ -122,6 +123,7 @@ struct DashboardView: View {
             content()
         }
         .padding(.vertical, 8)
+        .background(Color(nsColor: NSColor.windowBackgroundColor))
     }
 }
 

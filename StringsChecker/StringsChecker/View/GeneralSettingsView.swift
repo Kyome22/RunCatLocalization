@@ -61,28 +61,35 @@ struct GeneralSettingsView: View {
             .fixedSize()
 
             VStack {
-                Text(RCL.GeneralSettings.stopRunnerTitle.string(lang: language.id))
-                    .font(.headline)
-                Text(RCL.GeneralSettings.stopRunnerMessage.string(lang: language.id))
-                    .font(.caption)
-                Button(action: {}, label: {
-                    Text(RCL.GeneralSettings.changedMyMind.string(lang: language.id))
-                        .frame(width: 160)
-                })
-                .buttonStyle(.borderedProminent)
-                .controlSize(.large)
-                Button(role: .cancel, action: {}, label: {
-                    Text(RCL.GeneralSettings.stop.string(lang: language.id))
-                        .frame(width: 160)
-                })
-                .buttonStyle(.bordered)
-                .controlSize(.large)
+                Text("alert")
+                alert
             }
-            .multilineTextAlignment(.center)
-            .frame(width: 200)
-            .padding()
-            .background(Color(nsColor: NSColor.windowBackgroundColor))
         }
+    }
+
+    var alert: some View {
+        VStack {
+            Text(RCL.GeneralSettings.stopRunnerTitle.string(lang: language.id))
+                .font(.headline)
+            Text(RCL.GeneralSettings.stopRunnerMessage.string(lang: language.id))
+                .font(.caption)
+            Button(action: {}, label: {
+                Text(RCL.GeneralSettings.changedMyMind.string(lang: language.id))
+                    .frame(width: 160)
+            })
+            .buttonStyle(.borderedProminent)
+            .controlSize(.large)
+            Button(role: .cancel, action: {}, label: {
+                Text(RCL.GeneralSettings.stop.string(lang: language.id))
+                    .frame(width: 160)
+            })
+            .buttonStyle(.bordered)
+            .controlSize(.large)
+        }
+        .multilineTextAlignment(.center)
+        .frame(width: 200)
+        .padding()
+        .background(Color(nsColor: NSColor.windowBackgroundColor))
     }
 }
 

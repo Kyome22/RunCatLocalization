@@ -30,6 +30,8 @@
 		1C84744D2BBAA93400770E0F /* View+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C84744C2BBAA93400770E0F /* View+Extension.swift */; };
 		1C8474502BBAADCF00770E0F /* RunnerType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C84744F2BBAADCF00770E0F /* RunnerType.swift */; };
 		1C8474522BBAAEF200770E0F /* RunnerCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474512BBAAEF200770E0F /* RunnerCategory.swift */; };
+		1C8474562BBADD7F00770E0F /* StockCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474552BBADD7F00770E0F /* StockCategory.swift */; };
+		1C8474582BBAE0C800770E0F /* SegmentedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474572BBAE0C800770E0F /* SegmentedButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +60,8 @@
 		1C84744C2BBAA93400770E0F /* View+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extension.swift"; sourceTree = "<group>"; };
 		1C84744F2BBAADCF00770E0F /* RunnerType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunnerType.swift; sourceTree = "<group>"; };
 		1C8474512BBAAEF200770E0F /* RunnerCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RunnerCategory.swift; sourceTree = "<group>"; };
+		1C8474552BBADD7F00770E0F /* StockCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StockCategory.swift; sourceTree = "<group>"; };
+		1C8474572BBAE0C800770E0F /* SegmentedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -133,6 +137,7 @@
 				1C84743A2BB9445400770E0F /* SelfMadeRunnersView.swift */,
 				1C84743C2BB9447500770E0F /* SystemInfoBarView.swift */,
 				1C84743E2BB9448C00770E0F /* SystemInfoSettingsView.swift */,
+				1C8474572BBAE0C800770E0F /* SegmentedButton.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -155,6 +160,7 @@
 				1C8474412BB9A38A00770E0F /* Language.swift */,
 				1C84744F2BBAADCF00770E0F /* RunnerType.swift */,
 				1C8474512BBAAEF200770E0F /* RunnerCategory.swift */,
+				1C8474552BBADD7F00770E0F /* StockCategory.swift */,
 			);
 			path = Entity;
 			sourceTree = "<group>";
@@ -238,6 +244,7 @@
 				1C8474502BBAADCF00770E0F /* RunnerType.swift in Sources */,
 				1C8474332BB943FF00770E0F /* GeneralSettingsView.swift in Sources */,
 				1C84743B2BB9445400770E0F /* SelfMadeRunnersView.swift in Sources */,
+				1C8474562BBADD7F00770E0F /* StockCategory.swift in Sources */,
 				1C84744D2BBAA93400770E0F /* View+Extension.swift in Sources */,
 				1C84743D2BB9447500770E0F /* SystemInfoBarView.swift in Sources */,
 				1C8474312BB943F200770E0F /* DashboardView.swift in Sources */,
@@ -248,6 +255,7 @@
 				1C8474392BB9442000770E0F /* RunnersStoreView.swift in Sources */,
 				1C84744B2BBAA53900770E0F /* RunnerButtonStyle.swift in Sources */,
 				1C8474422BB9A38A00770E0F /* Language.swift in Sources */,
+				1C8474582BBAE0C800770E0F /* SegmentedButton.swift in Sources */,
 				1C84743F2BB9448C00770E0F /* SystemInfoSettingsView.swift in Sources */,
 				1C8474492BBAA50600770E0F /* MaterialCellStyle.swift in Sources */,
 				1C8474452BBAA49100770E0F /* MediumButtonStyle.swift in Sources */,

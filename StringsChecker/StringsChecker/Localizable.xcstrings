@@ -17,6 +17,22 @@
         }
       }
     },
+    "alert" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alert"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アラート"
+          }
+        }
+      }
+    },
     "dashboard" : {
       "localizations" : {
         "en" : {
