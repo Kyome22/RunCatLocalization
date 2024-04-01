@@ -2,7 +2,20 @@
   "sourceLanguage" : "en",
   "strings" : {
     "about" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "About"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリについて"
+          }
+        }
+      }
     },
     "dashboard" : {
       "localizations" : {
@@ -37,7 +50,20 @@
       }
     },
     "mail" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mail"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "メール"
+          }
+        }
+      }
     },
     "others" : {
       "localizations" : {
@@ -104,7 +130,20 @@
       }
     },
     "settingsTab" : {
-
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Settings Tab"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定のタブ"
+          }
+        }
+      }
     },
     "systemInfoBar" : {
       "localizations" : {

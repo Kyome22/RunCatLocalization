@@ -39,7 +39,7 @@ enum Category: String, Identifiable, CaseIterable {
             switch self {
             case .dashboard: DashboardView(language: language)
             case .systemInfoBar: SystemInfoBarView(language: language)
-            case .runnerName: RunnerNameView()
+            case .runnerName: RunnerNameView(language: language)
             case .runnersStore: RunnersStoreView()
             case .selfMadeRunners: SelfMadeRunnersView()
             case .generalSettings: GeneralSettingsView(language: language)
