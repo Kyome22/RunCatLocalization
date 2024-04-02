@@ -18,6 +18,8 @@ $ open StringsChecker/StringsChecker.xcodeproj
 
 Build & Run StringsChecker project.
 
+<img src="Screenshots/strings-cheker.png" width="500px" />
+
 ## How to Contribute
 
 1. Add Locale to StringsChecker Target  
