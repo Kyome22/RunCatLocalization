@@ -175,7 +175,6 @@ public enum RCL {
         case cat
         case cat_cluster_metal
         case cat_flash
-        case cat_gaming
         case cat_golden
         case cat_nyan_mock
         case chameleon
@@ -220,7 +219,6 @@ public enum RCL {
         case otter
         case owl
         case parrot
-        case parrot_party
         case pendulum
         case penguin
         case penguin2
@@ -270,8 +268,6 @@ public enum RCL {
                 String(localized: "cat_cluster_metal", table: "RunnerName", lang: lang)
             case .cat_flash:
                 String(localized: "cat_flash", table: "RunnerName", lang: lang)
-            case .cat_gaming:
-                String(localized: "cat_gaming", table: "RunnerName", lang: lang)
             case .cat_golden:
                 String(localized: "cat_golden", table: "RunnerName", lang: lang)
             case .cat_nyan_mock:
@@ -360,8 +356,6 @@ public enum RCL {
                 String(localized: "owl", table: "RunnerName", lang: lang)
             case .parrot:
                 String(localized: "parrot", table: "RunnerName", lang: lang)
-            case .parrot_party:
-                String(localized: "parrot_party", table: "RunnerName", lang: lang)
             case .pendulum:
                 String(localized: "pendulum", table: "RunnerName", lang: lang)
             case .penguin:
