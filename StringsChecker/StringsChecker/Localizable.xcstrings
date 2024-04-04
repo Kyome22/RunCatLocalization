@@ -14,6 +14,12 @@
             "state" : "translated",
             "value" : "アプリについて"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 앱에 대하여"
+          }
         }
       }
     },
@@ -29,6 +35,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "アラート"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알림"
           }
         }
       }
@@ -46,6 +58,12 @@
             "state" : "translated",
             "value" : "ダッシュボード"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "대시보드"
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一般設定"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일반 설정"
           }
         }
       }
@@ -78,6 +102,12 @@
             "state" : "translated",
             "value" : "メール"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메일"
+          }
         }
       }
     },
@@ -93,6 +123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "その他"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그 외"
           }
         }
       }
@@ -110,6 +146,12 @@
             "state" : "translated",
             "value" : "ランナー名"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "러너 이름"
+          }
         }
       }
     },
@@ -125,6 +167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ランナーストア"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "러너 스토어"
           }
         }
       }
@@ -142,6 +190,12 @@
             "state" : "translated",
             "value" : "自作ランナー"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커스텀 러너"
+          }
         }
       }
     },
@@ -157,6 +211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "設定のタブ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정 탭"
           }
         }
       }
@@ -174,6 +234,12 @@
             "state" : "translated",
             "value" : "システム情報バー"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템 정보"
+          }
         }
       }
     },
@@ -189,6 +255,28 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "システム情報設定"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템 정보 세팅"
+          }
+        }
+      }
+    },
+    "UNKNOWN_NAME" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UNKNOWN_NAME"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "UNKNOWN_NAME"
           }
         }
       }

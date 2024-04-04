@@ -43,7 +43,11 @@ struct RunnerNameView: View {
     private func runnerButton(_ runnerType: RunnerType, _ isTemplate: Bool) -> some View {
         Button(action: {}, label: {
             Label {
-                Text(runnerType.name.string(lang: language.id))
+                if let name = runnerType.name {
+                    Text(name.string(lang: language.id))
+                } else {
+                    Text("UNKNOWN_NAME") // or some default text
+                }
             } icon: {
                 Image(runnerType.id)
                     .renderingMode(isTemplate ? .template : .original)
