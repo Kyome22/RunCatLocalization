@@ -211,6 +211,7 @@
 				en,
 				Base,
 				ja,
+				ko,
 			);
 			mainGroup = 1C84740D2BB8790100770E0F;
 			productRefGroup = 1C8474172BB8790100770E0F /* Products */;
