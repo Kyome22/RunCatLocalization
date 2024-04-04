@@ -14,6 +14,12 @@
             "state" : "translated",
             "value" : "利用可能"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "남은 용량"
+          }
         }
       }
     },
@@ -29,6 +35,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "棒グラフ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "바형 그래프"
           }
         }
       }
@@ -46,6 +58,12 @@
             "state" : "translated",
             "value" : "アイコンのみ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "아이콘만"
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "パーセンテージ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "퍼센트"
           }
         }
       }
@@ -78,6 +102,12 @@
             "state" : "translated",
             "value" : "円グラフ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원형 차트"
+          }
         }
       }
     },
@@ -93,6 +123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "バッテリー状態を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "배터리 상태 보기"
           }
         }
       }
@@ -110,6 +146,12 @@
             "state" : "translated",
             "value" : "CPU負荷を表示"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "CPU 사용량 보기"
+          }
         }
       }
     },
@@ -125,6 +167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "メモリ性能を表示"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모리 성능 보기"
           }
         }
       }
@@ -142,6 +190,12 @@
             "state" : "translated",
             "value" : "ネットワーク速度を表示"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "네트워크 속도 보기"
+          }
         }
       }
     },
@@ -158,6 +212,12 @@
             "state" : "translated",
             "value" : "ストレージ容量を表示"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장 용량 보기"
+          }
         }
       }
     },
@@ -173,6 +233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用中"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용중 용량"
           }
         }
       }

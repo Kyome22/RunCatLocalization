@@ -14,6 +14,12 @@
             "state" : "translated",
             "value" : "ネコ β"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "베타냥"
+          }
         }
       }
     },
@@ -29,6 +35,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "トリ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "새"
           }
         }
       }
@@ -46,6 +58,12 @@
             "state" : "translated",
             "value" : "焚き火"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모닥불"
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "蝶々"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "나비"
           }
         }
       }
@@ -78,6 +102,12 @@
             "state" : "translated",
             "value" : "ネコ γ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "감마냥"
+          }
         }
       }
     },
@@ -93,6 +123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ネコ α"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알파냥"
           }
         }
       }
@@ -110,6 +146,12 @@
             "state" : "translated",
             "value" : "メタルクラスタキャット"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메탈냥"
+          }
         }
       }
     },
@@ -125,6 +167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "赤い閃光猫"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "플래시냥"
           }
         }
       }
@@ -142,6 +190,12 @@
             "state" : "translated",
             "value" : "黄金のネコ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "골든냥"
+          }
         }
       }
     },
@@ -157,6 +211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nyan Catもどき"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "디스크 냥캣"
           }
         }
       }
@@ -174,6 +234,12 @@
             "state" : "translated",
             "value" : "カメレオン"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "카멜레온"
+          }
         }
       }
     },
@@ -189,6 +255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "チーター"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "치타"
           }
         }
       }
@@ -206,6 +278,12 @@
             "state" : "translated",
             "value" : "ニワトリ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "닭"
+          }
         }
       }
     },
@@ -221,6 +299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "風鈴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "풍경"
           }
         }
       }
@@ -238,6 +322,12 @@
             "state" : "translated",
             "value" : "都会"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도시"
+          }
         }
       }
     },
@@ -253,6 +343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "コーヒー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커피"
           }
         }
       }
@@ -270,6 +366,12 @@
             "state" : "translated",
             "value" : "歯車"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "톱니바퀴"
+          }
         }
       }
     },
@@ -285,6 +387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウェルシュ・コーギー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "웰시코기"
           }
         }
       }
@@ -302,6 +410,12 @@
             "state" : "translated",
             "value" : "ニュートンのゆりかご"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "뉴턴의 요람"
+          }
         }
       }
     },
@@ -317,6 +431,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "サイン波"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사인함수"
           }
         }
       }
@@ -334,6 +454,12 @@
             "state" : "translated",
             "value" : "恐竜"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공룡"
+          }
         }
       }
     },
@@ -349,6 +475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "イヌ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개"
           }
         }
       }
@@ -366,6 +498,12 @@
             "state" : "translated",
             "value" : "土下座"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도게자"
+          }
         }
       }
     },
@@ -381,6 +519,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "イルカ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "돌고래"
           }
         }
       }
@@ -398,6 +542,12 @@
             "state" : "translated",
             "value" : "ドット"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "점"
+          }
         }
       }
     },
@@ -413,6 +563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ドラゴン"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "용"
           }
         }
       }
@@ -430,6 +586,12 @@
             "state" : "translated",
             "value" : "タピオカ ドリンク"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "버블티"
+          }
         }
       }
     },
@@ -445,6 +607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "水滴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "물방울"
           }
         }
       }
@@ -462,6 +630,12 @@
             "state" : "translated",
             "value" : "お風呂のアヒル"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "러버덕"
+          }
         }
       }
     },
@@ -477,6 +651,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "地球"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "지구"
           }
         }
       }
@@ -494,6 +674,12 @@
             "state" : "translated",
             "value" : "エンジン"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "엔진"
+          }
         }
       }
     },
@@ -509,6 +695,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "えんたく"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entaku"
           }
         }
       }
@@ -526,6 +718,12 @@
             "state" : "translated",
             "value" : "工場"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "공장"
+          }
         }
       }
     },
@@ -541,6 +739,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "魚男"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "생선남"
           }
         }
       }
@@ -558,6 +762,12 @@
             "state" : "translated",
             "value" : "キツネ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "여우"
+          }
         }
       }
     },
@@ -573,6 +783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "カエル"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "개구리"
           }
         }
       }
@@ -590,6 +806,12 @@
             "state" : "translated",
             "value" : "フライパン"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "후라이팬"
+          }
         }
       }
     },
@@ -605,6 +827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "幽霊"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "유령"
           }
         }
       }
@@ -622,6 +850,12 @@
             "state" : "translated",
             "value" : "グレイハウンド"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그레이하운드"
+          }
         }
       }
     },
@@ -637,6 +871,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ハリネズミ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "고슴도치"
           }
         }
       }
@@ -654,6 +894,12 @@
             "state" : "translated",
             "value" : "早馬"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "말"
+          }
         }
       }
     },
@@ -669,6 +915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ヒト"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인간"
           }
         }
       }
@@ -686,6 +938,12 @@
             "state" : "translated",
             "value" : "ジャック・オー・ランタン"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잭 오 랜턴"
+          }
         }
       }
     },
@@ -701,6 +959,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "蒸気機関車"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "증기기관차"
           }
         }
       }
@@ -718,6 +982,12 @@
             "state" : "translated",
             "value" : "自作ランナー登録機能"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커스텀 러너"
+          }
         }
       }
     },
@@ -733,6 +1003,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "おもち"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모찌"
           }
         }
       }
@@ -750,6 +1026,12 @@
             "state" : "translated",
             "value" : "ネズミ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "쥐"
+          }
         }
       }
     },
@@ -765,6 +1047,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "招き猫"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "마네키네코"
           }
         }
       }
@@ -782,6 +1070,12 @@
             "state" : "translated",
             "value" : "タコ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문어"
+          }
         }
       }
     },
@@ -797,6 +1091,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "カワウソ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "수달"
           }
         }
       }
@@ -814,6 +1114,12 @@
             "state" : "translated",
             "value" : "フクロウ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "부엉이"
+          }
         }
       }
     },
@@ -829,6 +1135,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "例のオウム"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "앵무새"
           }
         }
       }
@@ -846,6 +1158,12 @@
             "state" : "translated",
             "value" : "振り子"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "펜듈럼"
+          }
         }
       }
     },
@@ -861,6 +1179,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ペンギン"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "펭귄"
           }
         }
       }
@@ -878,6 +1202,12 @@
             "state" : "translated",
             "value" : "ペンギン２"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "펭귄 2"
+          }
         }
       }
     },
@@ -893,6 +1223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "パリピ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "인싸 파티"
           }
         }
       }
@@ -910,6 +1246,12 @@
             "state" : "translated",
             "value" : "ブタ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "돼지"
+          }
         }
       }
     },
@@ -925,6 +1267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "パルス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "파동"
           }
         }
       }
@@ -942,6 +1290,12 @@
             "state" : "translated",
             "value" : "子犬"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "강아지"
+          }
         }
       }
     },
@@ -957,6 +1311,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウサギ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "토끼"
           }
         }
       }
@@ -974,6 +1334,12 @@
             "state" : "translated",
             "value" : "彼のリアクター"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "원자로"
+          }
         }
       }
     },
@@ -989,6 +1355,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ロケット"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "로켓"
           }
         }
       }
@@ -1006,6 +1378,12 @@
             "state" : "translated",
             "value" : "全ランナー開放"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 러너 해제"
+          }
         }
       }
     },
@@ -1021,6 +1399,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "踊るソーセージ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "소세지"
           }
         }
       }
@@ -1038,6 +1422,12 @@
             "state" : "translated",
             "value" : "ヒツジ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "양"
+          }
         }
       }
     },
@@ -1053,6 +1443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "トナカイとソリ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "루돌프와 썰매"
           }
         }
       }
@@ -1070,6 +1466,12 @@
             "state" : "translated",
             "value" : "スライム"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "슬라임"
+          }
         }
       }
     },
@@ -1085,6 +1487,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "雪だるま"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "눈사람"
           }
         }
       }
@@ -1102,6 +1510,12 @@
             "state" : "translated",
             "value" : "線香花火"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "불꽃놀이"
+          }
         }
       }
     },
@@ -1117,6 +1531,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "リス"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "다람쥐"
           }
         }
       }
@@ -1134,6 +1554,12 @@
             "state" : "translated",
             "value" : "お寿司"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "초밥"
+          }
         }
       }
     },
@@ -1149,6 +1575,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "回転寿司"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "회전초밥"
           }
         }
       }
@@ -1166,6 +1598,12 @@
             "state" : "translated",
             "value" : "猫のしっぽ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "누웠냥"
+          }
         }
       }
     },
@@ -1181,6 +1619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "テリア犬"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "테리어"
           }
         }
       }
@@ -1198,6 +1642,12 @@
             "state" : "translated",
             "value" : "力、知恵、勇気"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "힘, 지혜, 용기"
+          }
         }
       }
     },
@@ -1213,6 +1663,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ウホーイ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uhooi"
           }
         }
       }
@@ -1230,6 +1686,12 @@
             "state" : "translated",
             "value" : "腕立て伏せ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "푸쉬업"
+          }
         }
       }
     },
@@ -1245,6 +1707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "腹筋"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "싯업"
           }
         }
       }
@@ -1262,6 +1730,12 @@
             "state" : "translated",
             "value" : "クジラ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "고래"
+          }
         }
       }
     },
@@ -1277,6 +1751,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ハムスターと回し車"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "쳇바퀴"
           }
         }
       }

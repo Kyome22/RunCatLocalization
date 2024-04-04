@@ -14,6 +14,12 @@
             "state" : "translated",
             "value" : "色:"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "색상:"
+          }
         }
       }
     },
@@ -29,6 +35,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "この名前はすでに使用されています。別の名前を使用してください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미 사용중인 러너 이름입니다."
           }
         }
       }
@@ -46,6 +58,12 @@
             "state" : "translated",
             "value" : "1. フォーマット: PNG"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 파일 형식: PNG"
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "フレーム:"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프레임:"
           }
         }
       }
@@ -78,6 +102,12 @@
             "state" : "translated",
             "value" : "2. 高さ: 36px"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 높이: 36px"
+          }
         }
       }
     },
@@ -93,6 +123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "必要条件:"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "필수조건:"
           }
         }
       }
@@ -110,6 +146,12 @@
             "state" : "translated",
             "value" : "プレビュー:"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "미리보기:"
+          }
         }
       }
     },
@@ -125,6 +167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "登録"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "등록"
           }
         }
       }
@@ -142,6 +190,12 @@
             "state" : "translated",
             "value" : "登録済みのランナー:"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "등록된 러너:"
+          }
         }
       }
     },
@@ -157,6 +211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ランナー登録エラー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "등록 오류"
           }
         }
       }
@@ -174,6 +234,12 @@
             "state" : "translated",
             "value" : "ランナー名:"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "러너 이름:"
+          }
         }
       }
     },
@@ -189,6 +255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自作ランナー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커스텀 러너"
           }
         }
       }
@@ -206,6 +278,12 @@
             "state" : "translated",
             "value" : "登録するには、本機能をランナーストアで購入する必要があります。"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "등록하시려면 러너 스토어에서 커스텀 러너 기능을 구매해야 합니다."
+          }
         }
       }
     },
@@ -221,6 +299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "画像の色をそのまま使用する"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기본 색상 사용"
           }
         }
       }
@@ -238,6 +322,12 @@
             "state" : "translated",
             "value" : "読み込まれた画像は必要条件を満たしていません。"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "해당 이미지는 필수조건에 맞지 않습니다."
+          }
         }
       }
     },
@@ -254,6 +344,12 @@
             "state" : "translated",
             "value" : "フレーム数が上限に達しています。"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프레임 수가 제한 범위를 초과했습니다."
+          }
         }
       }
     },
@@ -269,6 +365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3. 幅: 10~100px"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 너비: 10~100px"
           }
         }
       }
