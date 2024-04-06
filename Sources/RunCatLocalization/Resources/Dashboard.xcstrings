@@ -40,7 +40,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "액티비티 모니터"
+            "value" : "활성 상태 보기"
           }
         }
       }
@@ -62,7 +62,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "뒤로가기"
+            "value" : "뒤로"
           }
         }
       }
@@ -458,7 +458,7 @@
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "RunCat 끝내기"
+            "value" : "RunCat 종료"
           }
         }
       }
