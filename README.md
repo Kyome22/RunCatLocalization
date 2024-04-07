@@ -12,6 +12,8 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
 ## Check Strings with GUI
 
+First, run the shell script below.
+
 ```sh
 $ sh generate-strings.sh
 $ open StringsChecker/StringsChecker.xcodeproj
@@ -23,34 +25,36 @@ Build & Run StringsChecker project.
 
 ## How to Contribute
 
-1. Add Locale to StringsChecker Target  
-   <img src="Screenshots/add-locale-to-target.png" width="500px" />
-2. Edit StringsChecker/Language.swift  
+1. Edit Sources/RunCatLocalization/RCLLanguage.swift  
    ```diff swift
-   enum Language: String, Identifiable, CaseIterable {
+   public enum RCLLanguage: String, Identifiable, CaseIterable {
        case english = "en"
        case japanese = "ja"
+       case korean = "ko"
    +   case newLanguage = "new language code"
-   
-       var id: String { rawValue }
-   
-       var locale: Locale {
+
+       public var id: String { rawValue }
+
+       public var locale: Locale {
            Locale(identifier: rawValue)
        }
-   
-       var title: String {
+
+       public var label: String {
            return switch self {
            case .english: "🇺🇸 English"
            case .japanese: "🇯🇵 日本語"
+           case .korean: "🇰🇷 한국어"
    +       case .newLanguage = "🏁 New Language"
            }
        }
    }
    ```
-3. Add Locale to xcstrings files in Sources/RunCatLocalization/Resources  
+2. Add Locale to xcstrings files in Sources/RunCatLocalization/Resources  
    <img src="Screenshots/add-locale-to-xcstrings.png" width="500px" />
-4. Edit those xcstrings files  
+3. Edit those xcstrings files  
    <img src="Screenshots/edit-xcstrings.png" width="500px" />
+4. Add Locale to StringsChecker Target  
+   <img src="Screenshots/add-locale-to-target.png" width="500px" />
 
 ## LICENSE
 

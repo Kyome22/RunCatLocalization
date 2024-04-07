@@ -10,8 +10,6 @@ import SwiftUI
 import RunCatLocalization
 
 struct OthersView: View {
-    let language: Language
-
     var body: some View {
         HStack {
             settingsTab
@@ -26,11 +24,11 @@ struct OthersView: View {
             HStack {
                 VStack {
                     Image(systemName: "gear").imageScale(.large)
-                    Text(RCL.Others.generalTab.string(lang: language.id))
+                    Text(RCL.Others.generalTab.string)
                 }
                 VStack {
                     Image(systemName: "cpu").imageScale(.large)
-                    Text(RCL.Others.systemInfoTab.string(lang: language.id))
+                    Text(RCL.Others.systemInfoTab.string)
                 }
             }
             .padding()
@@ -42,12 +40,12 @@ struct OthersView: View {
         VStack {
             Text("mail")
             VStack(alignment: .leading) {
-                Text(RCL.Others.mailIssueReport.string(lang: language.id))
-                Text(RCL.Others.mailEnvironment.string(lang: language.id))
-                Text(RCL.Others.mailWhatYouTried.string(lang: language.id))
-                Text(RCL.Others.mailShortDescription.string(lang: language.id))
-                Text(RCL.Others.mailReproduceIssue.string(lang: language.id))
-                Text(RCL.Others.mailExpectedResult.string(lang: language.id))
+                Text(RCL.Others.mailIssueReport.string)
+                Text(RCL.Others.mailEnvironment.string)
+                Text(RCL.Others.mailWhatYouTried.string)
+                Text(RCL.Others.mailShortDescription.string)
+                Text(RCL.Others.mailReproduceIssue.string)
+                Text(RCL.Others.mailExpectedResult.string)
             }
             .padding()
             .background(Color(nsColor: NSColor.windowBackgroundColor))
@@ -58,8 +56,8 @@ struct OthersView: View {
         VStack {
             Text("about")
             VStack {
-                Text(RCL.Others.support.string(lang: language.id))
-                Text(verbatim: "https://kyome.io/runcat\(RCL.Others.queryLang.string(lang: language.id))")
+                Text(RCL.Others.support.string)
+                Text(verbatim: "https://kyome.io/runcat\(RCL.Others.queryLang.string)")
             }
             .padding()
             .background(Color(nsColor: NSColor.windowBackgroundColor))
@@ -68,5 +66,5 @@ struct OthersView: View {
 }
 
 #Preview {
-    OthersView(language: .english)
+    OthersView()
 }

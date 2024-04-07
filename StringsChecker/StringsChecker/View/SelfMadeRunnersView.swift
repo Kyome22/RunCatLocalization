@@ -10,13 +10,12 @@ import SwiftUI
 import RunCatLocalization
 
 struct SelfMadeRunnersView: View {
-    let language: Language
     private let columns: [GridItem] = Array(repeating: GridItem(.flexible(), spacing: 4), count: 5)
 
     var body: some View {
         HStack {
             VStack {
-                Text(RCL.SelfMadeRunners.selfMadeRunnersTitle.string(lang: language.id))
+                Text(RCL.SelfMadeRunners.selfMadeRunnersTitle.string)
                 editor
             }
             VStack {
@@ -37,33 +36,33 @@ struct SelfMadeRunnersView: View {
             VStack {
                 Form {
                     TextField(text: .constant("")) {
-                        Text(RCL.SelfMadeRunners.runnerName.string(lang: language.id))
+                        Text(RCL.SelfMadeRunners.runnerName.string)
                     }
                     LabeledContent {
                         Toggle(isOn: .constant(false)) {
-                            Text(RCL.SelfMadeRunners.useOriginalColor.string(lang: language.id))
+                            Text(RCL.SelfMadeRunners.useOriginalColor.string)
                         }
                     } label: {
-                        Text(RCL.SelfMadeRunners.color.string(lang: language.id))
+                        Text(RCL.SelfMadeRunners.color.string)
                     }
                     LabeledContent {
                         VStack(alignment: .leading) {
-                            Text(RCL.SelfMadeRunners.formatPrecondition.string(lang: language.id))
-                            Text(RCL.SelfMadeRunners.heightPrecondition.string(lang: language.id))
-                            Text(RCL.SelfMadeRunners.widthPrecondition.string(lang: language.id))
+                            Text(RCL.SelfMadeRunners.formatPrecondition.string)
+                            Text(RCL.SelfMadeRunners.heightPrecondition.string)
+                            Text(RCL.SelfMadeRunners.widthPrecondition.string)
                         }
                     } label: {
-                        Text(RCL.SelfMadeRunners.preconditions.string(lang: language.id))
+                        Text(RCL.SelfMadeRunners.preconditions.string)
                     }
                     LabeledContent {
                         runnerFramesList
                     } label: {
-                        Text(RCL.SelfMadeRunners.frames.string(lang: language.id))
+                        Text(RCL.SelfMadeRunners.frames.string)
                     }
                     LabeledContent {
                         preview
                     } label: {
-                        Text(RCL.SelfMadeRunners.preview.string(lang: language.id))
+                        Text(RCL.SelfMadeRunners.preview.string)
                     }
                 }
                 .formStyle(.columns)
@@ -75,12 +74,12 @@ struct SelfMadeRunnersView: View {
                     })
                     .buttonStyle(.borderless)
                     .popover(isPresented: .constant(true)) {
-                        Text(RCL.SelfMadeRunners.toRegister.string(lang: language.id))
+                        Text(RCL.SelfMadeRunners.toRegister.string)
                             .frame(width: 250)
                             .padding(8)
                     }
                     Button(action: {}, label: {
-                        Text(RCL.SelfMadeRunners.register.string(lang: language.id))
+                        Text(RCL.SelfMadeRunners.register.string)
                     })
                 }
             }
@@ -92,7 +91,7 @@ struct SelfMadeRunnersView: View {
 
     var registeredRunnersList: some View {
         VStack(alignment: .leading, spacing: 8) {
-            Text(RCL.SelfMadeRunners.registeredRunners.string(lang: language.id))
+            Text(RCL.SelfMadeRunners.registeredRunners.string)
             VStack(spacing: 0) {
                 List(selection: .constant(0)) {
                     EmptyView()
@@ -153,9 +152,9 @@ struct SelfMadeRunnersView: View {
 
     func alert(message: RCL.SelfMadeRunners) -> some View {
         VStack(spacing: 8) {
-            Text(RCL.SelfMadeRunners.registerErrorTitle.string(lang: language.id))
+            Text(RCL.SelfMadeRunners.registerErrorTitle.string)
                 .font(.headline)
-            Text(message.string(lang: language.id))
+            Text(message.string)
                 .font(.caption)
             Button(action: {}, label: {
                 Text(verbatim: "OK")
@@ -172,5 +171,5 @@ struct SelfMadeRunnersView: View {
 }
 
 #Preview {
-    SelfMadeRunnersView(language: .english)
+    SelfMadeRunnersView()
 }

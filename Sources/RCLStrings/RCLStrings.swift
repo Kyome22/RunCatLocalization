@@ -16,7 +16,7 @@ struct RCLStrings: ParsableCommand {
 
     @Option(
         name: [.customShort("o"), .customLong("output-path")],
-        help: "Output path of the Strings.swift"
+        help: "Output path of the RCL.swift"
     )
     var outputPath: String
 
@@ -48,19 +48,20 @@ struct RCLStrings: ParsableCommand {
 
     private func output(_ path: String, _ xcstringsItems: [XCStrings]) throws {
         let outputURL = URL(fileURLWithPath: path)
-            .appendingPathComponent("Strings.swift")
+            .appendingPathComponent("RCL.swift")
         var text = ""
         if xcstringsItems.isEmpty {
             throw RCLSError.empty
         } else {
             text = xcstringsItems
                 .map { xcstrings -> String in
+//                    let category = xcstrings.category.lowerCamelCased()
                     let keys = xcstrings.strings.sorted()
                     var text = keys
                         .map { key -> String in
                             """
                             case .\(key):
-                                String(localized: "\(key)", table: "\(xcstrings.category)", lang: lang)
+                                String(localized: "\(key)", table: "\(xcstrings.category)")
                             """
                         }
                         .joined(separator: "\n")
@@ -74,8 +75,8 @@ struct RCLStrings: ParsableCommand {
                     text = """
                     public var id: String { rawValue }
 
-                    public func string(lang: String) -> String {
-                    \(text.nest())
+                    public var string: String {
+                    \(text.nested())
                     }
                     """
 
@@ -91,7 +92,7 @@ struct RCLStrings: ParsableCommand {
 
                     text = """
                     public enum \(xcstrings.category): String, Identifiable, CaseIterable {
-                    \(text.nest())
+                    \(text.nested())
                     }
                     """
 
@@ -99,11 +100,13 @@ struct RCLStrings: ParsableCommand {
                 }
                 .joined(separator: "\n\n")
 
+            text = "public static var language: RCLLanguage?\n\n\(text)"
+
             text = """
                 import SwiftUI
 
-                public enum RCL {
-                \(text.nest())
+                public final class RCL {
+                \(text.nested())
                 }
                 """
         }

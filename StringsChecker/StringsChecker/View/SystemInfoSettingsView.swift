@@ -10,33 +10,31 @@ import SwiftUI
 import RunCatLocalization
 
 struct SystemInfoSettingsView: View {
-    let language: Language
-
     var body: some View {
         HStack {
             Form {
                 Section {
                     Toggle(isOn: .constant(true)) {
-                        Text(RCL.SystemInfoSettings.memoryPerformance.string(lang: language.id))
+                        Text(RCL.SystemInfoSettings.memoryPerformance.string)
                     }
                     Toggle(isOn: .constant(true)) {
-                        Text(RCL.SystemInfoSettings.storageCapacity.string(lang: language.id))
+                        Text(RCL.SystemInfoSettings.storageCapacity.string)
                     }
                     Toggle(isOn: .constant(true)) {
-                        Text(RCL.SystemInfoSettings.batteryState.string(lang: language.id))
+                        Text(RCL.SystemInfoSettings.batteryState.string)
                     }
                     Toggle(isOn: .constant(true)) {
-                        Text(RCL.SystemInfoSettings.networkConnection.string(lang: language.id))
+                        Text(RCL.SystemInfoSettings.networkConnection.string)
                     }
                 } header: {
-                    Text(RCL.SystemInfoSettings.monitoring.string(lang: language.id))
+                    Text(RCL.SystemInfoSettings.monitoring.string)
                 }
                 Section {
                     Toggle(isOn: .constant(true)) {
-                        Text(RCL.SystemInfoSettings.systemInfoBar.string(lang: language.id))
+                        Text(RCL.SystemInfoSettings.systemInfoBar.string)
                     }
                 } header: {
-                    Text(RCL.SystemInfoSettings.experimentalFeature.string(lang: language.id))
+                    Text(RCL.SystemInfoSettings.experimentalFeature.string)
                 }
             }
             .formStyle(.grouped)
@@ -51,18 +49,18 @@ struct SystemInfoSettingsView: View {
 
     var alert: some View {
         VStack(spacing: 8) {
-            Text(RCL.SystemInfoSettings.activateSystemInfoBarTitle.string(lang: language.id))
+            Text(RCL.SystemInfoSettings.activateSystemInfoBarTitle.string)
                 .font(.headline)
-            Text(RCL.SystemInfoSettings.activateSystemInfoBarMessage.string(lang: language.id))
+            Text(RCL.SystemInfoSettings.activateSystemInfoBarMessage.string)
                 .font(.caption)
             Button(action: {}, label: {
-                Text(RCL.SystemInfoSettings.changedMyMind.string(lang: language.id))
+                Text(RCL.SystemInfoSettings.changedMyMind.string)
                     .frame(width: 160)
             })
             .buttonStyle(.borderedProminent)
             .controlSize(.large)
             Button(role: .cancel, action: {}, label: {
-                Text(RCL.SystemInfoSettings.activate.string(lang: language.id))
+                Text(RCL.SystemInfoSettings.activate.string)
                     .frame(width: 160)
             })
             .buttonStyle(.bordered)
@@ -76,5 +74,5 @@ struct SystemInfoSettingsView: View {
 }
 
 #Preview {
-    SystemInfoSettingsView(language: .english)
+    SystemInfoSettingsView()
 }

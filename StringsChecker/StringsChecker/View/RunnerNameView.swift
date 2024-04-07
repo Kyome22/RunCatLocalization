@@ -10,7 +10,6 @@ import SwiftUI
 import RunCatLocalization
 
 struct RunnerNameView: View {
-    let language: Language
     let categories: [RunnerCategory] = RunnerCategory.allCases
 
     var body: some View {
@@ -26,7 +25,7 @@ struct RunnerNameView: View {
 
     private func runnersList(_ category: RunnerCategory) -> some View {
         VStack(alignment: .leading, spacing: 8) {
-            Text(category.label.string(lang: language.id))
+            Text(category.label.string)
                 .font(.caption)
                 .foregroundStyle(.secondary)
             ForEach(category.runners) { runnerType in
@@ -43,7 +42,7 @@ struct RunnerNameView: View {
     private func runnerButton(_ runnerType: RunnerType, _ isTemplate: Bool) -> some View {
         Button(action: {}, label: {
             Label {
-                Text(runnerType.name?.string(lang: language.id) ?? "unknownName")
+                Text(runnerType.name?.string ?? "unknownName")
             } icon: {
                 Image(runnerType.id)
                     .renderingMode(isTemplate ? .template : .original)
@@ -56,5 +55,5 @@ struct RunnerNameView: View {
 }
 
 #Preview {
-    RunnerNameView(language: .english)
+    RunnerNameView()
 }

@@ -13,7 +13,7 @@
 		1C8474212BB8790200770E0F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1C8474202BB8790200770E0F /* Preview Assets.xcassets */; };
 		1C84742B2BB8797700770E0F /* RunCatLocalization in Frameworks */ = {isa = PBXBuildFile; productRef = 1C84742A2BB8797700770E0F /* RunCatLocalization */; };
 		1C84742D2BB87C0600770E0F /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 1C84742C2BB87C0600770E0F /* Localizable.xcstrings */; };
-		1C84742F2BB942A800770E0F /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C84742E2BB942A800770E0F /* Category.swift */; };
+		1C84742F2BB942A800770E0F /* RCLCategory+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C84742E2BB942A800770E0F /* RCLCategory+Extensions.swift */; };
 		1C8474312BB943F200770E0F /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474302BB943F200770E0F /* DashboardView.swift */; };
 		1C8474332BB943FF00770E0F /* GeneralSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474322BB943FF00770E0F /* GeneralSettingsView.swift */; };
 		1C8474352BB9440800770E0F /* OthersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474342BB9440800770E0F /* OthersView.swift */; };
@@ -22,7 +22,6 @@
 		1C84743B2BB9445400770E0F /* SelfMadeRunnersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C84743A2BB9445400770E0F /* SelfMadeRunnersView.swift */; };
 		1C84743D2BB9447500770E0F /* SystemInfoBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C84743C2BB9447500770E0F /* SystemInfoBarView.swift */; };
 		1C84743F2BB9448C00770E0F /* SystemInfoSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C84743E2BB9448C00770E0F /* SystemInfoSettingsView.swift */; };
-		1C8474422BB9A38A00770E0F /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474412BB9A38A00770E0F /* Language.swift */; };
 		1C8474452BBAA49100770E0F /* MediumButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474442BBAA49100770E0F /* MediumButtonStyle.swift */; };
 		1C8474472BBAA49D00770E0F /* SmallButtonStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474462BBAA49D00770E0F /* SmallButtonStyle.swift */; };
 		1C8474492BBAA50600770E0F /* MaterialCellStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1C8474482BBAA50600770E0F /* MaterialCellStyle.swift */; };
@@ -43,7 +42,7 @@
 		1C8474222BB8790200770E0F /* StringsChecker.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = StringsChecker.entitlements; sourceTree = "<group>"; };
 		1C8474282BB8796600770E0F /* RunCatLocalization */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = RunCatLocalization; path = ..; sourceTree = "<group>"; };
 		1C84742C2BB87C0600770E0F /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
-		1C84742E2BB942A800770E0F /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
+		1C84742E2BB942A800770E0F /* RCLCategory+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "RCLCategory+Extensions.swift"; sourceTree = "<group>"; };
 		1C8474302BB943F200770E0F /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
 		1C8474322BB943FF00770E0F /* GeneralSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneralSettingsView.swift; sourceTree = "<group>"; };
 		1C8474342BB9440800770E0F /* OthersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OthersView.swift; sourceTree = "<group>"; };
@@ -52,7 +51,6 @@
 		1C84743A2BB9445400770E0F /* SelfMadeRunnersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfMadeRunnersView.swift; sourceTree = "<group>"; };
 		1C84743C2BB9447500770E0F /* SystemInfoBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemInfoBarView.swift; sourceTree = "<group>"; };
 		1C84743E2BB9448C00770E0F /* SystemInfoSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SystemInfoSettingsView.swift; sourceTree = "<group>"; };
-		1C8474412BB9A38A00770E0F /* Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
 		1C8474442BBAA49100770E0F /* MediumButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediumButtonStyle.swift; sourceTree = "<group>"; };
 		1C8474462BBAA49D00770E0F /* SmallButtonStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SmallButtonStyle.swift; sourceTree = "<group>"; };
 		1C8474482BBAA50600770E0F /* MaterialCellStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MaterialCellStyle.swift; sourceTree = "<group>"; };
@@ -156,11 +154,10 @@
 		1C84744E2BBAAD9E00770E0F /* Entity */ = {
 			isa = PBXGroup;
 			children = (
-				1C84742E2BB942A800770E0F /* Category.swift */,
-				1C8474412BB9A38A00770E0F /* Language.swift */,
 				1C84744F2BBAADCF00770E0F /* RunnerType.swift */,
 				1C8474512BBAAEF200770E0F /* RunnerCategory.swift */,
 				1C8474552BBADD7F00770E0F /* StockCategory.swift */,
+				1C84742E2BB942A800770E0F /* RCLCategory+Extensions.swift */,
 			);
 			path = Entity;
 			sourceTree = "<group>";
@@ -250,12 +247,11 @@
 				1C84743D2BB9447500770E0F /* SystemInfoBarView.swift in Sources */,
 				1C8474312BB943F200770E0F /* DashboardView.swift in Sources */,
 				1C84741A2BB8790100770E0F /* StringsCheckerApp.swift in Sources */,
-				1C84742F2BB942A800770E0F /* Category.swift in Sources */,
+				1C84742F2BB942A800770E0F /* RCLCategory+Extensions.swift in Sources */,
 				1C8474372BB9441300770E0F /* RunnerNameView.swift in Sources */,
 				1C8474522BBAAEF200770E0F /* RunnerCategory.swift in Sources */,
 				1C8474392BB9442000770E0F /* RunnersStoreView.swift in Sources */,
 				1C84744B2BBAA53900770E0F /* RunnerButtonStyle.swift in Sources */,
-				1C8474422BB9A38A00770E0F /* Language.swift in Sources */,
 				1C8474582BBAE0C800770E0F /* SegmentedButton.swift in Sources */,
 				1C84743F2BB9448C00770E0F /* SystemInfoSettingsView.swift in Sources */,
 				1C8474492BBAA50600770E0F /* MaterialCellStyle.swift in Sources */,

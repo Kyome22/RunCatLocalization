@@ -9,26 +9,37 @@ import SwiftUI
 import RunCatLocalization
 
 struct ContentView: View {
-    @State var category = Category.dashboard
-    @State var language = Language.english
+    @State var category = RCLCategory.dashboard
+    @State var language = RCLLanguage.english
+
+    init() {
+        RCL.language = language
+    }
 
     var body: some View {
         VStack {
             TabView(selection: $category) {
-                ForEach(Category.allCases) { category in
-                    category.view(language: language)
+                ForEach(RCLCategory.allCases) { category in
+                    category.view
                         .tabItem {
                             Text(category.title)
                         }
                         .tag(category)
+                        .id(language.id)
                 }
             }
             .environment(\.locale, language.locale)
             HStack {
                 Spacer()
-                Picker(selection: $language) {
-                    ForEach(Language.allCases) { language in
-                        Text(verbatim: language.title)
+                Picker(selection: Binding<RCLLanguage>(
+                    get: { language },
+                    set: { language in
+                        RCL.language = language
+                        self.language = language
+                    }
+                )) {
+                    ForEach(RCLLanguage.allCases) { language in
+                        Text(verbatim: language.label)
                             .tag(language)
                     }
                 } label: {
