@@ -75,14 +75,6 @@ struct DashboardView: View {
                 text: RCL.Dashboard.terminateApp.string(language),
                 image: Image(systemName: "hand.wave")
             )
-            resizableImageButton(
-                text: RCL.Dashboard.debugSleep.string(language),
-                image: Image(systemName: "powersleep")
-            )
-            resizableImageButton(
-                text: RCL.Dashboard.debugWakeUp.string(language),
-                image: Image(systemName: "wake")
-            )
         }
         .buttonStyle(.small)
         .padding(8)

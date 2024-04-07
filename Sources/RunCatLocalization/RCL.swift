@@ -11,8 +11,6 @@ public final class RCL {
         case categorySeasonal
         case categorySelfMade
         case categorySpecial
-        case debugSleep
-        case debugWakeUp
         case help
         case helpFAQ
         case helpHowToRegister
@@ -46,10 +44,6 @@ public final class RCL {
                 String(localized: "categorySelfMade", table: "Dashboard", bundle: language.bundle)
             case .categorySpecial:
                 String(localized: "categorySpecial", table: "Dashboard", bundle: language.bundle)
-            case .debugSleep:
-                String(localized: "debugSleep", table: "Dashboard", bundle: language.bundle)
-            case .debugWakeUp:
-                String(localized: "debugWakeUp", table: "Dashboard", bundle: language.bundle)
             case .help:
                 String(localized: "help", table: "Dashboard", bundle: language.bundle)
             case .helpFAQ:
