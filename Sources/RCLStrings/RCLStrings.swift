@@ -59,8 +59,8 @@ struct RCLStrings: ParsableCommand {
                     var text = keys
                         .map { key -> String in
                             """
-                            case .\(key):
-                                String(localized: "\(key)", table: "\(xcstrings.category)", bundle: language.bundle)
+                            case .\(key.formatRemoved()):
+                                String(localized: "\(key.formatted())", table: "\(xcstrings.category)", bundle: language.bundle)
                             """
                         }
                         .joined(separator: "\n")
@@ -74,13 +74,13 @@ struct RCLStrings: ParsableCommand {
                     text = """
                     public var id: String { rawValue }
 
-                    public func string(_ language: RCLLanguage = .automatic) -> String {
+                    public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
                     \(text.nested())
                     }
                     """
 
                     let caseText = keys
-                        .map { "case \($0)" }
+                        .map { "case \($0.formatRemoved())" }
                         .joined(separator: "\n")
 
                     text = """

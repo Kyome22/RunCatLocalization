@@ -43,7 +43,7 @@ struct OthersView: View {
             Text("mail")
             VStack(alignment: .leading) {
                 Text(RCL.Others.mailIssueReport.string(language))
-                Text(RCL.Others.mailEnvironment.string(language))
+                Text(RCL.Others.mailEnvironment.string(language, "RunCat", "1.0.0", "13.0"))
                 Text(RCL.Others.mailWhatYouTried.string(language))
                 Text(RCL.Others.mailShortDescription.string(language))
                 Text(RCL.Others.mailReproduceIssue.string(language))
@@ -59,7 +59,7 @@ struct OthersView: View {
             Text("about")
             VStack {
                 Text(RCL.Others.support.string(language))
-                Text(verbatim: "https://kyome.io/runcat\(RCL.Others.queryLang.string(language))")
+                Text(verbatim: RCL.Others.queryLang.string(language, "https://kyome.io/runcat"))
             }
             .padding()
             .background(Color(nsColor: NSColor.windowBackgroundColor))

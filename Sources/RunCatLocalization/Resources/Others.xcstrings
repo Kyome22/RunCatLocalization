@@ -1,6 +1,28 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "%@queryLang" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=en"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=ja"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=ko"
+          }
+        }
+      }
+    },
     "generalTab" : {
       "localizations" : {
         "en" : {
@@ -23,24 +45,24 @@
         }
       }
     },
-    "mailEnvironment" : {
+    "mailEnvironment%@%@%@" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# Environment\n- RunCat: ver 1.0.0\n- macOS: 13.0\n"
+            "value" : "# Environment\n- %@: ver %@\n- macOS: %@\n"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 環境\n- RunCat: ver 1.0.0\n- macOS: 13.0\n"
+            "value" : "# 環境\n- %@: ver %@\n- macOS: %@\n"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 실행환경 - RunCat: ver 1.0.0 - macOS: 13.0 "
+            "value" : "# 실행환경 - %@: ver %@ - macOS: %@ "
           }
         }
       }
@@ -151,28 +173,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 아래의 내용을 확인해주세요 - 앱을 재실행 했습니다: 예/아니오 - 러너 스토어에서 복구를 시도했습니다: 예/아니오 "
-          }
-        }
-      }
-    },
-    "queryLang" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "?lang=en"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "?lang=ja"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "?lang=ko"
           }
         }
       }

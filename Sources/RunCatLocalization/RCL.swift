@@ -26,7 +26,7 @@ public final class RCL {
 
         public var id: String { rawValue }
 
-        public func string(_ language: RCLLanguage = .automatic) -> String {
+        public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
             return switch self {
             case .aboutApp:
                 String(localized: "aboutApp", table: "Dashboard", bundle: language.bundle)
@@ -92,7 +92,7 @@ public final class RCL {
 
         public var id: String { rawValue }
 
-        public func string(_ language: RCLLanguage = .automatic) -> String {
+        public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
             return switch self {
             case .allRunners:
                 String(localized: "allRunners", table: "GeneralSettings", bundle: language.bundle)
@@ -127,6 +127,7 @@ public final class RCL {
     }
 
     public enum Others: String, Identifiable, CaseIterable {
+        case queryLang
         case generalTab
         case mailEnvironment
         case mailExpectedResult
@@ -134,18 +135,19 @@ public final class RCL {
         case mailReproduceIssue
         case mailShortDescription
         case mailWhatYouTried
-        case queryLang
         case support
         case systemInfoTab
 
         public var id: String { rawValue }
 
-        public func string(_ language: RCLLanguage = .automatic) -> String {
+        public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
             return switch self {
+            case .queryLang:
+                String(localized: "\(items[0])queryLang", table: "Others", bundle: language.bundle)
             case .generalTab:
                 String(localized: "generalTab", table: "Others", bundle: language.bundle)
             case .mailEnvironment:
-                String(localized: "mailEnvironment", table: "Others", bundle: language.bundle)
+                String(localized: "mailEnvironment\(items[0])\(items[1])\(items[2])", table: "Others", bundle: language.bundle)
             case .mailExpectedResult:
                 String(localized: "mailExpectedResult", table: "Others", bundle: language.bundle)
             case .mailIssueReport:
@@ -156,8 +158,6 @@ public final class RCL {
                 String(localized: "mailShortDescription", table: "Others", bundle: language.bundle)
             case .mailWhatYouTried:
                 String(localized: "mailWhatYouTried", table: "Others", bundle: language.bundle)
-            case .queryLang:
-                String(localized: "queryLang", table: "Others", bundle: language.bundle)
             case .support:
                 String(localized: "support", table: "Others", bundle: language.bundle)
             case .systemInfoTab:
@@ -250,7 +250,7 @@ public final class RCL {
 
         public var id: String { rawValue }
 
-        public func string(_ language: RCLLanguage = .automatic) -> String {
+        public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
             return switch self {
             case .b_cat:
                 String(localized: "b_cat", table: "RunnerName", bundle: language.bundle)
@@ -439,7 +439,7 @@ public final class RCL {
 
         public var id: String { rawValue }
 
-        public func string(_ language: RCLLanguage = .automatic) -> String {
+        public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
             return switch self {
             case .categoryAnimal:
                 String(localized: "categoryAnimal", table: "RunnersStore", bundle: language.bundle)
@@ -504,7 +504,7 @@ public final class RCL {
 
         public var id: String { rawValue }
 
-        public func string(_ language: RCLLanguage = .automatic) -> String {
+        public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
             return switch self {
             case .color:
                 String(localized: "color", table: "SelfMadeRunners", bundle: language.bundle)
@@ -559,7 +559,7 @@ public final class RCL {
 
         public var id: String { rawValue }
 
-        public func string(_ language: RCLLanguage = .automatic) -> String {
+        public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
             return switch self {
             case .available:
                 String(localized: "available", table: "SystemInfoBar", bundle: language.bundle)
@@ -602,7 +602,7 @@ public final class RCL {
 
         public var id: String { rawValue }
 
-        public func string(_ language: RCLLanguage = .automatic) -> String {
+        public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
             return switch self {
             case .activate:
                 String(localized: "activate", table: "SystemInfoSettings", bundle: language.bundle)
