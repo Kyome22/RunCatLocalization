@@ -46,8 +46,6 @@ enum RunnerCategory: String, Identifiable, CaseIterable {
         .flashCat,
         .manekiNeko,
         .sushi,
-        .gamingCat,
-        .partyParrot,
         .uhooi,
         .entaku,
     ]

@@ -89,8 +89,6 @@ enum RunnerType: String, Identifiable {
     case flashCat = "cat_flash"
     case manekiNeko = "neko_maneki"
     case sushi = "sushi"
-    case gamingCat = "cat_gaming"
-    case partyParrot = "parrot_party"
     case uhooi = "uhooi"
     case entaku = "entaku"
     // ----All Runners------------------------

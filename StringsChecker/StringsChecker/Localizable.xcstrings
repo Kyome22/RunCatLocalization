@@ -266,6 +266,7 @@
       }
     },
     "UNKNOWN_NAME" : {
+      "extractionState" : "stale",
       "localizations" : {
         "ja" : {
           "stringUnit" : {
