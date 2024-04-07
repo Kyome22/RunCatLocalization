@@ -264,23 +264,6 @@
           }
         }
       }
-    },
-    "UNKNOWN_NAME" : {
-      "extractionState" : "stale",
-      "localizations" : {
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "UNKNOWN_NAME"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "UNKNOWN_NAME"
-          }
-        }
-      }
     }
   },
   "version" : "1.0"
