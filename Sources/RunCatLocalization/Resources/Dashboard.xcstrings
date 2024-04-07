@@ -14,6 +14,12 @@
             "state" : "translated",
             "value" : "RunCatについて"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat에 관하여"
+          }
         }
       }
     },
@@ -29,6 +35,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ｱｸﾃｨﾋﾞﾃｨﾓﾆﾀ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "활성 상태 보기"
           }
         }
       }
@@ -46,6 +58,12 @@
             "state" : "translated",
             "value" : "戻る"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "뒤로"
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "生物系ランナー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "동물 러너"
           }
         }
       }
@@ -78,6 +102,12 @@
             "state" : "translated",
             "value" : "デフォルトランナー"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기본 러너"
+          }
         }
       }
     },
@@ -93,6 +123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "非生物系ランナー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무생물 러너"
           }
         }
       }
@@ -110,6 +146,12 @@
             "state" : "translated",
             "value" : "季節のランナー"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계절한정 러너"
+          }
         }
       }
     },
@@ -125,6 +167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自作ランナー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커스텀 러너"
           }
         }
       }
@@ -142,6 +190,12 @@
             "state" : "translated",
             "value" : "特別カラー版ランナー"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "특별 컬러 러너"
+          }
         }
       }
     },
@@ -157,6 +211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "デバッグ スリープ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잠자기 디버그"
           }
         }
       }
@@ -174,6 +234,12 @@
             "state" : "translated",
             "value" : "デバッグ ウェイクアップ"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "깨우기 디버그"
+          }
         }
       }
     },
@@ -189,6 +255,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ヘルプ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "도움말"
           }
         }
       }
@@ -206,6 +278,12 @@
             "state" : "translated",
             "value" : "よくある質問"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "자주 묻는 질문"
+          }
         }
       }
     },
@@ -221,6 +299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自作ランナー登録方法"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "직접 만든 커스텀 러너를 등록하는 방법"
           }
         }
       }
@@ -238,6 +322,12 @@
             "state" : "translated",
             "value" : "その他"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "더보기"
+          }
         }
       }
     },
@@ -253,6 +343,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不具合の報告"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문제점 알리기"
           }
         }
       }
@@ -270,6 +366,12 @@
             "state" : "translated",
             "value" : "ランナー"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "러너"
+          }
         }
       }
     },
@@ -285,6 +387,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自作ランナー"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "러너 만들기"
           }
         }
       }
@@ -302,6 +410,12 @@
             "state" : "translated",
             "value" : "設定"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "설정"
+          }
         }
       }
     },
@@ -318,6 +432,12 @@
             "state" : "translated",
             "value" : "ストア"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스토어"
+          }
         }
       }
     },
@@ -333,6 +453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RunCatを終了"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat 종료"
           }
         }
       }

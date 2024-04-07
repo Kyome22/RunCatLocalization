@@ -14,6 +14,12 @@
             "state" : "translated",
             "value" : "一般"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일반"
+          }
         }
       }
     },
@@ -29,6 +35,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 環境\n- RunCat: ver 1.0.0\n- macOS: 13.0\n"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 실행환경 - RunCat: ver 1.0.0 - macOS: 13.0 "
           }
         }
       }
@@ -46,6 +58,12 @@
             "state" : "translated",
             "value" : "# 本来期待される挙動\n\n"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 기대한 결과 "
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "不具合の報告"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "문제점 알리기"
           }
         }
       }
@@ -78,6 +102,12 @@
             "state" : "translated",
             "value" : "# 不具合の再現手順（不具合が発生した際に行なっていた操作）\n\n"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 문제가 발생하기까지 조작한 순서 "
+          }
         }
       }
     },
@@ -93,6 +123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 不具合の簡単な説明\n\n"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 문제점에 대한 간단한 설명 "
           }
         }
       }
@@ -110,6 +146,12 @@
             "state" : "translated",
             "value" : "# 試したこと\n- アプリの再起動: はい/いいえ\n- ランナーストアにて購入の復元: はい/いいえ\n"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 아래의 내용을 확인해주세요 - 앱을 재실행 했습니다: 예/아니오 - 러너 스토어에서 복구를 시도했습니다: 예/아니오 "
+          }
         }
       }
     },
@@ -125,6 +167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "?lang=ja"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "?lang=ko"
           }
         }
       }
@@ -142,6 +190,12 @@
             "state" : "translated",
             "value" : "サポートページ\n"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서포트 페이지"
+          }
         }
       }
     },
@@ -157,6 +211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "システム情報"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템 정보"
           }
         }
       }

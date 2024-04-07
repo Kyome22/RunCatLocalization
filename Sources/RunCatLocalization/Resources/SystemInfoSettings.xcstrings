@@ -14,6 +14,12 @@
             "state" : "translated",
             "value" : "有効にする"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "활성화"
+          }
         }
       }
     },
@@ -29,6 +35,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "ノッチ付きのMacBookを使用している場合、メニューバー上にシステム情報バーが表示できないことや、他のメニューバー上のアイテムにアクセスできなくなることがあります。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "상단 노치가 있는 맥북을 사용중이라면, 메뉴바의 시스템 정보가 보이지 않거나, 메뉴바의 항목을 선택하지 못할 수도 있습니다."
           }
         }
       }
@@ -46,6 +58,12 @@
             "state" : "translated",
             "value" : "システム情報バーを使用する際の注意事項"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템 정보 사용 시 주의사항"
+          }
         }
       }
     },
@@ -61,6 +79,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "バッテリー状態"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "배터리 상태"
           }
         }
       }
@@ -78,6 +102,12 @@
             "state" : "translated",
             "value" : "やめておく"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "그냥 둘래요"
+          }
         }
       }
     },
@@ -93,6 +123,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "試験的機能"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "실험적 기능"
           }
         }
       }
@@ -110,6 +146,12 @@
             "state" : "translated",
             "value" : "メモリ性能"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "메모리 성능"
+          }
         }
       }
     },
@@ -125,6 +167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "モニタリング"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모니터링"
           }
         }
       }
@@ -142,6 +190,12 @@
             "state" : "translated",
             "value" : "ネットワーク接続状況"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "네트워크 연결"
+          }
         }
       }
     },
@@ -158,6 +212,12 @@
             "state" : "translated",
             "value" : "ストレージ容量"
           }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "저장 용량"
+          }
         }
       }
     },
@@ -173,6 +233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "システム情報バー（β）"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템 정보 (베타)"
           }
         }
       }

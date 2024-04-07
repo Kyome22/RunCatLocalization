@@ -100,7 +100,7 @@ enum RunnerType: String, Identifiable {
 
     var id: String { rawValue }
 
-    var name: RCL.RunnerName {
-        RCL.RunnerName(rawValue: rawValue)!
+    var name: RCL.RunnerName? {
+        RCL.RunnerName(rawValue: rawValue)
     }
 }
