@@ -10,6 +10,8 @@ import SwiftUI
 import RunCatLocalization
 
 struct DashboardView: View {
+    var language: RCLLanguage
+
     var body: some View {
         HStack {
             mainMenus
@@ -25,27 +27,27 @@ struct DashboardView: View {
     var mainMenus: some View {
         VStack(spacing: 8) {
             resizableImageButton(
-                text: RCL.Dashboard.runners.string,
+                text: RCL.Dashboard.runners.string(language),
                 image: Image(systemName: "pawprint")
             )
             resizableImageButton(
-                text: RCL.Dashboard.store.string,
+                text: RCL.Dashboard.store.string(language),
                 image: Image(systemName: "cart")
             )
             resizableImageButton(
-                text: RCL.Dashboard.selfMade.string,
+                text: RCL.Dashboard.selfMade.string(language),
                 image: Image(.selfMade)
             )
             resizableImageButton(
-                text: RCL.Dashboard.activityMonitor.string,
+                text: RCL.Dashboard.activityMonitor.string(language),
                 image: Image(systemName: "waveform.path.ecg")
             )
             resizableImageButton(
-                text: RCL.Dashboard.settings.string,
+                text: RCL.Dashboard.settings.string(language),
                 image: Image(systemName: "gear")
             )
             resizableImageButton(
-                text: RCL.Dashboard.more.string,
+                text: RCL.Dashboard.more.string(language),
                 image: Image(systemName: "ellipsis")
             )
         }
@@ -58,27 +60,27 @@ struct DashboardView: View {
     var subMenus: some View {
         VStack(alignment: .leading, spacing: 8) {
             resizableImageButton(
-                text: RCL.Dashboard.aboutApp.string,
+                text: RCL.Dashboard.aboutApp.string(language),
                 image: Image(systemName: "info")
             )
             resizableImageButton(
-                text: RCL.Dashboard.help.string,
+                text: RCL.Dashboard.help.string(language),
                 image: Image(systemName: "lightbulb")
             )
             resizableImageButton(
-                text: RCL.Dashboard.reportAnIssue.string,
+                text: RCL.Dashboard.reportAnIssue.string(language),
                 image: Image(systemName: "envelope")
             )
             resizableImageButton(
-                text: RCL.Dashboard.terminateApp.string,
+                text: RCL.Dashboard.terminateApp.string(language),
                 image: Image(systemName: "hand.wave")
             )
             resizableImageButton(
-                text: RCL.Dashboard.debugSleep.string,
+                text: RCL.Dashboard.debugSleep.string(language),
                 image: Image(systemName: "powersleep")
             )
             resizableImageButton(
-                text: RCL.Dashboard.debugWakeUp.string,
+                text: RCL.Dashboard.debugWakeUp.string(language),
                 image: Image(systemName: "wake")
             )
         }
@@ -92,11 +94,11 @@ struct DashboardView: View {
     var helpMenus: some View {
         VStack(alignment: .leading, spacing: 8) {
             resizableImageButton(
-                text: RCL.Dashboard.helpFAQ.string,
+                text: RCL.Dashboard.helpFAQ.string(language),
                 image: Image(systemName: "questionmark.bubble")
             )
             resizableImageButton(
-                text: RCL.Dashboard.helpHowToRegister.string,
+                text: RCL.Dashboard.helpHowToRegister.string(language),
                 image: Image(.helpSelfMade)
             )
         }
@@ -111,7 +113,7 @@ struct DashboardView: View {
         VStack(alignment: .leading, spacing: 8) {
             Button(action: {}, label: {
                 Label {
-                    Text(RCL.Dashboard.back.string)
+                    Text(RCL.Dashboard.back.string(language))
                 } icon: {
                     Image(systemName: "chevron.backward")
                 }
@@ -126,5 +128,5 @@ struct DashboardView: View {
 }
 
 #Preview {
-    DashboardView()
+    DashboardView(language: .english)
 }

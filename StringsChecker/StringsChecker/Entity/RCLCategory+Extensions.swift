@@ -23,17 +23,17 @@ extension RCLCategory {
         }
     }
 
-    var view: some View {
+    func view(_ language: RCLLanguage) -> some View {
         Group {
             switch self {
-            case .dashboard: DashboardView()
-            case .systemInfoBar: SystemInfoBarView()
-            case .runnerName: RunnerNameView()
-            case .runnersStore: RunnersStoreView()
-            case .selfMadeRunners: SelfMadeRunnersView()
-            case .generalSettings: GeneralSettingsView()
-            case .systemInfoSettings: SystemInfoSettingsView()
-            case .others: OthersView()
+            case .dashboard: DashboardView(language: language)
+            case .systemInfoBar: SystemInfoBarView(language: language)
+            case .runnerName: RunnerNameView(language: language)
+            case .runnersStore: RunnersStoreView(language: language)
+            case .selfMadeRunners: SelfMadeRunnersView(language: language)
+            case .generalSettings: GeneralSettingsView(language: language)
+            case .systemInfoSettings: SystemInfoSettingsView(language: language)
+            case .others: OthersView(language: language)
             }
         }
     }

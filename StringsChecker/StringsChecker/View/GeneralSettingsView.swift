@@ -10,28 +10,30 @@ import SwiftUI
 import RunCatLocalization
 
 struct GeneralSettingsView: View {
+    let language: RCLLanguage
+
     var body: some View {
         HStack {
             Form {
                 Section {
                     Toggle(isOn: .constant(true)) {
-                        Text(RCL.GeneralSettings.invertSpeed.string)
+                        Text(RCL.GeneralSettings.invertSpeed.string(language))
                     }
                     Toggle(isOn: .constant(true)) {
-                        Text(RCL.GeneralSettings.flipHorizontally.string)
+                        Text(RCL.GeneralSettings.flipHorizontally.string(language))
                     }
                     Toggle(isOn: .constant(true)) {
-                        Text(RCL.GeneralSettings.useAccentColor.string)
+                        Text(RCL.GeneralSettings.useAccentColor.string(language))
                     }
                     VStack(alignment: .leading, spacing: 8) {
                         Toggle(isOn: .constant(true)) {
-                            Text(RCL.GeneralSettings.selectAutomatically.string)
+                            Text(RCL.GeneralSettings.selectAutomatically.string(language))
                         }
                         Form {
                             Picker(selection: .constant(0)) {
-                                Text(RCL.GeneralSettings.allRunners.string)
+                                Text(RCL.GeneralSettings.allRunners.string(language))
                                     .fixedSize().tag(0)
-                                Text(RCL.GeneralSettings.onlyMonochromeRunners.string)
+                                Text(RCL.GeneralSettings.onlyMonochromeRunners.string(language))
                                     .fixedSize().tag(1)
                             } label: {
                                 EmptyView()
@@ -42,17 +44,17 @@ struct GeneralSettingsView: View {
                         .formStyle(.columns)
                     }
                     Toggle(isOn: .constant(false)) {
-                        Text(RCL.GeneralSettings.stopRunner.string)
+                        Text(RCL.GeneralSettings.stopRunner.string(language))
                     }
                 } header: {
-                    Text(RCL.GeneralSettings.runner.string)
+                    Text(RCL.GeneralSettings.runner.string(language))
                 }
                 Section {
                     Toggle(isOn: .constant(true)) {
-                        Text(RCL.GeneralSettings.launchAtLogin.string)
+                        Text(RCL.GeneralSettings.launchAtLogin.string(language))
                     }
                 } header: {
-                    Text(RCL.GeneralSettings.launch.string)
+                    Text(RCL.GeneralSettings.launch.string(language))
                 }
             }
             .formStyle(.grouped)
@@ -67,18 +69,18 @@ struct GeneralSettingsView: View {
 
     var alert: some View {
         VStack {
-            Text(RCL.GeneralSettings.stopRunnerTitle.string)
+            Text(RCL.GeneralSettings.stopRunnerTitle.string(language))
                 .font(.headline)
-            Text(RCL.GeneralSettings.stopRunnerMessage.string)
+            Text(RCL.GeneralSettings.stopRunnerMessage.string(language))
                 .font(.caption)
             Button(action: {}, label: {
-                Text(RCL.GeneralSettings.changedMyMind.string)
+                Text(RCL.GeneralSettings.changedMyMind.string(language))
                     .frame(width: 160)
             })
             .buttonStyle(.borderedProminent)
             .controlSize(.large)
             Button(role: .cancel, action: {}, label: {
-                Text(RCL.GeneralSettings.stop.string)
+                Text(RCL.GeneralSettings.stop.string(language))
                     .frame(width: 160)
             })
             .buttonStyle(.bordered)
@@ -92,5 +94,5 @@ struct GeneralSettingsView: View {
 }
 
 #Preview {
-    GeneralSettingsView()
+    GeneralSettingsView(language: .english)
 }

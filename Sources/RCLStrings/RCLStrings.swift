@@ -55,13 +55,12 @@ struct RCLStrings: ParsableCommand {
         } else {
             text = xcstringsItems
                 .map { xcstrings -> String in
-//                    let category = xcstrings.category.lowerCamelCased()
                     let keys = xcstrings.strings.sorted()
                     var text = keys
                         .map { key -> String in
                             """
                             case .\(key):
-                                String(localized: "\(key)", table: "\(xcstrings.category)")
+                                String(localized: "\(key)", table: "\(xcstrings.category)", bundle: language.bundle)
                             """
                         }
                         .joined(separator: "\n")
@@ -75,7 +74,7 @@ struct RCLStrings: ParsableCommand {
                     text = """
                     public var id: String { rawValue }
 
-                    public var string: String {
+                    public func string(_ language: RCLLanguage = .automatic) -> String {
                     \(text.nested())
                     }
                     """
@@ -99,8 +98,6 @@ struct RCLStrings: ParsableCommand {
                     return text
                 }
                 .joined(separator: "\n\n")
-
-            text = "public static var language: RCLLanguage?\n\n\(text)"
 
             text = """
                 import SwiftUI

@@ -27,26 +27,31 @@ Build & Run StringsChecker project.
 
 1. Edit Sources/RunCatLocalization/RCLLanguage.swift  
    ```diff swift
-   public enum RCLLanguage: String, Identifiable, CaseIterable {
+   public enum RCLLanguage: String, Identifiable {
+       case automatic
        case english = "en"
        case japanese = "ja"
        case korean = "ko"
    +   case newLanguage = "new language code"
 
-       public var id: String { rawValue }
-
-       public var locale: Locale {
-           Locale(identifier: rawValue)
-       }
-
+       ︙
+   
        public var label: String {
            return switch self {
+           case .automatic: ""
            case .english: "🇺🇸 English"
            case .japanese: "🇯🇵 日本語"
            case .korean: "🇰🇷 한국어"
    +       case .newLanguage = "🏁 New Language"
            }
        }
+   
+       public static let allCases: [RCLLanguage] = [
+           .english,
+           .japanese,
+           .korean,
+   +       .newLanguage
+       ]
    }
    ```
 2. Add Locale to xcstrings files in Sources/RunCatLocalization/Resources  

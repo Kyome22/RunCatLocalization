@@ -10,10 +10,12 @@ import SwiftUI
 import RunCatLocalization
 
 struct RunnersStoreView: View {
+    let language: RCLLanguage
+
     var body: some View {
         HStack {
             VStack {
-                Text(RCL.RunnersStore.runnersStoreTitle.string)
+                Text(RCL.RunnersStore.runnersStoreTitle.string(language))
                 store
             }
             VStack {
@@ -35,7 +37,7 @@ struct RunnersStoreView: View {
         VStack(alignment: .leading, spacing: 8) {
             restore
             ForEach(StockCategory.allCases) { category in
-                Text(category.label.string)
+                Text(category.label.string(language))
                     .font(.headline)
                     .padding(.top, 8)
                 stock
@@ -53,11 +55,11 @@ struct RunnersStoreView: View {
                 .renderingMode(.template)
                 .frame(width: 100, height: 36)
             HStack(alignment: .center, spacing: 8) {
-                Text(RCL.RunnersStore.restoreTitle.string)
+                Text(RCL.RunnersStore.restoreTitle.string(language))
                     .font(.title3)
                 Spacer()
                 Button(action: {}, label: {
-                    Text(RCL.RunnersStore.restore.string)
+                    Text(RCL.RunnersStore.restore.string(language))
                 })
             }
         }
@@ -79,7 +81,7 @@ struct RunnersStoreView: View {
                     Text(verbatim: "¥100")
                         .font(.body)
                     Button(action: {}, label: {
-                        Text(RCL.RunnersStore.purchase.string)
+                        Text(RCL.RunnersStore.purchase.string(language))
                     })
                 }
                 Text(verbatim: "description")
@@ -94,11 +96,11 @@ struct RunnersStoreView: View {
 
     func alert(message: RCL.RunnersStore, suggestion: RCL.RunnersStore? = nil) -> some View {
         VStack(spacing: 8) {
-            Text(RCL.RunnersStore.purchaseErrorTitle.string)
+            Text(RCL.RunnersStore.purchaseErrorTitle.string(language))
                 .font(.headline)
             VStack {
-                Text(message.string)
-                Text(suggestion?.string ?? "")
+                Text(message.string(language))
+                Text(suggestion?.string(language) ?? "")
             }
             .font(.caption)
             Button(action: {}, label: {
@@ -116,5 +118,5 @@ struct RunnersStoreView: View {
 }
 
 #Preview {
-    RunnersStoreView()
+    RunnersStoreView(language: .english)
 }
