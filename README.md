@@ -8,6 +8,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
 - English (primary)
 - Japanese
+- Korean
 
 ## Check Strings with GUI
 
