@@ -58,6 +58,11 @@ struct OthersView: View {
         VStack {
             Text("about")
             VStack {
+                Text(RCL.Others.localization.string(language))
+                    .foregroundStyle(Color.secondary)
+                Text(RCL.Others.translators.string(language))
+                    .multilineTextAlignment(.center)
+                    .padding(.bottom, 8)
                 Text(RCL.Others.support.string(language))
                 Text(verbatim: RCL.Others.queryLang.string(language, "https://kyome.io/runcat"))
             }
