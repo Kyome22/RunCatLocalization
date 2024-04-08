@@ -123,6 +123,7 @@ public final class RCL {
     public enum Others: String, Identifiable, CaseIterable {
         case queryLang
         case generalTab
+        case localization
         case mailEnvironment
         case mailExpectedResult
         case mailIssueReport
@@ -131,6 +132,7 @@ public final class RCL {
         case mailWhatYouTried
         case support
         case systemInfoTab
+        case translators
 
         public var id: String { rawValue }
 
@@ -140,6 +142,8 @@ public final class RCL {
                 String(localized: "\(items[0])queryLang", table: "Others", bundle: language.bundle)
             case .generalTab:
                 String(localized: "generalTab", table: "Others", bundle: language.bundle)
+            case .localization:
+                String(localized: "localization", table: "Others", bundle: language.bundle)
             case .mailEnvironment:
                 String(localized: "mailEnvironment\(items[0])\(items[1])\(items[2])", table: "Others", bundle: language.bundle)
             case .mailExpectedResult:
@@ -156,6 +160,8 @@ public final class RCL {
                 String(localized: "support", table: "Others", bundle: language.bundle)
             case .systemInfoTab:
                 String(localized: "systemInfoTab", table: "Others", bundle: language.bundle)
+            case .translators:
+                String(localized: "translators", table: "Others", bundle: language.bundle)
             }
         }
     }
