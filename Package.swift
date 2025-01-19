@@ -14,8 +14,12 @@ let package = Package(
     ],
     products: [
         .executable(
-            name: "strings",
-            targets: ["RCLStrings"]
+            name: "rcl-strings",
+            targets: ["rcl-strings"]
+        ),
+        .plugin(
+            name: "RCLStringsPlugin",
+            targets: ["RCLStringsPlugin"]
         ),
         .library(
             name: "RunCatLocalization",
@@ -27,16 +31,23 @@ let package = Package(
     ],
     targets: [
         .executableTarget(
-            name: "RCLStrings",
+            name: "rcl-strings",
             dependencies: [
                 .product(name: "ArgumentParser", package: "swift-argument-parser"),
             ],
+            path: "Sources/RCLStrings",
             swiftSettings: swiftSettings
+        ),
+        .plugin(
+            name: "RCLStringsPlugin",
+            capability: .buildTool(),
+            dependencies: [.target(name: "rcl-strings")]
         ),
         .target(
             name: "RunCatLocalization",
             resources: [.process("Resources")],
-            swiftSettings: swiftSettings
+            swiftSettings: swiftSettings,
+            plugins: ["RCLStringsPlugin"]
         )
     ]
 )
