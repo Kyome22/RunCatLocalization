@@ -16,7 +16,7 @@ struct RCLStrings: ParsableCommand {
 
     @Option(
         name: [.customShort("o"), .customLong("output-path")],
-        help: "Output path of the RCL.swift"
+        help: "Path of the RCL.swift"
     )
     var outputPath: String
 
@@ -51,8 +51,6 @@ struct RCLStrings: ParsableCommand {
             throw RCLSError.empty
         }
         let outputURL = URL(fileURLWithPath: path)
-            .appending(path: "RCL")
-            .appendingPathExtension("swift")
         var text = xcstringsItems
             .map { xcstrings -> String in
                 let keys = xcstrings.strings.sorted()

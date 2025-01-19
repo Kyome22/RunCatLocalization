@@ -21,7 +21,6 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 First, run the shell script below.
 
 ```sh
-$ sh generate-strings.sh
 $ open StringsChecker/StringsChecker.xcodeproj
 ```
 
