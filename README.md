@@ -10,6 +10,12 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 - Japanese
 - Korean
 
+## Requirements
+
+- Development with Xcode 16.2+
+- Written in Swift 6.0
+- Compatible with macOS 14.0+
+
 ## Check Strings with GUI
 
 First, run the shell script below.
@@ -27,7 +33,7 @@ Build & Run StringsChecker project.
 
 1. Edit Sources/RunCatLocalization/RCLLanguage.swift  
    ```diff swift
-   public enum RCLLanguage: String, Identifiable {
+   public enum RCLLanguage: String, Sendable, Identifiable {
        case automatic
        case english = "en"
        case japanese = "ja"
@@ -37,7 +43,7 @@ Build & Run StringsChecker project.
        ︙
    
        public var label: String {
-           return switch self {
+           switch self {
            case .automatic: ""
            case .english: "🇺🇸 English"
            case .japanese: "🇯🇵 日本語"
