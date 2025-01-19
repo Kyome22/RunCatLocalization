@@ -2,7 +2,7 @@ import ArgumentParser
 import Foundation
 
 struct RCLStrings: ParsableCommand {
-    static var configuration = CommandConfiguration(
+    static let configuration = CommandConfiguration(
         commandName: "strings",
         abstract: "A tool to parse xcstrings and output strings list.",
         version: "0.0.1"
@@ -47,68 +47,69 @@ struct RCLStrings: ParsableCommand {
     }
 
     private func output(_ path: String, _ xcstringsItems: [XCStrings]) throws {
-        let outputURL = URL(fileURLWithPath: path)
-            .appendingPathComponent("RCL.swift")
-        var text = ""
-        if xcstringsItems.isEmpty {
+        guard !xcstringsItems.isEmpty else {
             throw RCLSError.empty
-        } else {
-            text = xcstringsItems
-                .map { xcstrings -> String in
-                    let keys = xcstrings.strings.sorted()
-                    var text = keys
-                        .map { key -> String in
-                            """
-                            case .\(key.formatRemoved()):
-                                String(localized: "\(key.formatted())", table: "\(xcstrings.category)", bundle: language.bundle)
-                            """
-                        }
-                        .joined(separator: "\n")
-
-                    text = """
-                    return switch self {
-                    \(text)
-                    }
-                    """
-
-                    text = """
-                    public var id: String { rawValue }
-
-                    public func string(_ language: RCLLanguage = .automatic, _ items: String...) -> String {
-                    \(text.nested())
-                    }
-                    """
-
-                    let caseText = keys
-                        .map { "case \($0.formatRemoved())" }
-                        .joined(separator: "\n")
-
-                    text = """
-                    \(caseText)
-
-                    \(text)
-                    """
-
-                    text = """
-                    public enum \(xcstrings.category): String, Identifiable, CaseIterable {
-                    \(text.nested())
-                    }
-                    """
-
-                    return text
-                }
-                .joined(separator: "\n\n")
-
-            text = """
-                import SwiftUI
-
-                public final class RCL {
-                \(text.nested())
-                }
-                """
         }
+        let outputURL = URL(fileURLWithPath: path)
+            .appending(path: "RCL")
+            .appendingPathExtension("swift")
+        var text = xcstringsItems
+            .map { xcstrings -> String in
+                let keys = xcstrings.strings.sorted()
+                var text = keys
+                    .map { "case .\($0.removedFormat()): \"\($0.formatted())\"" }
+                    .joined(separator: "\n")
 
-        if FileManager.default.fileExists(atPath: outputURL.path) {
+                text = """
+                    let key: String.LocalizationValue = switch self {
+                    \(text)
+                    }
+                    return String(localized: key, table: "\(xcstrings.category)", bundle: language.bundle)
+                    """
+
+                let arguments = if let _ = keys.first(where: { $0.containsFormat() }) {
+                    "_ language: RCLLanguage = .automatic, _ items: String..."
+                } else {
+                    "_ language: RCLLanguage = .automatic"
+                }
+
+                text = """
+                    public var id: String { rawValue }
+                    
+                    public func string(\(arguments)) -> String {
+                    \(text.nested())
+                    }
+                    """
+
+                let caseText = keys
+                    .map { "case \($0.removedFormat())" }
+                    .joined(separator: "\n")
+
+                text = """
+                    \(caseText)
+                    
+                    \(text)
+                    """
+
+                text = """
+                    public enum \(xcstrings.category): String, Sendable, Identifiable, CaseIterable {
+                    \(text.nested())
+                    }
+                    """
+
+                return text
+            }
+            .joined(separator: "\n\n")
+
+        text = """
+            import SwiftUI
+            
+            public enum RCL {
+            \(text.nested())
+            }
+            """
+
+        if FileManager.default.fileExists(atPath: outputURL.absoluteURL.path()) {
             try FileManager.default.removeItem(at: outputURL)
         }
         try text.data(using: .utf8)?.write(to: outputURL)

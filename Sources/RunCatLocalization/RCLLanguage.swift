@@ -1,6 +1,6 @@
 import Foundation
 
-public enum RCLLanguage: String, Identifiable {
+public enum RCLLanguage: String, Sendable, Identifiable {
     case automatic
     case english = "en"
     case japanese = "ja"
@@ -10,12 +10,11 @@ public enum RCLLanguage: String, Identifiable {
 
     public var bundle: Bundle? {
         if self == .automatic {
-            return Bundle.module
+            Bundle.module
+        } else if let path = Bundle.module.path(forResource: rawValue, ofType: "lproj") {
+            Bundle(path: path)
         } else {
-            guard let path = Bundle.module.path(forResource: rawValue, ofType: "lproj") else {
-                return nil
-            }
-            return Bundle(path: path)
+            nil
         }
     }
 
@@ -24,7 +23,7 @@ public enum RCLLanguage: String, Identifiable {
     }
 
     public var label: String {
-        return switch self {
+        switch self {
         case .automatic: ""
         case .english: "🇺🇸 English"
         case .japanese: "🇯🇵 日本語"

@@ -1,4 +1,4 @@
-public enum RCLCategory: String, Identifiable, CaseIterable {
+public enum RCLCategory: String, Sendable, Identifiable, CaseIterable {
     case dashboard
     case systemInfoBar
     case runnerName

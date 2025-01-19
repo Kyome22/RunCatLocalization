@@ -1,6 +1,6 @@
 import Foundation
 
-struct RootCodingKey: CodingKey {
+private struct RootCodingKey: CodingKey {
     var stringValue: String
 
     init?(stringValue: String) {
@@ -28,10 +28,7 @@ struct XCStrings: Decodable {
     init(from decoder: any Decoder) throws {
         let container = try decoder.container(keyedBy: RootCodingKey.self)
         self.sourceLanguage = try container.decode(String.self, forKey: .sourceLanguage)
-        let stringsContainer = try container.nestedContainer(
-            keyedBy: RootCodingKey.self,
-            forKey: .strings
-        )
+        let stringsContainer = try container.nestedContainer(keyedBy: RootCodingKey.self, forKey: .strings)
         self.strings = stringsContainer.allKeys.map { $0.stringValue }.sorted()
         self.version = try container.decode(String.self, forKey: .version)
     }

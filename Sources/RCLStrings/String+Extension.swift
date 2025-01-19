@@ -1,5 +1,9 @@
 extension String {
-    func formatRemoved() -> String {
+    func containsFormat() -> Bool {
+        self.range(of: "%@") != nil
+    }
+
+    func removedFormat() -> String {
         self.replacingOccurrences(of: "%@", with: "")
     }
 
