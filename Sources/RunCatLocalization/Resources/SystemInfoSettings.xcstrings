@@ -24,7 +24,6 @@
       }
     },
     "activateSystemInfoBarMessage" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -47,7 +46,6 @@
       }
     },
     "activateSystemInfoBarTitle" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -70,7 +68,6 @@
       }
     },
     "batteryState" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -93,7 +90,6 @@
       }
     },
     "changedMyMind" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -116,7 +112,6 @@
       }
     },
     "experimentalFeature" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -139,7 +134,6 @@
       }
     },
     "memoryPerformance" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -162,7 +156,6 @@
       }
     },
     "monitoring" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -185,7 +178,6 @@
       }
     },
     "networkConnection" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -208,7 +200,6 @@
       }
     },
     "storageCapacity" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -231,7 +222,6 @@
       }
     },
     "systemInfoBar" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {

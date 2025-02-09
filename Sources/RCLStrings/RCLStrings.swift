@@ -55,14 +55,18 @@ struct RCLStrings: ParsableCommand {
             .map { xcstrings -> String in
                 let keys = xcstrings.strings.sorted()
                 var text = keys
-                    .map { "case .\($0.removedFormat()): \"\($0.formatted())\"" }
+                    .map {
+                        """
+                        case .\($0.removedFormat()):
+                            String(localized: \"\($0.formatted())\", table: \"\(xcstrings.category)\", bundle: language.bundle)
+                        """
+                    }
                     .joined(separator: "\n")
 
                 text = """
-                    let key: String.LocalizationValue = switch self {
+                    switch self {
                     \(text)
                     }
-                    return String(localized: key, table: "\(xcstrings.category)", bundle: language.bundle)
                     """
 
                 let arguments = if let _ = keys.first(where: { $0.containsFormat() }) {

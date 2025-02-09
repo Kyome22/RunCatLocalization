@@ -24,7 +24,6 @@
       }
     },
     "barGraph" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -47,7 +46,6 @@
       }
     },
     "onlyIcon" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -70,7 +68,6 @@
       }
     },
     "percentage" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -93,7 +90,6 @@
       }
     },
     "pieChart" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -116,7 +112,6 @@
       }
     },
     "showBatteryState" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -139,7 +134,6 @@
       }
     },
     "showCPUUsage" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -162,7 +156,6 @@
       }
     },
     "showMemoryPerformance" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -185,7 +178,6 @@
       }
     },
     "showNetworkSpeed" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -208,7 +200,6 @@
       }
     },
     "showStorageCapacity" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -231,7 +222,6 @@
       }
     },
     "used" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {

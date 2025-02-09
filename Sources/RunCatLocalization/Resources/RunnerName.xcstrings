@@ -24,7 +24,6 @@
       }
     },
     "bird" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -47,7 +46,6 @@
       }
     },
     "bonfire" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -70,7 +68,6 @@
       }
     },
     "butterfly" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -93,7 +90,6 @@
       }
     },
     "c_cat" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -116,7 +112,6 @@
       }
     },
     "cat" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -139,7 +134,6 @@
       }
     },
     "cat_cluster_metal" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -162,7 +156,6 @@
       }
     },
     "cat_flash" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -185,7 +178,6 @@
       }
     },
     "cat_golden" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -208,7 +200,6 @@
       }
     },
     "cat_nyan_mock" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -231,7 +222,6 @@
       }
     },
     "chameleon" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -254,7 +244,6 @@
       }
     },
     "cheetah" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -277,7 +266,6 @@
       }
     },
     "chicken" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -300,7 +288,6 @@
       }
     },
     "chime_wind" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -323,7 +310,6 @@
       }
     },
     "city" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -346,7 +332,6 @@
       }
     },
     "coffee" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -369,7 +354,6 @@
       }
     },
     "cogwheel" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -392,7 +376,6 @@
       }
     },
     "corgi_welsh" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -415,7 +398,6 @@
       }
     },
     "cradle" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -438,7 +420,6 @@
       }
     },
     "curve_sine" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -461,7 +442,6 @@
       }
     },
     "dinosaur" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -484,7 +464,6 @@
       }
     },
     "dog" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -507,7 +486,6 @@
       }
     },
     "dogeza" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -530,7 +508,6 @@
       }
     },
     "dolphin" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -553,7 +530,6 @@
       }
     },
     "dots" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -576,7 +552,6 @@
       }
     },
     "dragon" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -599,7 +574,6 @@
       }
     },
     "drink_tapioca" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -622,7 +596,6 @@
       }
     },
     "drop" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -645,7 +618,6 @@
       }
     },
     "duck_rubber" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -668,7 +640,6 @@
       }
     },
     "earth" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -691,7 +662,6 @@
       }
     },
     "engine" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -714,7 +684,6 @@
       }
     },
     "entaku" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -737,7 +706,6 @@
       }
     },
     "factory" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -760,7 +728,6 @@
       }
     },
     "fishman" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -783,7 +750,6 @@
       }
     },
     "fox" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -806,7 +772,6 @@
       }
     },
     "frog" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -829,7 +794,6 @@
       }
     },
     "frypan" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -852,7 +816,6 @@
       }
     },
     "ghost" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -875,7 +838,6 @@
       }
     },
     "greyhound" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -898,7 +860,6 @@
       }
     },
     "hedgehog" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -921,7 +882,6 @@
       }
     },
     "horse" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -944,7 +904,6 @@
       }
     },
     "human" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -967,7 +926,6 @@
       }
     },
     "lantern_o_jack" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -990,7 +948,6 @@
       }
     },
     "locomotive_steam" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1013,7 +970,6 @@
       }
     },
     "made_self" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1036,7 +992,6 @@
       }
     },
     "mochi" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1059,7 +1014,6 @@
       }
     },
     "mouse" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1082,7 +1036,6 @@
       }
     },
     "neko_maneki" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1105,7 +1058,6 @@
       }
     },
     "octopus" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1128,7 +1080,6 @@
       }
     },
     "otter" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1151,7 +1102,6 @@
       }
     },
     "owl" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1174,7 +1124,6 @@
       }
     },
     "parrot" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1197,7 +1146,6 @@
       }
     },
     "pendulum" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1220,7 +1168,6 @@
       }
     },
     "penguin" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1243,7 +1190,6 @@
       }
     },
     "penguin2" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1266,7 +1212,6 @@
       }
     },
     "people_party" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1289,7 +1234,6 @@
       }
     },
     "pig" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1312,7 +1256,6 @@
       }
     },
     "pulse" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1335,7 +1278,6 @@
       }
     },
     "puppy" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1358,7 +1300,6 @@
       }
     },
     "rabbit" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1381,7 +1322,6 @@
       }
     },
     "reactor" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1404,7 +1344,6 @@
       }
     },
     "rocket" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1427,7 +1366,6 @@
       }
     },
     "runners_all" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1450,7 +1388,6 @@
       }
     },
     "sausage" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1473,7 +1410,6 @@
       }
     },
     "sheep" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1496,7 +1432,6 @@
       }
     },
     "sleigh_reindeer" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1519,7 +1454,6 @@
       }
     },
     "slime" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1542,7 +1476,6 @@
       }
     },
     "snowman" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1565,7 +1498,6 @@
       }
     },
     "sparkler" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1588,7 +1520,6 @@
       }
     },
     "squirrel" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1611,7 +1542,6 @@
       }
     },
     "sushi" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1634,7 +1564,6 @@
       }
     },
     "sushi_rotating" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1657,7 +1586,6 @@
       }
     },
     "tail_cat" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1680,7 +1608,6 @@
       }
     },
     "terrier" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1703,7 +1630,6 @@
       }
     },
     "triforce" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1726,7 +1652,6 @@
       }
     },
     "uhooi" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1749,7 +1674,6 @@
       }
     },
     "up_push" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1772,7 +1696,6 @@
       }
     },
     "up_sit" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1795,7 +1718,6 @@
       }
     },
     "whale" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -1818,7 +1740,6 @@
       }
     },
     "wheel_hamster" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {

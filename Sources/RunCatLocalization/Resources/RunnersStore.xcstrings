@@ -24,7 +24,6 @@
       }
     },
     "categoryInanimate" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -47,7 +46,6 @@
       }
     },
     "categoryRecommended" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -70,7 +68,6 @@
       }
     },
     "categorySeasonal" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -93,7 +90,6 @@
       }
     },
     "categorySpecial" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -116,7 +112,6 @@
       }
     },
     "failedVerification" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -139,7 +134,6 @@
       }
     },
     "pending" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -162,7 +156,6 @@
       }
     },
     "productNotFound" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -185,7 +178,6 @@
       }
     },
     "productNotFoundSuggestion" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -208,7 +200,6 @@
       }
     },
     "productUnavailable" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -231,7 +222,6 @@
       }
     },
     "purchase" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -254,7 +244,6 @@
       }
     },
     "purchaseErrorTitle" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -277,7 +266,6 @@
       }
     },
     "purchaseNotAllowed" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -300,7 +288,6 @@
       }
     },
     "purchaseNotAllowedSuggestion" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -323,7 +310,6 @@
       }
     },
     "restore" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -346,7 +332,6 @@
       }
     },
     "restoreTitle" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -369,7 +354,6 @@
       }
     },
     "runnersStoreTitle" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -392,7 +376,6 @@
       }
     },
     "unknownError" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -415,7 +398,6 @@
       }
     },
     "userCancelled" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {

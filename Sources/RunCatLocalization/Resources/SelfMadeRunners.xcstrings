@@ -24,7 +24,6 @@
       }
     },
     "conflictName" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -47,7 +46,6 @@
       }
     },
     "formatPrecondition" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -70,7 +68,6 @@
       }
     },
     "frames" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -93,7 +90,6 @@
       }
     },
     "heightPrecondition" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -116,7 +112,6 @@
       }
     },
     "preconditions" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -139,7 +134,6 @@
       }
     },
     "preview" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -162,7 +156,6 @@
       }
     },
     "register" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -185,7 +178,6 @@
       }
     },
     "registeredRunners" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -208,7 +200,6 @@
       }
     },
     "registerErrorTitle" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -231,7 +222,6 @@
       }
     },
     "runnerName" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -254,7 +244,6 @@
       }
     },
     "selfMadeRunnersTitle" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -277,7 +266,6 @@
       }
     },
     "toRegister" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -300,7 +288,6 @@
       }
     },
     "useOriginalColor" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -323,7 +310,6 @@
       }
     },
     "violatePrecondition" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -346,7 +332,6 @@
       }
     },
     "violateUpperLimit" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
@@ -369,7 +354,6 @@
       }
     },
     "widthPrecondition" : {
-      "extractionState" : "stale",
       "localizations" : {
         "en" : {
           "stringUnit" : {
