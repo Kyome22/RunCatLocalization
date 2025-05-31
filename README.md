@@ -30,16 +30,6 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
        ︙
 
-       public var label: String {
-           switch self {
-           case .automatic: ""
-           case .english: "🇺🇸 English"
-           case .japanese: "🇯🇵 日本語"
-           case .korean: "🇰🇷 한국어"
-   +       case .newLanguage = "🏁 New Language"
-           }
-       }
-
        public static let allCases: [RCLLanguage] = [
            .english,
            .japanese,

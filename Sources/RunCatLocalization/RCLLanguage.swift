@@ -22,15 +22,6 @@ public enum RCLLanguage: String, Sendable, Identifiable {
         Locale(identifier: rawValue)
     }
 
-    public var label: String {
-        switch self {
-        case .automatic: ""
-        case .english: "🇺🇸 English"
-        case .japanese: "🇯🇵 日本語"
-        case .korean: "🇰🇷 한국어"
-        }
-    }
-
     public static let allCases: [RCLLanguage] = [
         .english,
         .japanese,
