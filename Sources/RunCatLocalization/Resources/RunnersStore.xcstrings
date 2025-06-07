@@ -111,7 +111,30 @@
         }
       }
     },
-    "failedVerification" : {
+    "failedToSync" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to sync with AppStore."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AppStoreとの同期に失敗しました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AppStore와 동기화하는 데 실패했습니다."
+          }
+        }
+      }
+    },
+    "failedToVerify" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
