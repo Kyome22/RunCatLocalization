@@ -44,6 +44,11 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 3. Edit those xcstrings files  
    <img src="https://github.com/user-attachments/assets/4b8c5ff2-4c5c-4d22-a314-70d21f2e539c" width="500px" />
 
+## Notes
+
+Please use wording that follows Apple platform conventions.
+And refer to the [Apple Style Guide](https://support.apple.com/guide/applestyleguide/welcome/web) and [Apple Localization Terms Glossary](https://applelocalization.com/macos?q=Show&b=Finder.app&l=English&l=Japanese) for word choice.
+
 ## LICENSE
 
 Apache License Version 2.0

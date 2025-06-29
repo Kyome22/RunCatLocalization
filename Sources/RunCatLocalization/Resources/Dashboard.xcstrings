@@ -199,6 +199,28 @@
         }
       }
     },
+    "contributeToApp" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contribute to RunCat"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCatに貢献"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat에 기여"
+          }
+        }
+      }
+    },
     "debugSleep" : {
       "localizations" : {
         "en" : {
