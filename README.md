@@ -15,8 +15,8 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
 ## Requirements
 
-- Development with Xcode 16.2+
-- Written in Swift 6.0
+- Development with Xcode 16.4+
+- Written in Swift 6.1
 - Compatible with macOS 14.0+
 
 ## How to Contribute
