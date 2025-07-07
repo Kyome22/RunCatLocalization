@@ -72,19 +72,19 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# Environment\n- %@: ver %@\n- macOS: %@\n"
+            "value" : "# Environment\n- %@: ver %@\n- macOS: %@"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 環境\n- %@: ver %@\n- macOS: %@\n"
+            "value" : "# 環境\n- %@: ver %@\n- macOS: %@"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 실행환경\n- %@: ver %@\n- macOS: %@\n"
+            "value" : "# 실행환경\n- %@: ver %@\n- macOS: %@"
           }
         }
       }
@@ -94,19 +94,19 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# Expected Result\n\n"
+            "value" : "# Expected Result"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 本来期待される挙動\n\n"
+            "value" : "# 本来期待される挙動"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 기대한 결과\n"
+            "value" : "# 기대한 결과"
           }
         }
       }
@@ -138,19 +138,19 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# Steps to Reproduce the Issue\n\n"
+            "value" : "# Steps to Reproduce the Issue"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 不具合の再現手順（不具合が発生した際に行なっていた操作）\n\n"
+            "value" : "# 不具合の再現手順（不具合が発生した際に行なっていた操作）"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 문제가 발생하기까지 조작한 순서\n"
+            "value" : "# 문제가 발생하기까지 조작한 순서"
           }
         }
       }
@@ -160,19 +160,19 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# Short Description\n\n"
+            "value" : "# Short Description"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 不具合の簡単な説明\n\n"
+            "value" : "# 不具合の簡単な説明"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 문제점에 대한 간단한 설명\n"
+            "value" : "# 문제점에 대한 간단한 설명"
           }
         }
       }
@@ -182,19 +182,19 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# What You Tried\n- Relaunched the app: Yes/No\n- Restored at Runners Store: Yes/No\n- Uninstalled the app: Yes/No\n"
+            "value" : "# What You Tried\n- Relaunched the app: Yes/No\n- Restored at Runners Store: Yes/No\n- Uninstalled the app: Yes/No"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 試したこと\n- アプリの再起動: はい/いいえ\n- ランナーストアにて購入の復元: はい/いいえ\n- アプリのアンインストール: はい/いいえ\n"
+            "value" : "# 試したこと\n- アプリの再起動: はい/いいえ\n- ランナーストアにて購入の復元: はい/いいえ\n- アプリのアンインストール: はい/いいえ"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 아래의 내용을 확인해주세요\n- 앱을 재실행 했습니다: 예/아니오\n- 러너 스토어에서 복구를 시도했습니다: 예/아니오\n- 앱을 제거 했습니다:  예/아니오\n"
+            "value" : "# 아래의 내용을 확인해주세요\n- 앱을 재실행 했습니다: 예/아니오\n- 러너 스토어에서 복구를 시도했습니다: 예/아니오\n- 앱을 제거 했습니다:  예/아니오"
           }
         }
       }
