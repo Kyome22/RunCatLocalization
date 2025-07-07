@@ -155,6 +155,50 @@
         }
       }
     },
+    "noAvailableItems" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Available Items"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利用可能なアイテムなし"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용 가능한 항목이 없음"
+          }
+        }
+      }
+    },
+    "noAvailableItemsSuggestion" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An internet connection is required to use Runners Store.\nPlease check your internet connection."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners Storeの利用にはインターネット接続が必要です。\nインターネット接続を確認してください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners Store를 사용하려면 인터넷 연결이 필요합니다.\n인터넷 연결을 확인해주세요."
+          }
+        }
+      }
+    },
     "pending" : {
       "localizations" : {
         "en" : {
@@ -327,6 +371,28 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Apple ID 결제 방법을 확인해주세요."
+          }
+        }
+      }
+    },
+    "reload" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reload"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再読み込み"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "재로드"
           }
         }
       }
