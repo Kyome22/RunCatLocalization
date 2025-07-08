@@ -20,6 +20,12 @@
             "state" : "translated",
             "value" : "사용 가능"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "可用"
+          }
         }
       }
     },
@@ -41,6 +47,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "바형 그래프"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "条形图"
           }
         }
       }
@@ -64,6 +76,12 @@
             "state" : "translated",
             "value" : "아이콘만"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仅图标"
+          }
         }
       }
     },
@@ -85,6 +103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "퍼센트"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "百分比"
           }
         }
       }
@@ -108,6 +132,12 @@
             "state" : "translated",
             "value" : "원형 차트"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "饼图"
+          }
         }
       }
     },
@@ -129,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "배터리 상태 보기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示电池状态"
           }
         }
       }
@@ -152,6 +188,12 @@
             "state" : "translated",
             "value" : "CPU 사용량 보기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示 CPU 使用率"
+          }
         }
       }
     },
@@ -173,6 +215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "메모리 성능 보기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示内存性能"
           }
         }
       }
@@ -196,6 +244,12 @@
             "state" : "translated",
             "value" : "네트워크 속도 보기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示网络速度"
+          }
         }
       }
     },
@@ -218,6 +272,12 @@
             "state" : "translated",
             "value" : "저장 용량 보기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "显示存储容量"
+          }
         }
       }
     },
@@ -239,6 +299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사용됨"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已用"
           }
         }
       }

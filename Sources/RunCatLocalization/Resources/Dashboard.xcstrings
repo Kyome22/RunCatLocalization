@@ -20,6 +20,12 @@
             "state" : "translated",
             "value" : "RunCat에 관하여"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于 RunCat"
+          }
         }
       }
     },
@@ -41,6 +47,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "활성 상태 보기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活动监视器"
           }
         }
       }
@@ -64,6 +76,12 @@
             "state" : "translated",
             "value" : "뒤로"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "返回"
+          }
         }
       }
     },
@@ -85,6 +103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "동물 러너"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "动物类跑者"
           }
         }
       }
@@ -108,6 +132,12 @@
             "state" : "translated",
             "value" : "기본 러너"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "默认跑者"
+          }
         }
       }
     },
@@ -129,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "무생물 러너"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非生物类跑者"
           }
         }
       }
@@ -152,6 +188,12 @@
             "state" : "translated",
             "value" : "계절한정 러너"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "季节限定跑者"
+          }
         }
       }
     },
@@ -173,6 +215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커스텀 러너"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自制跑者"
           }
         }
       }
@@ -196,6 +244,12 @@
             "state" : "translated",
             "value" : "특별 컬러 러너"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特殊颜色跑者"
+          }
         }
       }
     },
@@ -217,6 +271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RunCat에 기여"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "贡献 RunCat"
           }
         }
       }
@@ -240,6 +300,12 @@
             "state" : "translated",
             "value" : "수면 디버깅"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "调试睡眠"
+          }
         }
       }
     },
@@ -261,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "각성 디버깅"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "调制唤醒"
           }
         }
       }
@@ -284,6 +356,12 @@
             "state" : "translated",
             "value" : "도움말"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帮助"
+          }
         }
       }
     },
@@ -305,6 +383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자주 묻는 질문"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常见问题"
           }
         }
       }
@@ -328,6 +412,12 @@
             "state" : "translated",
             "value" : "직접 만든 커스텀 러너를 등록하는 방법"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何自制跑者"
+          }
         }
       }
     },
@@ -349,6 +439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "더보기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多"
           }
         }
       }
@@ -372,6 +468,12 @@
             "state" : "translated",
             "value" : "문제점 알리기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反馈问题"
+          }
         }
       }
     },
@@ -393,6 +495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "러너"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跑者"
           }
         }
       }
@@ -416,6 +524,12 @@
             "state" : "translated",
             "value" : "러너 만들기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自制"
+          }
         }
       }
     },
@@ -437,6 +551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "설정"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "设置"
           }
         }
       }
@@ -460,6 +580,12 @@
             "state" : "translated",
             "value" : "스토어"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商店"
+          }
         }
       }
     },
@@ -481,6 +607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RunCat 종료"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "退出 RunCat"
           }
         }
       }

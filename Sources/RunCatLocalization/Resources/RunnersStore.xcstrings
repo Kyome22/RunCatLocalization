@@ -20,6 +20,12 @@
             "state" : "translated",
             "value" : "동물 러너"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "动物类跑者"
+          }
         }
       }
     },
@@ -41,6 +47,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "무생물 러너"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非生物类跑者"
           }
         }
       }
@@ -64,6 +76,12 @@
             "state" : "translated",
             "value" : "추천 아이템"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐项目"
+          }
         }
       }
     },
@@ -85,6 +103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계절한정 러너"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "季节限定跑者"
           }
         }
       }
@@ -108,6 +132,12 @@
             "state" : "translated",
             "value" : "특별 컬러 러너 (개발자 도네이션)"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特殊配色跑者（支持开发者）"
+          }
         }
       }
     },
@@ -129,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "AppStore와 동기화하는 데 실패했습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与 App Store 同步失败。"
           }
         }
       }
@@ -152,6 +188,12 @@
             "state" : "translated",
             "value" : "잘못된 트랜잭션 데이터 서명입니다."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交易数据签名无效。"
+          }
         }
       }
     },
@@ -173,6 +215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사용 가능한 항목이 없음"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无可用项目"
           }
         }
       }
@@ -196,6 +244,12 @@
             "state" : "translated",
             "value" : "Runners Store를 사용하려면 인터넷 연결이 필요합니다.\n인터넷 연결을 확인해주세요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "访问跑者商店需要联网，请检查你的网络连接。"
+          }
         }
       }
     },
@@ -217,6 +271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매가 진행중입니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "购买正在处理中。"
           }
         }
       }
@@ -240,6 +300,12 @@
             "state" : "translated",
             "value" : "이 상품을 찾을 수 없습니다."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未找到该商品。"
+          }
         }
       }
     },
@@ -261,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "네트워크 상태를 확인하신 뒤, 애플리케이션을 재시작 해주세요."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请在联网状态下重新启动应用。"
           }
         }
       }
@@ -284,6 +356,12 @@
             "state" : "translated",
             "value" : "이 상품은 현재 사용이 불가능합니다."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "该商品当前不可用。"
+          }
         }
       }
     },
@@ -305,6 +383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "购买"
           }
         }
       }
@@ -328,6 +412,12 @@
             "state" : "translated",
             "value" : "구매 오류"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "购买出错"
+          }
         }
       }
     },
@@ -349,6 +439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이 구매는 불가능합니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法进行购买"
           }
         }
       }
@@ -372,6 +468,12 @@
             "state" : "translated",
             "value" : "Apple ID 결제 방법을 확인해주세요."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请检查你的 Apple ID 支付设置。"
+          }
         }
       }
     },
@@ -393,6 +495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "재로드"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刷新"
           }
         }
       }
@@ -416,6 +524,12 @@
             "state" : "translated",
             "value" : "복구"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复购买"
+          }
         }
       }
     },
@@ -437,6 +551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매이력으로 복구"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根据历史记录恢复"
           }
         }
       }
@@ -460,6 +580,12 @@
             "state" : "translated",
             "value" : "러너 스토어"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跑者商店"
+          }
         }
       }
     },
@@ -482,6 +608,12 @@
             "state" : "translated",
             "value" : "알수없는 오류가 발생했습니다."
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发生未知错误。"
+          }
         }
       }
     },
@@ -503,6 +635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매가 취소되었습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已取消购买。"
           }
         }
       }
