@@ -360,7 +360,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "你确实要停止跑者吗？"
+            "value" : "你确定要停止跑者吗？"
           }
         }
       }

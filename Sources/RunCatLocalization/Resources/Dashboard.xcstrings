@@ -332,7 +332,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "调制唤醒"
+            "value" : "调试唤醒"
           }
         }
       }
