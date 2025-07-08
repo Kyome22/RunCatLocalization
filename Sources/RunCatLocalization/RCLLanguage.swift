@@ -27,6 +27,6 @@ public enum RCLLanguage: String, Sendable, Identifiable {
         .english,
         .japanese,
         .korean,
-        .simplifiedChinese
+        .simplifiedChinese,
     ]
 }
