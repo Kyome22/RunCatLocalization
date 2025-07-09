@@ -314,19 +314,19 @@
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Japanese - Takuto Nakamura (Kyome)\nKorean - Jaewon Gwon (Jake)"
+            "value" : "Japanese - Takuto Nakamura (Kyome)\nKorean - Jaewon Gwon (Jake)\nSimplified Chinese - Junjie Lin (junzilla)"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日本語 - Takuto Nakamura (Kyome)\n韓国語 - Jaewon Gwon (Jake)"
+            "value" : "日本語 - Takuto Nakamura (Kyome)\n韓国語 - Jaewon Gwon (Jake)\n中国語 (簡体) - Junjie Lin (junzilla)"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일본어 - Takuto Nakamura (Kyome)\n한국어 - Jaewon Gwon (Jake)"
+            "value" : "일본어 - Takuto Nakamura (Kyome)\n한국어 - Jaewon Gwon (Jake)\n중국어 (간체) - Junjie Lin (junzilla)"
           }
         },
         "zh-Hans" : {
