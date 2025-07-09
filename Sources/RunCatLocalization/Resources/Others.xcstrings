@@ -85,7 +85,7 @@
         }
       }
     },
-    "mailEnvironment%@%@%@" : {
+    "mailEnvironment%@%@%@%@" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
