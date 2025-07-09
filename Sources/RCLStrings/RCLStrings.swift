@@ -70,7 +70,7 @@ struct RCLStrings: ParsableCommand {
                     """
 
                 let arguments = if let _ = keys.first(where: { $0.containsFormat() }) {
-                    "_ language: RCLLanguage = .automatic, _ items: String..."
+                    "_ language: RCLLanguage = .automatic, items: String..."
                 } else {
                     "_ language: RCLLanguage = .automatic"
                 }
