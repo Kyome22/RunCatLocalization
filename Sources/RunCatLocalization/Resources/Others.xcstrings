@@ -20,6 +20,12 @@
             "state" : "translated",
             "value" : "%@?lang=ko"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=zh-Hans"
+          }
         }
       }
     },
@@ -41,6 +47,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일반"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常规"
           }
         }
       }
@@ -64,6 +76,12 @@
             "state" : "translated",
             "value" : "현지화"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地化"
+          }
         }
       }
     },
@@ -85,6 +103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 실행환경\n- %@: ver %@\n- macOS: %@"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 环境\n- %@: ver %@\n- macOS: %@"
           }
         }
       }
@@ -108,6 +132,12 @@
             "state" : "translated",
             "value" : "# 기대한 결과"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 预期的结果"
+          }
         }
       }
     },
@@ -129,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "문제점 알리기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "报告问题"
           }
         }
       }
@@ -152,6 +188,12 @@
             "state" : "translated",
             "value" : "# 문제가 발생하기까지 조작한 순서"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 重现步骤"
+          }
         }
       }
     },
@@ -173,6 +215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 문제점에 대한 간단한 설명"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 简要描述"
           }
         }
       }
@@ -196,6 +244,12 @@
             "state" : "translated",
             "value" : "# 아래의 내용을 확인해주세요\n- 앱을 재실행 했습니다: 예/아니오\n- 러너 스토어에서 복구를 시도했습니다: 예/아니오\n- 앱을 제거 했습니다:  예/아니오"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 尝试过的操作\n- 重启软件: 是/否\n- 从 Runners Store 恢复: 是/否\n- 卸载软件: 是/否"
+          }
         }
       }
     },
@@ -217,6 +271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "서포트 페이지"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持页面"
           }
         }
       }
@@ -240,6 +300,12 @@
             "state" : "translated",
             "value" : "시스템 정보"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统信息"
+          }
         }
       }
     },
@@ -261,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일본어 - Takuto Nakamura (Kyome)\n한국어 - Jaewon Gwon (Jake)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日语 - Takuto Nakamura (Kyome)\n韩语 - Jaewon Gwon (Jake)\n简体中文 - Junjie Lin (junzilla)"
           }
         }
       }

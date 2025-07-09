@@ -20,6 +20,12 @@
             "state" : "translated",
             "value" : "활성화"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "启用"
+          }
         }
       }
     },
@@ -41,6 +47,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "상단 노치가 있는 맥북을 사용중이라면, 메뉴바의 시스템 정보가 보이지 않거나, 메뉴바의 항목을 선택하지 못할 수도 있습니다."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果您使用的是带有刘海的 MacBook，可能无法在菜单栏中看到系统信息栏，或无法访问其他菜单栏项目。"
           }
         }
       }
@@ -64,6 +76,12 @@
             "state" : "translated",
             "value" : "시스템 정보 사용 시 주의사항"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统信息栏使用说明"
+          }
         }
       }
     },
@@ -85,6 +103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "배터리 상태"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "电池状态"
           }
         }
       }
@@ -108,6 +132,12 @@
             "state" : "translated",
             "value" : "그냥 둘래요"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我改变主意了"
+          }
         }
       }
     },
@@ -129,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실험적 기능"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "实验性功能"
           }
         }
       }
@@ -152,6 +188,12 @@
             "state" : "translated",
             "value" : "메모리 성능"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "内存性能"
+          }
         }
       }
     },
@@ -173,6 +215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모니터링"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "监视器"
           }
         }
       }
@@ -196,6 +244,12 @@
             "state" : "translated",
             "value" : "네트워크 연결"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "网络连接"
+          }
         }
       }
     },
@@ -218,6 +272,12 @@
             "state" : "translated",
             "value" : "저장 용량"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "存储容量"
+          }
         }
       }
     },
@@ -239,6 +299,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시스템 정보 (베타)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统信息栏（β）"
           }
         }
       }

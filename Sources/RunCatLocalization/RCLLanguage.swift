@@ -5,6 +5,7 @@ public enum RCLLanguage: String, Sendable, Identifiable {
     case english = "en"
     case japanese = "ja"
     case korean = "ko"
+    case simplifiedChinese = "zh-Hans"
 
     public var id: String { rawValue }
 
@@ -25,6 +26,7 @@ public enum RCLLanguage: String, Sendable, Identifiable {
     public static let allCases: [RCLLanguage] = [
         .english,
         .japanese,
-        .korean
+        .korean,
+        .simplifiedChinese,
     ]
 }

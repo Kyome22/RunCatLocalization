@@ -20,6 +20,12 @@
             "state" : "translated",
             "value" : "베타냥"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "β 猫"
+          }
         }
       }
     },
@@ -41,6 +47,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "새"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小鸟"
           }
         }
       }
@@ -64,6 +76,12 @@
             "state" : "translated",
             "value" : "모닥불"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "篝火"
+          }
         }
       }
     },
@@ -85,6 +103,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "나비"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蝴蝶"
           }
         }
       }
@@ -108,6 +132,12 @@
             "state" : "translated",
             "value" : "감마냥"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "γ 猫"
+          }
         }
       }
     },
@@ -129,6 +159,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "알파냥"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "α 猫"
           }
         }
       }
@@ -152,6 +188,12 @@
             "state" : "translated",
             "value" : "메탈냥"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "金属团猫"
+          }
         }
       }
     },
@@ -173,6 +215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "플래시냥"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "闪电猫"
           }
         }
       }
@@ -196,6 +244,12 @@
             "state" : "translated",
             "value" : "골든냥"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "金猫"
+          }
         }
       }
     },
@@ -217,6 +271,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "디스크 냥캣"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "模仿彩虹猫"
           }
         }
       }
@@ -240,6 +300,12 @@
             "state" : "translated",
             "value" : "카멜레온"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "变色龙"
+          }
         }
       }
     },
@@ -261,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "치타"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "猎豹"
           }
         }
       }
@@ -284,6 +356,12 @@
             "state" : "translated",
             "value" : "닭"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小鸡"
+          }
         }
       }
     },
@@ -305,6 +383,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "풍경"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "风铃"
           }
         }
       }
@@ -328,6 +412,12 @@
             "state" : "translated",
             "value" : "도시"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "城市"
+          }
         }
       }
     },
@@ -349,6 +439,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커피"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "咖啡"
           }
         }
       }
@@ -372,6 +468,12 @@
             "state" : "translated",
             "value" : "톱니바퀴"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "齿轮"
+          }
         }
       }
     },
@@ -393,6 +495,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "웰시코기"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "柯基"
           }
         }
       }
@@ -416,6 +524,12 @@
             "state" : "translated",
             "value" : "뉴턴의 요람"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "牛顿摆"
+          }
         }
       }
     },
@@ -437,6 +551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사인함수"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "正弦曲线"
           }
         }
       }
@@ -460,6 +580,12 @@
             "state" : "translated",
             "value" : "공룡"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恐龙"
+          }
         }
       }
     },
@@ -481,6 +607,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "狗"
           }
         }
       }
@@ -504,6 +636,12 @@
             "state" : "translated",
             "value" : "도게자"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "土下座"
+          }
         }
       }
     },
@@ -525,6 +663,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "돌고래"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "海豚"
           }
         }
       }
@@ -548,6 +692,12 @@
             "state" : "translated",
             "value" : "점"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "点点"
+          }
         }
       }
     },
@@ -569,6 +719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "龙"
           }
         }
       }
@@ -592,6 +748,12 @@
             "state" : "translated",
             "value" : "버블티"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "珍珠奶茶"
+          }
         }
       }
     },
@@ -613,6 +775,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물방울"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水滴"
           }
         }
       }
@@ -636,6 +804,12 @@
             "state" : "translated",
             "value" : "러버덕"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "橡皮鸭"
+          }
         }
       }
     },
@@ -657,6 +831,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지구"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "地球"
           }
         }
       }
@@ -680,6 +860,12 @@
             "state" : "translated",
             "value" : "엔진"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "引擎"
+          }
         }
       }
     },
@@ -698,6 +884,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entaku"
+          }
+        },
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entaku"
@@ -724,6 +916,12 @@
             "state" : "translated",
             "value" : "공장"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "工厂"
+          }
         }
       }
     },
@@ -745,6 +943,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "생선남"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鱼人"
           }
         }
       }
@@ -768,6 +972,12 @@
             "state" : "translated",
             "value" : "여우"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "狐狸"
+          }
         }
       }
     },
@@ -789,6 +999,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개구리"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "青蛙"
           }
         }
       }
@@ -812,6 +1028,12 @@
             "state" : "translated",
             "value" : "후라이팬"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "平底锅"
+          }
         }
       }
     },
@@ -833,6 +1055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "유령"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "幽灵"
           }
         }
       }
@@ -856,6 +1084,12 @@
             "state" : "translated",
             "value" : "그레이하운드"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "灰狗"
+          }
         }
       }
     },
@@ -877,6 +1111,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "고슴도치"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刺猬"
           }
         }
       }
@@ -900,6 +1140,12 @@
             "state" : "translated",
             "value" : "말"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "马"
+          }
         }
       }
     },
@@ -921,6 +1167,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "인간"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "人"
           }
         }
       }
@@ -944,6 +1196,12 @@
             "state" : "translated",
             "value" : "잭 오 랜턴"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "南瓜灯"
+          }
         }
       }
     },
@@ -965,6 +1223,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "증기기관차"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "蒸汽机车"
           }
         }
       }
@@ -988,6 +1252,12 @@
             "state" : "translated",
             "value" : "커스텀 러너"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自制跑者"
+          }
         }
       }
     },
@@ -1009,6 +1279,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모찌"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "年糕"
           }
         }
       }
@@ -1032,6 +1308,12 @@
             "state" : "translated",
             "value" : "쥐"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "老鼠"
+          }
         }
       }
     },
@@ -1053,6 +1335,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "마네키네코"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "招财猫"
           }
         }
       }
@@ -1076,6 +1364,12 @@
             "state" : "translated",
             "value" : "문어"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "章鱼"
+          }
         }
       }
     },
@@ -1097,6 +1391,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "수달"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水獭"
           }
         }
       }
@@ -1120,6 +1420,12 @@
             "state" : "translated",
             "value" : "부엉이"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "猫头鹰"
+          }
         }
       }
     },
@@ -1141,6 +1447,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "앵무새"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鹦鹉"
           }
         }
       }
@@ -1164,6 +1476,12 @@
             "state" : "translated",
             "value" : "펜듈럼"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "钟摆"
+          }
         }
       }
     },
@@ -1185,6 +1503,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "펭귄"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "企鹅"
           }
         }
       }
@@ -1208,6 +1532,12 @@
             "state" : "translated",
             "value" : "펭귄 2"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "企鹅 2"
+          }
         }
       }
     },
@@ -1229,6 +1559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "인싸 파티"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "派对"
           }
         }
       }
@@ -1252,6 +1588,12 @@
             "state" : "translated",
             "value" : "돼지"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小猪"
+          }
         }
       }
     },
@@ -1273,6 +1615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "파동"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "心跳"
           }
         }
       }
@@ -1296,6 +1644,12 @@
             "state" : "translated",
             "value" : "강아지"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小狗"
+          }
         }
       }
     },
@@ -1317,6 +1671,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "토끼"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "小兔子"
           }
         }
       }
@@ -1340,6 +1700,12 @@
             "state" : "translated",
             "value" : "원자로"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "反应堆"
+          }
         }
       }
     },
@@ -1361,6 +1727,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "로켓"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "火箭"
           }
         }
       }
@@ -1384,6 +1756,12 @@
             "state" : "translated",
             "value" : "모든 러너 해제"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解锁所有跑者"
+          }
         }
       }
     },
@@ -1405,6 +1783,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "소세지"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "香肠"
           }
         }
       }
@@ -1428,6 +1812,12 @@
             "state" : "translated",
             "value" : "양"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "绵羊"
+          }
         }
       }
     },
@@ -1449,6 +1839,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "루돌프와 썰매"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "驯鹿与雪橇"
           }
         }
       }
@@ -1472,6 +1868,12 @@
             "state" : "translated",
             "value" : "슬라임"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "史莱姆"
+          }
         }
       }
     },
@@ -1493,6 +1895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "눈사람"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "雪人"
           }
         }
       }
@@ -1516,6 +1924,12 @@
             "state" : "translated",
             "value" : "불꽃놀이"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "烟花棒"
+          }
         }
       }
     },
@@ -1537,6 +1951,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다람쥐"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "松鼠"
           }
         }
       }
@@ -1560,6 +1980,12 @@
             "state" : "translated",
             "value" : "초밥"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寿司"
+          }
         }
       }
     },
@@ -1581,6 +2007,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "회전초밥"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回转寿司"
           }
         }
       }
@@ -1604,6 +2036,12 @@
             "state" : "translated",
             "value" : "누웠냥"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "猫尾"
+          }
         }
       }
     },
@@ -1625,6 +2063,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "테리어"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "梗犬"
           }
         }
       }
@@ -1648,6 +2092,12 @@
             "state" : "translated",
             "value" : "힘, 지혜, 용기"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "力量、智慧、勇气"
+          }
         }
       }
     },
@@ -1666,6 +2116,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uhooi"
+          }
+        },
+        "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uhooi"
@@ -1692,6 +2148,12 @@
             "state" : "translated",
             "value" : "푸쉬업"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "俯卧撑"
+          }
         }
       }
     },
@@ -1713,6 +2175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "싯업"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仰卧起坐"
           }
         }
       }
@@ -1736,6 +2204,12 @@
             "state" : "translated",
             "value" : "고래"
           }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "鲸鱼"
+          }
         }
       }
     },
@@ -1757,6 +2231,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "쳇바퀴"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "仓鼠跑轮"
           }
         }
       }
