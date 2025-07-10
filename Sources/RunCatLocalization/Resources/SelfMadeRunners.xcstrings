@@ -24,7 +24,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "颜色："
+            "value" : "颜色:"
           }
         }
       }
@@ -136,7 +136,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. 格式：PNG"
+            "value" : "1. 格式: PNG"
           }
         }
       }
@@ -164,7 +164,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "帧数："
+            "value" : "帧数:"
           }
         }
       }
@@ -192,7 +192,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "2. 高度：36 像素"
+            "value" : "2. 高度: 36 像素"
           }
         }
       }
@@ -220,7 +220,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "要求条件："
+            "value" : "要求条件:"
           }
         }
       }
@@ -248,7 +248,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "预览："
+            "value" : "预览:"
           }
         }
       }
@@ -360,7 +360,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "跑者名称："
+            "value" : "跑者名称:"
           }
         }
       }
@@ -528,7 +528,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "3. 宽度：10~100 像素"
+            "value" : "3. 宽度: 10~100 像素"
           }
         }
       }
