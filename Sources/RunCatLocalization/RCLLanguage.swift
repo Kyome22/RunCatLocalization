@@ -19,10 +19,6 @@ public enum RCLLanguage: String, Sendable, Identifiable {
         }
     }
 
-    public var locale: Locale {
-        Locale(identifier: rawValue)
-    }
-
     public static let allCases: [RCLLanguage] = [
         .english,
         .japanese,
