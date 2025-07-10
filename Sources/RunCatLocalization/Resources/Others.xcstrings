@@ -309,30 +309,86 @@
         }
       }
     },
-    "translators" : {
+    "translatorJapanese" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Japanese - Takuto Nakamura (Kyome)\nKorean - Jaewon Gwon (Jake)\nSimplified Chinese - Junjie Lin (junzilla)"
+            "value" : "Japanese - Takuto Nakamura (Kyome)"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日本語 - Takuto Nakamura (Kyome)\n韓国語 - Jaewon Gwon (Jake)\n中国語 (簡体) - Junjie Lin (junzilla)"
+            "value" : "日本語 - Takuto Nakamura (Kyome)"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일본어 - Takuto Nakamura (Kyome)\n한국어 - Jaewon Gwon (Jake)\n중국어 (간체) - Junjie Lin (junzilla)"
+            "value" : "일본어 - Takuto Nakamura (Kyome)"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日语 - Takuto Nakamura (Kyome)\n韩语 - Jaewon Gwon (Jake)\n简体中文 - Junjie Lin (junzilla)"
+            "value" : "日语 - Takuto Nakamura (Kyome)"
+          }
+        }
+      }
+    },
+    "translatorKorean" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korean - Jaewon Gwon (Jake)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "韓国語 - Jaewon Gwon (Jake)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "한국어 - Jaewon Gwon (Jake)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "韩语 - Jaewon Gwon (Jake)"
+          }
+        }
+      }
+    },
+    "translatorSimplifiedChinese" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simplified Chinese - Junjie Lin (junzilla)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中国語 (簡体) - Junjie Lin (junzilla)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중국어 (간체) - Junjie Lin (junzilla)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "简体中文 - Junjie Lin (junzilla)"
           }
         }
       }
