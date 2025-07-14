@@ -9,6 +9,12 @@
             "value" : "Cat β"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat β"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35,6 +41,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bird"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oiseau"
           }
         },
         "ja" : {
@@ -65,6 +77,12 @@
             "value" : "Bonfire"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Feu de camp"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Butterfly"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Papillon"
           }
         },
         "ja" : {
@@ -121,6 +145,12 @@
             "value" : "Cat γ"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat γ"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cat α"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat α"
           }
         },
         "ja" : {
@@ -177,6 +213,12 @@
             "value" : "Metal Cluster Cat"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "File de chats métallique"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -203,6 +245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Flash Cat"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat Flash"
           }
         },
         "ja" : {
@@ -233,6 +281,12 @@
             "value" : "Golden Cat"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chat d’or"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -259,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mock Nyan Cat"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nyan Cat"
           }
         },
         "ja" : {
@@ -289,6 +349,12 @@
             "value" : "Chameleon"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caméléon"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -315,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cheetah"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guépard"
           }
         },
         "ja" : {
@@ -345,6 +417,12 @@
             "value" : "Chicken"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poule"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -371,6 +449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wind Chime"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carillon"
           }
         },
         "ja" : {
@@ -401,6 +485,12 @@
             "value" : "City"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ville"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -427,6 +517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Coffee"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Café"
           }
         },
         "ja" : {
@@ -457,6 +553,12 @@
             "value" : "Cogwheel"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Engrenages"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -480,6 +582,12 @@
     "corgi_welsh" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welsh Corgi"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Welsh Corgi"
@@ -513,6 +621,12 @@
             "value" : "Newton's Cradle"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Boulier de Newton"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -539,6 +653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sine Curve"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Courbe Sinusoïdale"
           }
         },
         "ja" : {
@@ -569,6 +689,12 @@
             "value" : "Dinosaur"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinosaure"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -595,6 +721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dog"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chien"
           }
         },
         "ja" : {
@@ -625,6 +757,12 @@
             "value" : "Japanese Apology"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Excuses japonaise"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -651,6 +789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dolphin"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dauphin"
           }
         },
         "ja" : {
@@ -681,6 +825,12 @@
             "value" : "Dots"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Points"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -704,6 +854,12 @@
     "dragon" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dragon"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dragon"
@@ -737,6 +893,12 @@
             "value" : "Tapioca Drink"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verre de tapioca"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -763,6 +925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Drop"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Goutte"
           }
         },
         "ja" : {
@@ -793,6 +961,12 @@
             "value" : "Rubber Duck"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canard en plastique"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -819,6 +993,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Earth"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La Terre"
           }
         },
         "ja" : {
@@ -849,6 +1029,12 @@
             "value" : "Engine"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Piston moteur"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -872,6 +1058,12 @@
     "entaku" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entaku"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entaku"
@@ -905,6 +1097,12 @@
             "value" : "Factory"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -931,6 +1129,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fish-Man"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Homme-poisson"
           }
         },
         "ja" : {
@@ -961,6 +1165,12 @@
             "value" : "Fox"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Renard"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -987,6 +1197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frog"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Grenouille"
           }
         },
         "ja" : {
@@ -1017,6 +1233,12 @@
             "value" : "Frypan"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poêle"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1043,6 +1265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ghost"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fantôme"
           }
         },
         "ja" : {
@@ -1073,6 +1301,12 @@
             "value" : "Greyhound"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lévrier"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1099,6 +1333,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hedgehog"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hérisson"
           }
         },
         "ja" : {
@@ -1129,6 +1369,12 @@
             "value" : "Horse"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cheval"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1155,6 +1401,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Human"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humain"
           }
         },
         "ja" : {
@@ -1185,6 +1437,12 @@
             "value" : "Jack O' Lantern"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Citrouille hantée"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1211,6 +1469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Steam Locomotive"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Locomotive à vapeur"
           }
         },
         "ja" : {
@@ -1241,6 +1505,12 @@
             "value" : "Self-Made Runner"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureur personnalisé"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1264,6 +1534,12 @@
     "mochi" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mochi"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mochi"
@@ -1297,6 +1573,12 @@
             "value" : "Mouse"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Souris"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1320,6 +1602,12 @@
     "neko_maneki" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maneki Neko"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maneki Neko"
@@ -1353,6 +1641,12 @@
             "value" : "Octopus"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poulpe"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1379,6 +1673,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Otter"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loutre"
           }
         },
         "ja" : {
@@ -1409,6 +1709,12 @@
             "value" : "Owl"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hibou"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1435,6 +1741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parrot"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perroquet"
           }
         },
         "ja" : {
@@ -1465,6 +1777,12 @@
             "value" : "Pendulum"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pendule"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1491,6 +1809,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Penguin"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manchot"
           }
         },
         "ja" : {
@@ -1521,6 +1845,12 @@
             "value" : "Penguin 2"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Manchot 2"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1547,6 +1877,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Party People"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Foule en fête"
           }
         },
         "ja" : {
@@ -1577,6 +1913,12 @@
             "value" : "Pig"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cochon"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1603,6 +1945,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pulse"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Battement"
           }
         },
         "ja" : {
@@ -1633,6 +1981,12 @@
             "value" : "Puppy"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chiot"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1659,6 +2013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rabbit"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lapin"
           }
         },
         "ja" : {
@@ -1689,6 +2049,12 @@
             "value" : "Reactor"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réacteur"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1715,6 +2081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rocket"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fusée"
           }
         },
         "ja" : {
@@ -1745,6 +2117,12 @@
             "value" : "Unlock All Runners"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Débloquer tous les coureurs"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1771,6 +2149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sausage"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saucisse"
           }
         },
         "ja" : {
@@ -1801,6 +2185,12 @@
             "value" : "Sheep"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mouton"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1829,6 +2219,12 @@
             "value" : "Reindeer & Sleigh"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Traineau de rennes"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1852,6 +2248,12 @@
     "slime" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slime"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Slime"
@@ -1885,6 +2287,12 @@
             "value" : "Snowman"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bonhomme de neige"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1911,6 +2319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sparkler"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cierge"
           }
         },
         "ja" : {
@@ -1941,6 +2355,12 @@
             "value" : "Squirrel"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "écureuil"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1964,6 +2384,12 @@
     "sushi" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sushi"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sushi"
@@ -1997,6 +2423,12 @@
             "value" : "Rotating Sushi"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sushi en rotation"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2025,6 +2457,12 @@
             "value" : "Cat Tail"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Queue de chat"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2048,6 +2486,12 @@
     "terrier" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terrier"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Terrier"
@@ -2081,6 +2525,12 @@
             "value" : "Power, Wisdom, Courage"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Force, Sagesse, Courage"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2096,7 +2546,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "力量，智慧，勇气"
+            "value" : "力量、智慧、勇气"
           }
         }
       }
@@ -2104,6 +2554,12 @@
     "uhooi" : {
       "localizations" : {
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uhooi"
+          }
+        },
+        "fr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uhooi"
@@ -2137,6 +2593,12 @@
             "value" : "Push-Up"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pompe"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2163,6 +2625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sit-Up"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abdominaux"
           }
         },
         "ja" : {
@@ -2193,6 +2661,12 @@
             "value" : "Whale"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Baleine"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2219,6 +2693,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hamster Wheel"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Roue d’hamster"
           }
         },
         "ja" : {
