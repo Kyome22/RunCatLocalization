@@ -6,6 +6,7 @@ public enum RCLLanguage: String, Sendable, Identifiable {
     case japanese = "ja"
     case korean = "ko"
     case simplifiedChinese = "zh-Hans"
+    case french = "fr"
 
     public var id: String { rawValue }
 
@@ -28,5 +29,6 @@ public enum RCLLanguage: String, Sendable, Identifiable {
         .japanese,
         .korean,
         .simplifiedChinese,
+        .french,
     ]
 }
