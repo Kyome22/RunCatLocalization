@@ -216,7 +216,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La signature des données de transaction est invalide"
+            "value" : "La signature des données de transaction est invalide."
           }
         },
         "ja" : {
