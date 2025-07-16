@@ -9,6 +9,12 @@
             "value" : "Activate"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35,6 +41,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If you use MacBook with a notch, you may not be able to see the System Info Bar on the menu bar or not be able to access other menu bar items."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si vous utilisez un MacBook avec une encoche, vous pourriez ne pas être capable de voir la Barre des Infos Système ou d’autre icônes dans la barre des menus."
           }
         },
         "ja" : {
@@ -65,6 +77,12 @@
             "value" : "Notes on using System Info Bar"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À noter pour l’utilisation de la Barre des Infos Système"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Battery State"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niveau de batterie"
           }
         },
         "ja" : {
@@ -121,6 +145,12 @@
             "value" : "Changed my mind"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mon avis a changé"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Experimental feature"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fonction expérimentale"
           }
         },
         "ja" : {
@@ -177,6 +213,12 @@
             "value" : "Memory Performance"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilisation de la mémoire"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -203,6 +245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monitoring"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Affichage des informations"
           }
         },
         "ja" : {
@@ -233,6 +281,12 @@
             "value" : "Network Connection"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Informations du réseau"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -261,6 +315,12 @@
             "value" : "Storage Capacity"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capacité de stockage"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -287,6 +347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "System Info Bar (β)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barre des Infos Système (β)"
           }
         },
         "ja" : {
