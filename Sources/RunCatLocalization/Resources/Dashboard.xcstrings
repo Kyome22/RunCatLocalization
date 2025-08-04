@@ -80,7 +80,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Retour"
+            "value" : "Précédent"
           }
         },
         "ja" : {
@@ -114,7 +114,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coureurs animaux"
+            "value" : "Coureurs Animaux"
           }
         },
         "ja" : {
@@ -148,7 +148,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coureurs par défaut"
+            "value" : "Coureurs par Défaut"
           }
         },
         "ja" : {
@@ -182,7 +182,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coureurs objets"
+            "value" : "Coureurs Objets"
           }
         },
         "ja" : {
@@ -216,7 +216,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coureurs de saison"
+            "value" : "Coureurs de Saison"
           }
         },
         "ja" : {
@@ -250,7 +250,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coureurs personnalisés"
+            "value" : "Coureurs Personnalisés"
           }
         },
         "ja" : {
@@ -284,7 +284,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coureurs édition colorée"
+            "value" : "Coureurs Édition Colorée"
           }
         },
         "ja" : {
@@ -590,7 +590,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coureur"
+            "value" : "Coureurs"
           }
         },
         "ja" : {
@@ -624,7 +624,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coureur personnalisé"
+            "value" : "Personnalisé"
           }
         },
         "ja" : {

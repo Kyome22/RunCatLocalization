@@ -182,7 +182,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Démarrer automatiquement RunCat au démarrage"
+            "value" : "Ouvrir automatiquement RunCat avec la session."
           }
         },
         "ja" : {

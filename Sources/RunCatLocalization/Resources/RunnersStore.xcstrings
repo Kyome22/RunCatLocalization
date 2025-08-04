@@ -284,7 +284,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Une connexion internet est requise pour utiliser le magasin de coureurs.\nVérifiez votre connexion internet."
+            "value" : "Une connexion internet est requise pour utiliser le Magasin de Coureurs.\nVérifiez votre connexion internet."
           }
         },
         "ja" : {
@@ -556,7 +556,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vérifiez vos réglages de paiement Apple ID."
+            "value" : "Vérifiez vos réglages de paiement de l’identifiant Apple."
           }
         },
         "ja" : {
@@ -590,7 +590,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualiser"
+            "value" : "Recharger"
           }
         },
         "ja" : {
@@ -692,7 +692,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Magasin de coureurs"
+            "value" : "Magasin de Coureurs"
           }
         },
         "ja" : {

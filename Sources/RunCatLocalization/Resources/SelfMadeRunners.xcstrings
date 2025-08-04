@@ -352,7 +352,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Enregistrer le coureur :"
+            "value" : "Coureurs enregistrés :"
           }
         },
         "ja" : {
@@ -420,7 +420,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nom du coureur :"
+            "value" : "Nom du Coureur :"
           }
         },
         "ja" : {
@@ -454,7 +454,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Coureurs personnalisés"
+            "value" : "Coureurs Personnalisés"
           }
         },
         "ja" : {
@@ -488,7 +488,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pour enregistrer, vous devez acheter cette fonction dans le magasin de coureurs."
+            "value" : "Pour enregistrer, vous devez acheter cette fonction dans le Magasin de Coureurs."
           }
         },
         "ja" : {

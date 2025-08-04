@@ -80,7 +80,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Langue/Localisation"
+            "value" : "Localisation"
           }
         },
         "ja" : {
@@ -284,7 +284,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# Qu’essayez-vous de faire\n- Relancer l’app : Oui/Non\n- Restaurer dans le magasin des coureurs : Oui/Non\n- Désinstaller l’app : Oui/Non"
+            "value" : "# Qu’essayez-vous de faire\n- Relancer l’app : Oui/Non\n- Restaurer dans le Magasin de Coureurs : Oui/Non\n- Désinstaller l’app : Oui/Non"
           }
         },
         "ja" : {
@@ -318,7 +318,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Page web pour l’assistance"
+            "value" : "Page Web pour l’assistance"
           }
         },
         "ja" : {
@@ -352,7 +352,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Informations système"
+            "value" : "Infos système"
           }
         },
         "ja" : {
@@ -386,7 +386,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Japanese - Takuto Nakamura (Kyome)\nKorean - Jaewon Gwon (Jake)\nSimplified Chinese - Junjie Lin (junzilla)\nFrench"
+            "value" : "Japanese - Takuto Nakamura (Kyome)\nKorean - Jaewon Gwon (Jake)\nSimplified Chinese - Junjie Lin (junzilla)\nFrench - (Kravatox)"
           }
         },
         "ja" : {
