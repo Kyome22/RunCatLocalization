@@ -114,13 +114,13 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# Environnement\n- %@: ver %@\n- %@\n- macOS: %@"
+            "value" : "# Environnement\n- %@ : ver %@\n- %@\n- macOS: %@"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 環境\n- %@: ver %@\n- %@\n- macOS: %@"
+            "value" : "# 環境\n- %@：ver %@\n- %@\n- macOS：%@"
           }
         },
         "ko" : {
@@ -132,7 +132,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 环境\n- %@: ver %@\n- %@\n- macOS: %@"
+            "value" : "# 环境\n- %@：ver %@\n- %@\n- macOS：%@"
           }
         }
       }
@@ -290,7 +290,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 試したこと\n- アプリの再起動: はい/いいえ\n- ランナーストアにて購入の復元: はい/いいえ\n- アプリのアンインストール: はい/いいえ"
+            "value" : "# 試したこと\n- アプリの再起動：はい/いいえ\n- ランナーストアにて購入の復元：はい/いいえ\n- アプリのアンインストール：はい/いいえ"
           }
         },
         "ko" : {
@@ -302,7 +302,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 尝试过的操作\n- 重启软件: 是/否\n- 从 Runners Store 恢复: 是/否\n- 卸载软件: 是/否"
+            "value" : "# 尝试过的操作\n- 重启软件：是/否\n- 从 Runners Store 恢复: 是/否\n- 卸载软件：是/否"
           }
         }
       }

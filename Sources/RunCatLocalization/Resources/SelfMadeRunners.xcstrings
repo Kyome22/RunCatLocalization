@@ -18,7 +18,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "色:"
+            "value" : "色："
           }
         },
         "ko" : {
@@ -30,7 +30,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "颜色:"
+            "value" : "颜色："
           }
         }
       }
@@ -154,7 +154,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. フォーマット: PNG"
+            "value" : "1. フォーマット：PNG"
           }
         },
         "ko" : {
@@ -166,7 +166,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. 格式: PNG"
+            "value" : "1. 格式：PNG"
           }
         }
       }
@@ -188,7 +188,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "フレーム:"
+            "value" : "フレーム："
           }
         },
         "ko" : {
@@ -200,7 +200,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "帧数:"
+            "value" : "帧数："
           }
         }
       }
@@ -222,7 +222,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "2. 高さ: 36px"
+            "value" : "2. 高さ：36px"
           }
         },
         "ko" : {
@@ -234,7 +234,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "2. 高度: 36 像素"
+            "value" : "2. 高度：36 像素"
           }
         }
       }
@@ -256,7 +256,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "必要条件:"
+            "value" : "必要条件："
           }
         },
         "ko" : {
@@ -268,7 +268,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "要求条件:"
+            "value" : "要求条件："
           }
         }
       }
@@ -290,7 +290,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "プレビュー:"
+            "value" : "プレビュー："
           }
         },
         "ko" : {
@@ -302,7 +302,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "预览:"
+            "value" : "预览："
           }
         }
       }
@@ -358,7 +358,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "登録済みのランナー:"
+            "value" : "登録済みのランナー："
           }
         },
         "ko" : {
@@ -426,7 +426,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ランナー名:"
+            "value" : "ランナー名："
           }
         },
         "ko" : {
@@ -438,7 +438,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "跑者名称:"
+            "value" : "跑者名称："
           }
         }
       }
@@ -630,7 +630,7 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "3. 幅: 10~100px"
+            "value" : "3. 幅：10~100px"
           }
         },
         "ko" : {
@@ -642,7 +642,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "3. 宽度: 10~100 像素"
+            "value" : "3. 宽度：10~100 像素"
           }
         }
       }
