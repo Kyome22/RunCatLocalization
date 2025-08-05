@@ -9,6 +9,12 @@
             "value" : "%@?lang=en"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=fr"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35,6 +41,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "General"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Général"
           }
         },
         "ja" : {
@@ -65,6 +77,12 @@
             "value" : "Localization"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localisation"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# Environment\n- %@: ver %@\n- %@\n- macOS: %@"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Environnement\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
         "ja" : {
@@ -121,6 +145,12 @@
             "value" : "# Expected Result"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Résultat attendu"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Issue Report"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rapporter un problème"
           }
         },
         "ja" : {
@@ -177,6 +213,12 @@
             "value" : "# Steps to Reproduce the Issue"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Étapes pour reproduire le problème"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -203,6 +245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# Short Description"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Courte description"
           }
         },
         "ja" : {
@@ -233,6 +281,12 @@
             "value" : "# What You Tried\n- Relaunched the app: Yes/No\n- Restored at Runners Store: Yes/No\n- Uninstalled the app: Yes/No"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Qu’essayez-vous de faire\n- Relancer l’app : Oui/Non\n- Restaurer dans le Magasin de Coureurs : Oui/Non\n- Désinstaller l’app : Oui/Non"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -259,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support Page"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page Web pour l’assistance"
           }
         },
         "ja" : {
@@ -289,6 +349,12 @@
             "value" : "System Info"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Infos système"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -309,86 +375,36 @@
         }
       }
     },
-    "translatorJapanese" : {
+    "translators" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Japanese - Takuto Nakamura (Kyome)"
+            "value" : "Japanese - Takuto Nakamura (Kyome)\nKorean - Jaewon Gwon (Jake)\nSimplified Chinese - Junjie Lin (junzilla)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japanese - Takuto Nakamura (Kyome)\nKorean - Jaewon Gwon (Jake)\nSimplified Chinese - Junjie Lin (junzilla)\nFrench - (Kravatox)"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日本語 - Takuto Nakamura (Kyome)"
+            "value" : "日本語 - Takuto Nakamura (Kyome)\n韓国語 - Jaewon Gwon (Jake)\n中国語 (簡体) - Junjie Lin (junzilla)"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "일본어 - Takuto Nakamura (Kyome)"
+            "value" : "일본어 - Takuto Nakamura (Kyome)\n한국어 - Jaewon Gwon (Jake)\n중국어 (간체) - Junjie Lin (junzilla)"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "日语 - Takuto Nakamura (Kyome)"
-          }
-        }
-      }
-    },
-    "translatorKorean" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Korean - Jaewon Gwon (Jake)"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "韓国語 - Jaewon Gwon (Jake)"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "한국어 - Jaewon Gwon (Jake)"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "韩语 - Jaewon Gwon (Jake)"
-          }
-        }
-      }
-    },
-    "translatorSimplifiedChinese" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simplified Chinese - Junjie Lin (junzilla)"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "中国語 (簡体) - Junjie Lin (junzilla)"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "중국어 (간체) - Junjie Lin (junzilla)"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "简体中文 - Junjie Lin (junzilla)"
+            "value" : "日语 - Takuto Nakamura (Kyome)\n韩语 - Jaewon Gwon (Jake)\n简体中文 - Junjie Lin (junzilla)"
           }
         }
       }

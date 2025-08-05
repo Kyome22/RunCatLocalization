@@ -9,6 +9,12 @@
             "value" : "Available"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disponible"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35,6 +41,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bar Graph"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barre"
           }
         },
         "ja" : {
@@ -65,6 +77,12 @@
             "value" : "Only Icon"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Icône seulement"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Percentage"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pourcentage"
           }
         },
         "ja" : {
@@ -121,6 +145,12 @@
             "value" : "Pie Chart"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cercle"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show Battery State"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher le niveau de batterie"
           }
         },
         "ja" : {
@@ -177,6 +213,12 @@
             "value" : "Show CPU Usage"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher l’utilisation du CPU"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -203,6 +245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Show Memory Performance"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher l’utilisation de la mémoire"
           }
         },
         "ja" : {
@@ -233,6 +281,12 @@
             "value" : "Show Network Speed"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher la vitesse du réseau"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -261,6 +315,12 @@
             "value" : "Show Storage Capacity"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Afficher l’utilisation du stockage"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -287,6 +347,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Used"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utilisé"
           }
         },
         "ja" : {

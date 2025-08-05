@@ -9,6 +9,12 @@
             "value" : "Select from all runners"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionne tous les coureurs"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35,6 +41,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Changed my mind"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mon avis a changé"
           }
         },
         "ja" : {
@@ -65,6 +77,12 @@
             "value" : "Flip horizontally"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inverser horizontalement"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Invert speed"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inverser la vitesse"
           }
         },
         "ja" : {
@@ -121,6 +145,12 @@
             "value" : "Launch"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Démarrage"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Launch RunCat automatically at login."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ouvrir automatiquement RunCat avec la session."
           }
         },
         "ja" : {
@@ -177,6 +213,12 @@
             "value" : "Select from only monochrome runners"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionne seulement les coureurs monochrome"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -203,6 +245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Runner"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureur"
           }
         },
         "ja" : {
@@ -233,6 +281,12 @@
             "value" : "Select randomly per 10 minutes automatically"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélection aléatoire toutes les 10 minutes"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -259,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stop the runner"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrêter le coureur"
           }
         },
         "ja" : {
@@ -289,6 +349,12 @@
             "value" : "Stop the runner"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Arrêter le coureur"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -315,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If you stop the runner, the uniqueness of this application will be lost."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si vous arrêter les mouvements du coureur, le caractère unique de l’application sera perdu."
           }
         },
         "ja" : {
@@ -345,6 +417,12 @@
             "value" : "Do you really want to stop the runner?"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voulez-vous vraiment arrêter les mouvements du coureur ?"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -371,6 +449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Use the system accent color"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utiliser la couleur d’accentuation du système"
           }
         },
         "ja" : {

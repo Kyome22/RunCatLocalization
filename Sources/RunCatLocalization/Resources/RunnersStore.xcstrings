@@ -9,6 +9,12 @@
             "value" : "Animal type runners"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs animaux"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35,6 +41,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inanimate type runners"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs objets"
           }
         },
         "ja" : {
@@ -65,6 +77,12 @@
             "value" : "Recommended items"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catégories recommandées"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seasonal runners"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureur de saison"
           }
         },
         "ja" : {
@@ -121,6 +145,12 @@
             "value" : "Special-colored runners (support the developer)"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs édition colorée (soutient le développeur)"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Failed to sync with AppStore."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur de synchronisation avec l’AppStore."
           }
         },
         "ja" : {
@@ -177,6 +213,12 @@
             "value" : "The transaction data signature is invalid."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La signature des données de transaction est invalide."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -203,6 +245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No Available Items"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas d’articles disponibles"
           }
         },
         "ja" : {
@@ -233,6 +281,12 @@
             "value" : "An internet connection is required to use Runners Store.\nPlease check your internet connection."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une connexion internet est requise pour utiliser le Magasin de Coureurs.\nVérifiez votre connexion internet."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -259,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The purchase is pending."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La transaction est en attente."
           }
         },
         "ja" : {
@@ -289,6 +349,12 @@
             "value" : "This product is not found."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce produit est introuvable."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -315,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restart the application while connected to the network."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redémarrer l’application une fois connecté à internet."
           }
         },
         "ja" : {
@@ -345,6 +417,12 @@
             "value" : "This product is unavaliable."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce produit est indisponible."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -371,6 +449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Purchase"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acheter"
           }
         },
         "ja" : {
@@ -401,6 +485,12 @@
             "value" : "Purchasing Error"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de l’achat"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -427,6 +517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The purchase is not allowed."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’achat n’est pas autorisé."
           }
         },
         "ja" : {
@@ -457,6 +553,12 @@
             "value" : "Check your Apple ID payment settings."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vérifiez vos réglages de paiement de l’identifiant Apple."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -483,6 +585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reload"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recharger"
           }
         },
         "ja" : {
@@ -513,6 +621,12 @@
             "value" : "Restore"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rétablir"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -539,6 +653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restore based on history"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restauration basée sur l’historique"
           }
         },
         "ja" : {
@@ -569,6 +689,12 @@
             "value" : "Runners Store"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magasin de Coureurs"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -597,6 +723,12 @@
             "value" : "Unknown error occurred."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une erreur inattendue s’est produite."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -623,6 +755,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The purchase was cancelled."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’achat a été annulé."
           }
         },
         "ja" : {

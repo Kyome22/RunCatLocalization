@@ -9,6 +9,12 @@
             "value" : "About RunCat"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "À propos de RunCat"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35,6 +41,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activity Monitor"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moniteur d’activité"
           }
         },
         "ja" : {
@@ -65,6 +77,12 @@
             "value" : "Back"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Précédent"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Animal Type Runners"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs Animaux"
           }
         },
         "ja" : {
@@ -121,6 +145,12 @@
             "value" : "Default Runners"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs par Défaut"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inanimate Type Runners"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs Objets"
           }
         },
         "ja" : {
@@ -177,6 +213,12 @@
             "value" : "Seasonal Runners"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs de Saison"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -203,6 +245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Self-Made Runners"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs Personnalisés"
           }
         },
         "ja" : {
@@ -233,6 +281,12 @@
             "value" : "Special-Colored Runners"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs Édition Colorée"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -259,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Contribute to RunCat"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Améliorer RunCat"
           }
         },
         "ja" : {
@@ -289,6 +349,12 @@
             "value" : "Debug Sleep"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Désactiver le mode débug"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -315,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Debug WakeUp"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activer le mode débug"
           }
         },
         "ja" : {
@@ -345,6 +417,12 @@
             "value" : "Help"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aide"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -371,6 +449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frequently Asked Questions"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Questions fréquentes"
           }
         },
         "ja" : {
@@ -401,6 +485,12 @@
             "value" : "How to register self-made runners"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comment créer ses coureurs personnalisés"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -427,6 +517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "More"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Plus"
           }
         },
         "ja" : {
@@ -457,6 +553,12 @@
             "value" : "Report an Issue"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Soumettre un problème"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -483,6 +585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Runners"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs"
           }
         },
         "ja" : {
@@ -513,6 +621,12 @@
             "value" : "Self-Made"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personnalisé"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -539,6 +653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Settings"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réglages"
           }
         },
         "ja" : {
@@ -569,6 +689,12 @@
             "value" : "Store"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magasin"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -595,6 +721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quit RunCat"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quitter RunCat"
           }
         },
         "ja" : {

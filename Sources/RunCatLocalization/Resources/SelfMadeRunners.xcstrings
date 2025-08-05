@@ -9,6 +9,12 @@
             "value" : "Color:"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couleur :"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -35,6 +41,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "This runner name is already in use."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce nom de coureur est déjà utilisé."
           }
         },
         "ja" : {
@@ -65,6 +77,12 @@
             "value" : "Failed to encode images."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’encodage de l’image a échoué."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +109,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Failed to save the self-made runner."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’enregistrement du coureur personnalisé a échoué."
           }
         },
         "ja" : {
@@ -121,6 +145,12 @@
             "value" : "1. Format: PNG"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Format : PNG"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -147,6 +177,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frames:"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Images :"
           }
         },
         "ja" : {
@@ -177,6 +213,12 @@
             "value" : "2. Height: 36px"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Hauteur : 36px"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -203,6 +245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Preconditions:"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prérequis :"
           }
         },
         "ja" : {
@@ -233,6 +281,12 @@
             "value" : "Preview:"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aperçus :"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -259,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Register"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer"
           }
         },
         "ja" : {
@@ -289,6 +349,12 @@
             "value" : "Registered Runners:"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs enregistrés :"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -315,6 +381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Registration Error"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de l’enregistrement"
           }
         },
         "ja" : {
@@ -345,6 +417,12 @@
             "value" : "Runner Name:"
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom du Coureur :"
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -371,6 +449,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Self-Made Runners"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs Personnalisés"
           }
         },
         "ja" : {
@@ -401,6 +485,12 @@
             "value" : "To register, you must purchase this function in the Runners Store."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pour enregistrer, vous devez acheter cette fonction dans le Magasin de Coureurs."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -427,6 +517,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Use original color"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utiliser la couleur d’origine"
           }
         },
         "ja" : {
@@ -457,6 +553,12 @@
             "value" : "The loaded image violates some preconditions."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’image chargé ne correspond pas aux prérequis."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -485,6 +587,12 @@
             "value" : "The number of frames has reached the upper limit."
           }
         },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le nombre d’image a atteint la limite maximale."
+          }
+        },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
@@ -511,6 +619,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3. Width: 10~100px"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Largeur : 10~100px"
           }
         },
         "ja" : {
