@@ -642,7 +642,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "3. 宽度：10~100 像素"
+            "value" : "3. 宽度:10~100 像素"
           }
         }
       }
