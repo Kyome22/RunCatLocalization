@@ -13,6 +13,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 - Japanese
 - Korean
 - Simplified Chinese
+- French
 
 ## Requirements
 
@@ -30,6 +31,8 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
        case english = "en"
        case japanese = "ja"
        case korean = "ko"
+       case simplifiedChinese = "zh-Hans"
+       case french = "fr"
    +   case newLanguage = "new language code"
 
        ︙
@@ -38,6 +41,8 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
            .english,
            .japanese,
            .korean,
+           .simplifiedChinese,
+           .french,
    +       .newLanguage,
        ]
    }
