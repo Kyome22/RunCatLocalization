@@ -216,7 +216,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "File de chats métallique"
+            "value" : "Chat Métal Cluster"
           }
         },
         "ja" : {
@@ -284,7 +284,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Chat d’Or"
+            "value" : "Chat doré"
           }
         },
         "ja" : {
@@ -454,7 +454,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Carillon"
+            "value" : "Carillon à vent"
           }
         },
         "ja" : {
@@ -2358,7 +2358,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "écureuil"
+            "value" : "Écureuil"
           }
         },
         "ja" : {
@@ -2698,7 +2698,7 @@
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Roue d’hamster"
+            "value" : "Roue de Hamster"
           }
         },
         "ja" : {
