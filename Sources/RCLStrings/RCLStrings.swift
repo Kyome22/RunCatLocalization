@@ -70,18 +70,26 @@ struct RCLStrings: ParsableCommand {
                     """
 
                 let arguments = if let _ = keys.first(where: { $0.containsFormat() }) {
-                    "_ language: RCLLanguage = .automatic, items: String..."
+                    "_ language: RCLLanguage = .automatic, items: [String]"
                 } else {
                     "_ language: RCLLanguage = .automatic"
                 }
 
                 text = """
-                    public var id: String { rawValue }
-                    
+                    public var id: String { rawValue }\n
                     public func string(\(arguments)) -> String {
                     \(text.nested())
                     }
                     """
+
+                if let _ = keys.first(where: { $0.containsFormat() }) {
+                    text += """
+                        \n
+                        public func string(_ language: RCLLanguage = .automatic, items: String...) -> String {
+                            self.string(language, items: items)
+                        }
+                        """
+                }
 
                 let caseText = keys
                     .map { "case \($0.removedFormat())" }
@@ -104,8 +112,7 @@ struct RCLStrings: ParsableCommand {
             .joined(separator: "\n\n")
 
         text = """
-            import SwiftUI
-            
+            import SwiftUI\n
             public enum RCL {
             \(text.nested())
             }
