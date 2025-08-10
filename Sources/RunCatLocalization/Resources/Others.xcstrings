@@ -171,36 +171,36 @@
         }
       }
     },
-    "mailIssueReport" : {
+    "mailIssueReport%@" : {
       "localizations" : {
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Issue Report"
+            "value" : "%@ Issue Report"
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rapporter un problème"
+            "value" : "%@ Rapporter un problème"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "不具合の報告"
+            "value" : "%@ 不具合の報告"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "문제점 알리기"
+            "value" : "%@ 문제점 알리기"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "报告问题"
+            "value" : "%@ 报告问题"
           }
         }
       }
