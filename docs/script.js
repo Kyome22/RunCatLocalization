@@ -4,7 +4,12 @@ class RunnerNamesViewer {
     this.filteredRunners = [];
     this.currentPage = 1;
     this.itemsPerPage = 20;
-    this.selectedLanguages = ["en"];
+
+    // Supported languages in order (English is always first)
+    this.supportedLanguages = ["en", "fr", "ja", "ko", "zh-Hans"];
+
+    // Selected language indices (0 = English, always selected)
+    this.selectedLanguageIndices = [0, 1]; // English and French by default
 
     this.init();
   }
@@ -33,12 +38,12 @@ class RunnerNamesViewer {
       this.filterRunners(e.target.value);
     });
 
-    // Language checkboxes
-    const languageCheckboxes = document.querySelectorAll(".language-checkbox input");
-    languageCheckboxes.forEach((checkbox) => {
-      checkbox.addEventListener("change", () => {
+    // Language radio buttons
+    const languageRadios = document.querySelectorAll(".language-radio input");
+    languageRadios.forEach((radio) => {
+      radio.addEventListener("change", () => {
         this.updateSelectedLanguages();
-        this.updateLanguageCheckboxStyles();
+        this.updateLanguageRadioStyles();
       });
     });
 
@@ -52,7 +57,7 @@ class RunnerNamesViewer {
     });
 
     // Initial style update
-    this.updateLanguageCheckboxStyles();
+    this.updateLanguageRadioStyles();
   }
 
   filterRunners(searchTerm) {
@@ -63,9 +68,10 @@ class RunnerNamesViewer {
       this.filteredRunners = this.runners.filter((runner) => {
         return (
           runner.runner_id.toLowerCase().includes(term) ||
-          Object.values(runner.translations).some((translation) =>
-            translation.toLowerCase().includes(term)
-          )
+          this.supportedLanguages.some((lang) => {
+            const translation = runner.translations[lang];
+            return translation && translation.toLowerCase().includes(term);
+          })
         );
       });
     }
@@ -75,17 +81,29 @@ class RunnerNamesViewer {
   }
 
   updateSelectedLanguages() {
-    const checkboxes = document.querySelectorAll(".language-checkbox input:checked");
-    this.selectedLanguages = Array.from(checkboxes).map((cb) => cb.value);
-    this.updateLanguageCheckboxStyles();
+    const radios = document.querySelectorAll(".language-radio input:checked");
+    this.selectedLanguageIndices = [0]; // English is always selected (index 0)
+
+    if (radios.length > 0) {
+      const selectedValue = radios[0].value;
+      const selectedIndex = this.supportedLanguages.indexOf(selectedValue);
+      if (selectedIndex !== -1) {
+        this.selectedLanguageIndices.push(selectedIndex);
+      }
+    } else {
+      // Default to French (index 1) if no language is selected
+      this.selectedLanguageIndices.push(1);
+    }
+
+    this.updateLanguageRadioStyles();
     this.render();
   }
 
-  updateLanguageCheckboxStyles() {
-    const languageLabels = document.querySelectorAll(".language-checkbox");
+  updateLanguageRadioStyles() {
+    const languageLabels = document.querySelectorAll(".language-radio");
     languageLabels.forEach((label) => {
-      const checkbox = label.querySelector("input");
-      if (checkbox.checked) {
+      const radio = label.querySelector("input");
+      if (radio.checked) {
         label.classList.add("selected");
       } else {
         label.classList.remove("selected");
@@ -124,33 +142,47 @@ class RunnerNamesViewer {
     tbody.innerHTML = "";
 
     pageRunners.forEach((runner) => {
-      const row = document.createElement("tr");
+      const row = document.createElement("div");
+      row.className = "table-row";
+
+      // Image cell
+      const imageCell = document.createElement("div");
+      const img = document.createElement("img");
+      img.src = `images/${runner.runner_id}.png`;
+      img.alt = runner.runner_id;
+      img.className = "runner-image";
+      img.onerror = function () {
+        this.style.display = "none";
+      };
+      imageCell.appendChild(img);
+      row.appendChild(imageCell);
 
       // Runner ID cell
-      const idCell = document.createElement("td");
-      idCell.className = "runner-id";
+      const idCell = document.createElement("div");
       idCell.textContent = runner.runner_id;
       row.appendChild(idCell);
 
-      // Translation cells
-      const languages = ["en", "fr", "ja", "ko", "zh-Hans"];
-      languages.forEach((lang) => {
-        const cell = document.createElement("td");
-        cell.className = "translation-cell";
+      // English cell (always visible)
+      const enCell = document.createElement("div");
+      const enTranslation = runner.translations[this.supportedLanguages[0]] || "";
+      enCell.textContent = enTranslation;
+      if (enTranslation.length > 20) {
+        enCell.title = enTranslation;
+      }
+      row.appendChild(enCell);
 
-        if (this.selectedLanguages.includes(lang)) {
-          const translation = runner.translations[lang] || "";
-          cell.textContent = translation;
-          // Add tooltip for long text
-          if (translation.length > 20) {
-            cell.title = translation;
-          }
-        } else {
-          cell.classList.add("hidden");
+      // Additional language cell
+      const additionalCell = document.createElement("div");
+      if (this.selectedLanguageIndices.length > 1) {
+        const additionalLangIndex = this.selectedLanguageIndices[1];
+        const additionalLang = this.supportedLanguages[additionalLangIndex];
+        const additionalTranslation = runner.translations[additionalLang] || "";
+        additionalCell.textContent = additionalTranslation;
+        if (additionalTranslation.length > 20) {
+          additionalCell.title = additionalTranslation;
         }
-
-        row.appendChild(cell);
-      });
+      }
+      row.appendChild(additionalCell);
 
       tbody.appendChild(row);
     });
@@ -181,15 +213,21 @@ class RunnerNamesViewer {
   }
 
   updateLanguageHeaders() {
-    const languages = ["en", "fr", "ja", "ko", "zh-Hans"];
-    languages.forEach((lang) => {
-      const header = document.getElementById(`${lang}-header`);
-      if (this.selectedLanguages.includes(lang)) {
-        header.classList.remove("hidden");
-      } else {
-        header.classList.add("hidden");
-      }
-    });
+    const additionalHeader = document.getElementById("additional-header");
+    if (this.selectedLanguageIndices.length > 1) {
+      const additionalLangIndex = this.selectedLanguageIndices[1];
+      const additionalLang = this.supportedLanguages[additionalLangIndex];
+      const langNames = {
+        en: "English",
+        fr: "Français",
+        ja: "日本語",
+        ko: "한국어",
+        "zh-Hans": "简体中文",
+      };
+      additionalHeader.textContent = langNames[additionalLang] || "Additional Language";
+    } else {
+      additionalHeader.textContent = "Additional Language";
+    }
   }
 
   showError(message) {

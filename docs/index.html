@@ -24,30 +24,24 @@
         </div>
 
         <div class="language-filters">
-          <h3>Languages</h3>
-          <div class="language-checkboxes">
-            <label class="language-checkbox">
-              <input type="checkbox" value="en" checked />
-              <span class="flag">🇺🇸</span>
-              <span>English</span>
-            </label>
-            <label class="language-checkbox">
-              <input type="checkbox" value="fr" />
+          <div class="language-radios">
+            <label class="language-radio">
+              <input type="radio" name="language" value="fr" checked />
               <span class="flag">🇫🇷</span>
               <span>Français</span>
             </label>
-            <label class="language-checkbox">
-              <input type="checkbox" value="ja" />
+            <label class="language-radio">
+              <input type="radio" name="language" value="ja" />
               <span class="flag">🇯🇵</span>
               <span>日本語</span>
             </label>
-            <label class="language-checkbox">
-              <input type="checkbox" value="ko" />
+            <label class="language-radio">
+              <input type="radio" name="language" value="ko" />
               <span class="flag">🇰🇷</span>
               <span>한국어</span>
             </label>
-            <label class="language-checkbox">
-              <input type="checkbox" value="zh-Hans" />
+            <label class="language-radio">
+              <input type="radio" name="language" value="zh-Hans" />
               <span class="flag">🇨🇳</span>
               <span>简体中文</span>
             </label>
@@ -60,22 +54,16 @@
         <span id="filteredCount">Showing: 0 runners</span>
       </div>
 
-      <div class="table-container">
-        <table id="runnersTable">
-          <thead>
-            <tr>
-              <th>Runner ID</th>
-              <th id="en-header">English</th>
-              <th id="fr-header">Français</th>
-              <th id="ja-header">日本語</th>
-              <th id="ko-header">한국어</th>
-              <th id="zh-Hans-header">简体中文</th>
-            </tr>
-          </thead>
-          <tbody id="runnersTableBody">
-            <!-- Data will be populated by JavaScript -->
-          </tbody>
-        </table>
+      <div class="table-container" id="runnersTable">
+        <div class="table-header">
+          <div>Image</div>
+          <div>Runner ID</div>
+          <div id="en-header">English</div>
+          <div id="additional-header">Additional Language</div>
+        </div>
+        <div id="runnersTableBody">
+          <!-- Data will be populated by JavaScript -->
+        </div>
       </div>
 
       <div class="pagination">

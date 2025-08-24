@@ -24,7 +24,10 @@ TEMP_FILE=$(mktemp)
 # Use jq to parse xcstrings file and generate JSON in specified format
 jq -r '
   .strings | to_entries | map({
-    runner_id: .key,
+    runner_id: (
+      # Convert runner_id to image_name format: split by underscore, reverse, join with hyphen
+      .key | split("_") | reverse | join("-")
+    ),
     translations: {
       "en": .value.localizations.en.stringUnit.value,
       "fr": .value.localizations.fr.stringUnit.value,
