@@ -167,13 +167,13 @@ header p {
 }
 
 .table-header > div:nth-child(2) {
-  width: 140px;
   flex-shrink: 0;
+  min-width: 180px;
 }
 
 .table-header > div:nth-child(3) {
-  width: 200px;
   flex-shrink: 0;
+  min-width: 220px;
 }
 
 .table-header > div:nth-child(4) {
@@ -201,13 +201,13 @@ header p {
 }
 
 .table-row > div:nth-child(2) {
-  width: 140px;
   flex-shrink: 0;
+  min-width: 180px;
 }
 
 .table-row > div:nth-child(3) {
-  width: 200px;
   flex-shrink: 0;
+  min-width: 220px;
 }
 
 .table-row > div:nth-child(4) {
