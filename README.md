@@ -53,6 +53,12 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 3. Edit those xcstrings files  
    <img src="https://github.com/user-attachments/assets/4b8c5ff2-4c5c-4d22-a314-70d21f2e539c" width="500px" />
 
+## Runner Names Translation Reference
+
+https://kyome22.github.io/RunCatLocalization/
+
+When contributing translations for runner names, please refer to this page to ensure appropriate translations that match each runner's characteristics. The page displays all runner names with their images and current translations, making it easier to understand the context and provide suitable translations.
+
 ## Notes
 
 Please use wording that follows Apple platform conventions.
