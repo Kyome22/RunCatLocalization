@@ -1,28 +1,39 @@
 import Foundation
 
-public enum RCLLanguage: String, Sendable, Identifiable {
+public enum RCLLanguage: Sendable, Identifiable {
     case automatic
-    case english = "en"
-    case japanese = "ja"
-    case korean = "ko"
-    case simplifiedChinese = "zh-Hans"
-    case french = "fr"
+    case english
+    case japanese
+    case korean
+    case simplifiedChinese
+    case french
 
-    public var id: String { rawValue }
-
-    public var bundle: Bundle? {
-        if self == .automatic {
-            Bundle.module
-        } else if let path = Bundle.module.path(forResource: rawValue, ofType: "lproj") {
-            Bundle(path: path)
-        } else {
-            nil
+    public var locale: Locale {
+        switch self {
+        case .automatic:
+            Locale.current
+        case .english:
+            Locale(languageCode: .english)
+        case .japanese:
+            Locale(languageCode: .japanese)
+        case .korean:
+            Locale(languageCode: .korean)
+        case .simplifiedChinese:
+            Locale(languageCode: .chinese, script: .hanSimplified)
+        case .french:
+            Locale(languageCode: .french)
         }
     }
 
-    public var locale: Locale {
-        Locale(identifier: rawValue)
+    public var bundle: Bundle? {
+        if self != .automatic, let path = Bundle.module.path(forResource: locale.identifier, ofType: "lproj") {
+            Bundle(path: path)
+        } else {
+            Bundle.module
+        }
     }
+
+    public var id: String { locale.identifier }
 
     public static let allCases: [RCLLanguage] = [
         .english,

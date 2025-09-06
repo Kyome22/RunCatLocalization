@@ -26,14 +26,35 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 1. Edit Sources/RunCatLocalization/RCLLanguage.swift
 
    ```diff swift
-   public enum RCLLanguage: String, Sendable, Identifiable {
+   public enum RCLLanguage: Sendable, Identifiable {
        case automatic
-       case english = "en"
-       case japanese = "ja"
-       case korean = "ko"
-       case simplifiedChinese = "zh-Hans"
-       case french = "fr"
-   +   case newLanguage = "new language code"
+       case english
+       case japanese
+       case korean
+       case simplifiedChinese
+       case french
+   +   case newLanguage
+
+       ︙
+
+       public var locale: Locale {
+           switch self {
+           case .automatic:
+               Locale.current
+           case .english:
+               Locale(languageCode: .english)
+           case .japanese:
+               Locale(languageCode: .japanese)
+           case .korean:
+               Locale(languageCode: .korean)
+           case .simplifiedChinese:
+               Locale(languageCode: .chinese, script: .hanSimplified)
+           case .french:
+               Locale(languageCode: .french)
+   +       case .newLanguege:
+   +           Locale(languageCode: .newLanguageCode)
+           }
+       }
 
        ︙
 
