@@ -29,10 +29,10 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
    public enum RCLLanguage: Sendable, Identifiable {
        case automatic
        case english
+       case french
        case japanese
        case korean
        case simplifiedChinese
-       case french
    +   case newLanguage
 
        ︙
@@ -43,14 +43,14 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
                Locale.current
            case .english:
                Locale(languageCode: .english)
+           case .french:
+               Locale(languageCode: .french)
            case .japanese:
                Locale(languageCode: .japanese)
            case .korean:
                Locale(languageCode: .korean)
            case .simplifiedChinese:
                Locale(languageCode: .chinese, script: .hanSimplified)
-           case .french:
-               Locale(languageCode: .french)
    +       case .newLanguege:
    +           Locale(languageCode: .newLanguageCode)
            }
@@ -60,10 +60,10 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
        public static let allCases: [RCLLanguage] = [
            .english,
+           .french,
            .japanese,
            .korean,
            .simplifiedChinese,
-           .french,
    +       .newLanguage,
        ]
    }
