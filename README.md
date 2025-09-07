@@ -9,11 +9,11 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
 ## Supported languages
 
+- Chinese (Simplified)
 - English (primary)
+- French
 - Japanese
 - Korean
-- Simplified Chinese
-- French
 
 ## Requirements
 
@@ -28,11 +28,11 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
    ```diff swift
    public enum RCLLanguage: Sendable, Identifiable {
        case automatic
+       case chineseSimplified
        case english
        case french
        case japanese
        case korean
-       case simplifiedChinese
    +   case newLanguage
 
        ︙
@@ -41,6 +41,8 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
            switch self {
            case .automatic:
                Locale.current
+           case .chineseSimplified:
+               Locale(languageCode: .chinese, script: .hanSimplified)
            case .english:
                Locale(languageCode: .english)
            case .french:
@@ -49,8 +51,6 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
                Locale(languageCode: .japanese)
            case .korean:
                Locale(languageCode: .korean)
-           case .simplifiedChinese:
-               Locale(languageCode: .chinese, script: .hanSimplified)
    +       case .newLanguege:
    +           Locale(languageCode: .newLanguageCode)
            }
@@ -59,11 +59,11 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
        ︙
 
        public static let allCases: [RCLLanguage] = [
+           .chineseSimplified,
            .english,
            .french,
            .japanese,
            .korean,
-           .simplifiedChinese,
    +       .newLanguage,
        ]
    }

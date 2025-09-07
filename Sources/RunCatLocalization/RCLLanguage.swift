@@ -2,16 +2,18 @@ import Foundation
 
 public enum RCLLanguage: Sendable, Identifiable {
     case automatic
+    case chineseSimplified
     case english
     case french
     case japanese
     case korean
-    case simplifiedChinese
 
     public var locale: Locale {
         switch self {
         case .automatic:
             Locale.current
+        case .chineseSimplified:
+            Locale(languageCode: .chinese, script: .hanSimplified)
         case .english:
             Locale(languageCode: .english)
         case .french:
@@ -20,8 +22,6 @@ public enum RCLLanguage: Sendable, Identifiable {
             Locale(languageCode: .japanese)
         case .korean:
             Locale(languageCode: .korean)
-        case .simplifiedChinese:
-            Locale(languageCode: .chinese, script: .hanSimplified)
         }
     }
 
@@ -36,10 +36,10 @@ public enum RCLLanguage: Sendable, Identifiable {
     public var id: String { locale.identifier }
 
     public static let allCases: [RCLLanguage] = [
+        .chineseSimplified,
         .english,
         .french,
         .japanese,
         .korean,
-        .simplifiedChinese,
     ]
 }
