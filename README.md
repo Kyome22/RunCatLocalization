@@ -9,7 +9,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
 ## Supported languages
 
-- Chinese (Simplified)
+- Chinese, Simplified
 - English (primary)
 - French
 - Japanese

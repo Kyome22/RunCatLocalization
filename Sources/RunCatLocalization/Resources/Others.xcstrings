@@ -409,6 +409,40 @@
         }
       }
     },
+    "translatorChineseSimplified" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chinese, Simplified - Junjie Lin (junzilla)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chinois Simplifié - Junjie Lin (junzilla)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中国語 (簡体) - Junjie Lin (junzilla)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중국어 (간체) - Junjie Lin (junzilla)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "简体中文 - Junjie Lin (junzilla)"
+          }
+        }
+      }
+    },
     "translatorFrench" : {
       "localizations" : {
         "en" : {
@@ -507,40 +541,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "韩语 - Jaewon Gwon (Jake)"
-          }
-        }
-      }
-    },
-    "translatorSimplifiedChinese" : {
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Simplified Chinese - Junjie Lin (junzilla)"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chinois Simplifié - Junjie Lin (junzilla)"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "中国語 (簡体) - Junjie Lin (junzilla)"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "중국어 (간체) - Junjie Lin (junzilla)"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "简体中文 - Junjie Lin (junzilla)"
           }
         }
       }
