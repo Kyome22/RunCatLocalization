@@ -3,6 +3,12 @@
   "strings" : {
     "categoryAnimal" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tierische Läufer"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +43,12 @@
     },
     "categoryInanimate" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbelebte Läufer"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71,6 +83,12 @@
     },
     "categoryRecommended" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empfohlene Elemente"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -105,6 +123,12 @@
     },
     "categorySeasonal" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisonale Läufer"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -139,6 +163,12 @@
     },
     "categorySpecial" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Läufer in Sonderfarben (unterstützen Sie den Entwickler)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173,6 +203,12 @@
     },
     "failedToSync" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Synchronisieren mit dem AppStore."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +243,12 @@
     },
     "failedToVerify" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Transaktionsdatensignatur ist ungültig."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -241,6 +283,12 @@
     },
     "noAvailableItems" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine verfügbaren Elemente"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -275,6 +323,12 @@
     },
     "noAvailableItemsSuggestion" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Für die Nutzung von Runners Store ist eine Internetverbindung erforderlich.\nBitte überprüfen Sie Ihre Internetverbindung."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -309,6 +363,12 @@
     },
     "pending" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Kauf steht noch aus."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -343,6 +403,12 @@
     },
     "productNotFound" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Produkt wurde nicht gefunden."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -377,6 +443,12 @@
     },
     "productNotFoundSuggestion" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starten Sie die Anwendung neu, während Sie mit dem Netzwerk verbunden sind."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -411,6 +483,12 @@
     },
     "productUnavailable" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Produkt ist nicht verfügbar."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -445,6 +523,12 @@
     },
     "purchase" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kauf"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -479,6 +563,12 @@
     },
     "purchaseErrorTitle" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kauffehler"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -513,6 +603,12 @@
     },
     "purchaseNotAllowed" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Kauf ist nicht erlaubt."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -547,6 +643,12 @@
     },
     "purchaseNotAllowedSuggestion" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überprüfen Sie die Zahlungseinstellungen Ihrer Apple ID."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -581,6 +683,12 @@
     },
     "reload" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neu laden"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -615,6 +723,12 @@
     },
     "restore" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederherstellen"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -649,6 +763,12 @@
     },
     "restoreTitle" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederherstellung basierend auf Verlauf"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -683,6 +803,12 @@
     },
     "runnersStoreTitle" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Läufer Store"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -717,6 +843,12 @@
     },
     "unknownError" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannter Fehler aufgetreten."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -751,6 +883,12 @@
     },
     "userCancelled" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Kauf wurde storniert."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",

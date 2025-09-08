@@ -3,6 +3,12 @@
   "strings" : {
     "%@queryLang" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=de"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +43,12 @@
     },
     "endlessGameTitle" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endlosspiel"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71,6 +83,12 @@
     },
     "generalTab" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -105,6 +123,12 @@
     },
     "localization" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übersetzung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -139,6 +163,12 @@
     },
     "mailEnvironment%@%@%@%@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Umgebung\n- %@: ver %@\n- %@\n- macOS: %@"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173,6 +203,12 @@
     },
     "mailExpectedResult" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Erwartetes Verhalten"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +243,12 @@
     },
     "mailIssueReport%@" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@Fehler gemeldet "
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -241,6 +283,12 @@
     },
     "mailReproduceIssue" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Schritte um den Fehler zu reproduzieren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -275,6 +323,12 @@
     },
     "mailShortDescription" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Kurzbeschreibung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -309,6 +363,12 @@
     },
     "mailWhatYouTried" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Was hast du probiert\n- Neustart der app: Ja/Nein\n- Läufer Store wiederhergestellt: Ja/Nein\n- App deinstalliert: Ja/Nein"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -343,6 +403,12 @@
     },
     "support" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support-Seite"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -377,6 +443,12 @@
     },
     "systemInfoTab" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System Info"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -411,6 +483,12 @@
     },
     "translatorChineseSimplified" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vereinfachtes Chinesisch - Junjie Lin (junzilla)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -445,6 +523,12 @@
     },
     "translatorFrench" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Französisch - Kravatox"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -477,8 +561,55 @@
         }
       }
     },
+    "translatorGerman" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deutsch - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "German - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allemand - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ドイツ語 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "독일어 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "德语 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        }
+      }
+    },
     "translatorJapanese" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japanisch - Takuto Nakamura (Kyome)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -513,6 +644,12 @@
     },
     "translatorKorean" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koreanisch - Jaewon Gwon (Jake)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
