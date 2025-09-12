@@ -562,7 +562,6 @@
       }
     },
     "translatorGerman" : {
-      "extractionState" : "manual",
       "localizations" : {
         "de" : {
           "stringUnit" : {
