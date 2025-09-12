@@ -3,6 +3,12 @@
   "strings" : {
     "activate" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktivieren"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -37,6 +43,12 @@
     },
     "activateSystemInfoBarMessage" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn Sie ein MacBook mit einer Notch verwenden, kann es sein, dass Sie die Systeminformationsleiste in der Menüleiste nicht sehen oder nicht auf andere Menüleistenelemente zugreifen können."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71,6 +83,12 @@
     },
     "activateSystemInfoBarTitle" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinweise zur Verwendung der Systeminformationsleiste"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -105,6 +123,12 @@
     },
     "batteryState" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Batteriestatus"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -139,6 +163,12 @@
     },
     "changedMyMind" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich habe meine Meinung geändert"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -173,6 +203,12 @@
     },
     "experimentalFeature" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Experimentelle Funktion"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -207,6 +243,12 @@
     },
     "memoryPerformance" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speicherleistung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -241,6 +283,12 @@
     },
     "monitoring" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überwachung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -275,6 +323,12 @@
     },
     "networkConnection" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Netzwerkverbindung"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -309,6 +363,12 @@
     },
     "storageCapacity" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Speicherkapazität"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -343,6 +403,12 @@
     },
     "systemInfoBar" : {
       "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System-Infoleiste (β)"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
