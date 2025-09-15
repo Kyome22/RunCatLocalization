@@ -406,7 +406,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Debug Sleep"
+            "value" : "Debug Ruhezustand"
           }
         },
         "en" : {
@@ -446,7 +446,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Debug WakeUp"
+            "value" : "Debug Weckfunktion"
           }
         },
         "en" : {
