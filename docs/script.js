@@ -5,11 +5,14 @@ class RunnerNamesViewer {
     this.currentPage = 1;
     this.itemsPerPage = 20;
 
-    // Supported languages in order (English is always first)
-    this.supportedLanguages = ["en", "fr", "ja", "ko", "zh-Hans"];
+    // Primary language (always English)
+    this.primaryLanguage = "en";
 
-    // Selected language indices (0 = English, always selected)
-    this.selectedLanguageIndices = [0, 1]; // English and French by default
+    // Additional languages in alphabetical order by language code
+    this.supportedLanguages = ["de", "fr", "ja", "ko", "zh-Hans"];
+
+    // Selected additional language index (English is always selected)
+    this.selectedLanguageIndex = 0; // First additional language by default
 
     this.init();
   }
@@ -17,6 +20,7 @@ class RunnerNamesViewer {
   async init() {
     await this.loadData();
     this.setupEventListeners();
+    this.setDefaultLanguageSelection();
     this.render();
   }
 
@@ -28,6 +32,19 @@ class RunnerNamesViewer {
     } catch (error) {
       console.error("Failed to load runner data:", error);
       this.showError("Failed to load runner data. Please refresh the page.");
+    }
+  }
+
+  setDefaultLanguageSelection() {
+    // Select the first additional language (index 0) by default
+    const firstAdditionalLanguage = this.supportedLanguages[0];
+    const radioButton = document.querySelector(
+      `input[name="language"][value="${firstAdditionalLanguage}"]`
+    );
+    if (radioButton) {
+      radioButton.checked = true;
+      this.updateSelectedLanguages();
+      this.updateLanguageRadioStyles();
     }
   }
 
@@ -82,17 +99,16 @@ class RunnerNamesViewer {
 
   updateSelectedLanguages() {
     const radios = document.querySelectorAll(".language-radio input:checked");
-    this.selectedLanguageIndices = [0]; // English is always selected (index 0)
 
     if (radios.length > 0) {
       const selectedValue = radios[0].value;
       const selectedIndex = this.supportedLanguages.indexOf(selectedValue);
       if (selectedIndex !== -1) {
-        this.selectedLanguageIndices.push(selectedIndex);
+        this.selectedLanguageIndex = selectedIndex;
       }
     } else {
-      // Default to French (index 1) if no language is selected
-      this.selectedLanguageIndices.push(1);
+      // Default to first additional language (index 0) if no language is selected
+      this.selectedLanguageIndex = 0;
     }
 
     this.updateLanguageRadioStyles();
@@ -164,7 +180,7 @@ class RunnerNamesViewer {
 
       // English cell (always visible)
       const enCell = document.createElement("div");
-      const enTranslation = runner.translations[this.supportedLanguages[0]] || "";
+      const enTranslation = runner.translations[this.primaryLanguage] || "";
       enCell.textContent = enTranslation;
       if (enTranslation.length > 20) {
         enCell.title = enTranslation;
@@ -173,14 +189,11 @@ class RunnerNamesViewer {
 
       // Additional language cell
       const additionalCell = document.createElement("div");
-      if (this.selectedLanguageIndices.length > 1) {
-        const additionalLangIndex = this.selectedLanguageIndices[1];
-        const additionalLang = this.supportedLanguages[additionalLangIndex];
-        const additionalTranslation = runner.translations[additionalLang] || "";
-        additionalCell.textContent = additionalTranslation;
-        if (additionalTranslation.length > 20) {
-          additionalCell.title = additionalTranslation;
-        }
+      const additionalLang = this.supportedLanguages[this.selectedLanguageIndex];
+      const additionalTranslation = runner.translations[additionalLang] || "";
+      additionalCell.textContent = additionalTranslation;
+      if (additionalTranslation.length > 20) {
+        additionalCell.title = additionalTranslation;
       }
       row.appendChild(additionalCell);
 
@@ -214,20 +227,15 @@ class RunnerNamesViewer {
 
   updateLanguageHeaders() {
     const additionalHeader = document.getElementById("additional-header");
-    if (this.selectedLanguageIndices.length > 1) {
-      const additionalLangIndex = this.selectedLanguageIndices[1];
-      const additionalLang = this.supportedLanguages[additionalLangIndex];
-      const langNames = {
-        en: "English",
-        fr: "Français",
-        ja: "日本語",
-        ko: "한국어",
-        "zh-Hans": "简体中文",
-      };
-      additionalHeader.textContent = langNames[additionalLang] || "Additional Language";
-    } else {
-      additionalHeader.textContent = "Additional Language";
-    }
+    const additionalLang = this.supportedLanguages[this.selectedLanguageIndex];
+    const langNames = {
+      de: "Deutsch",
+      fr: "Français",
+      ja: "日本語",
+      ko: "한국어",
+      "zh-Hans": "简体中文",
+    };
+    additionalHeader.textContent = langNames[additionalLang] || "Additional Language";
   }
 
   showError(message) {

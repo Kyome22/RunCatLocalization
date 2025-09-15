@@ -29,6 +29,7 @@ jq -r '
       .key | split("_") | reverse | join("-")
     ),
     translations: {
+      "de": .value.localizations.de.stringUnit.value,
       "en": .value.localizations.en.stringUnit.value,
       "fr": .value.localizations.fr.stringUnit.value,
       "ja": .value.localizations.ja.stringUnit.value,
