@@ -33,6 +33,12 @@
             "value" : "모든 러너중에서 선택"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chọn từ tất cả các runner"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71,6 +77,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "그냥 둘래요"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tôi đã thay đổi ý định"
           }
         },
         "zh-Hans" : {
@@ -113,6 +125,12 @@
             "value" : "수평 반전"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lật ngang"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "속도 반전"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đảo ngược tốc độ"
           }
         },
         "zh-Hans" : {
@@ -193,6 +217,12 @@
             "value" : "자동 실행"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khởi chạy"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -231,6 +261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "로그인 시 RunCat을 자동 실행"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự động khởi chạy RunCat khi đăng nhập."
           }
         },
         "zh-Hans" : {
@@ -273,6 +309,12 @@
             "value" : "흑백 러너중에서 선택"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chỉ chọn từ các runner đơn sắc"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -311,6 +353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "러너"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner"
           }
         },
         "zh-Hans" : {
@@ -353,6 +401,12 @@
             "value" : "10분마다 랜덤하게 러너 바꾸기"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự động chọn ngẫu nhiên mỗi 10 phút"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -391,6 +445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "러너 멈추기"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dừng runner"
           }
         },
         "zh-Hans" : {
@@ -433,6 +493,12 @@
             "value" : "러너를 멈춰주세요"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dừng runner"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -471,6 +537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "만약 러너를 멈춘다면, 이 애플리케이션의 특징을 잃게됩니다."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu bạn dừng runner, tính độc đáo của ứng dụng này sẽ bị mất."
           }
         },
         "zh-Hans" : {
@@ -513,6 +585,12 @@
             "value" : "정말로 러너를 멈추시겠습니까?"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạn có thực sự muốn dừng runner không?"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -551,6 +629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시스템 강조 색상 사용"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sử dụng màu nhấn của hệ thống"
           }
         },
         "zh-Hans" : {

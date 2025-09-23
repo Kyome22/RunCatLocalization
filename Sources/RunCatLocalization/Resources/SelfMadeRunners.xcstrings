@@ -33,6 +33,12 @@
             "value" : "색상:"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Màu sắc:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71,6 +77,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미 사용중인 러너 이름입니다."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên runner này đã được sử dụng."
           }
         },
         "zh-Hans" : {
@@ -113,6 +125,12 @@
             "value" : "이미지를 인코딩하지 못했습니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể mã hóa hình ảnh."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커스텀 러너 저장에 실패했습니다."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể lưu runner tự tạo."
           }
         },
         "zh-Hans" : {
@@ -193,6 +217,12 @@
             "value" : "1. 파일 형식: PNG"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Định dạng: PNG"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -231,6 +261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "프레임:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khung hình:"
           }
         },
         "zh-Hans" : {
@@ -273,6 +309,12 @@
             "value" : "2. 높이: 36px"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Chiều cao: 36px"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -311,6 +353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "필수조건:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điều kiện tiên quyết:"
           }
         },
         "zh-Hans" : {
@@ -353,6 +401,12 @@
             "value" : "미리보기:"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem trước:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -391,6 +445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "등록"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đăng ký"
           }
         },
         "zh-Hans" : {
@@ -433,6 +493,12 @@
             "value" : "등록된 러너:"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners đã đăng ký:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -471,6 +537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "등록 오류"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lỗi đăng ký"
           }
         },
         "zh-Hans" : {
@@ -513,6 +585,12 @@
             "value" : "러너 이름:"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên Runner:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -551,6 +629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커스텀 러너"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners tự tạo"
           }
         },
         "zh-Hans" : {
@@ -593,6 +677,12 @@
             "value" : "등록하시려면 러너 스토어에서 커스텀 러너 기능을 구매해야 합니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Để đăng ký, bạn phải mua chức năng này trong Cửa hàng Runners."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -631,6 +721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "기본 색상 사용"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sử dụng màu gốc"
           }
         },
         "zh-Hans" : {
@@ -673,6 +769,12 @@
             "value" : "해당 이미지는 필수조건에 맞지 않습니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hình ảnh đã tải vi phạm một số điều kiện tiên quyết."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -713,6 +815,12 @@
             "value" : "프레임 수가 제한 범위를 초과했습니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số lượng khung hình đã đạt giới hạn tối đa."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -751,6 +859,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3. 너비: 10~100px"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Chiều rộng: 10~100px"
           }
         },
         "zh-Hans" : {

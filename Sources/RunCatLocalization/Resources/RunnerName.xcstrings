@@ -33,6 +33,12 @@
             "value" : "베타냥"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mèo β"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -71,6 +77,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "새"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chim"
           }
         },
         "zh-Hans" : {
@@ -113,6 +125,12 @@
             "value" : "모닥불"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lửa trại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -151,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "나비"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bướm"
           }
         },
         "zh-Hans" : {
@@ -193,6 +217,12 @@
             "value" : "감마냥"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mèo γ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -231,6 +261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "알파냥"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mèo α"
           }
         },
         "zh-Hans" : {
@@ -273,6 +309,12 @@
             "value" : "메탈냥"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mèo Kim Loại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -311,6 +353,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "플래시냥"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mèo Tốc Độ"
           }
         },
         "zh-Hans" : {
@@ -353,6 +401,12 @@
             "value" : "골든냥"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mèo Vàng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -391,6 +445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "디스크 냥캣"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mèo Cầu Vồng Nhẫu"
           }
         },
         "zh-Hans" : {
@@ -433,6 +493,12 @@
             "value" : "카멜레온"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tắc Kè"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -471,6 +537,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "치타"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Báo"
           }
         },
         "zh-Hans" : {
@@ -513,6 +585,12 @@
             "value" : "닭"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gà"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -551,6 +629,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "풍경"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuông gió"
           }
         },
         "zh-Hans" : {
@@ -593,6 +677,12 @@
             "value" : "도시"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thành phố"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -631,6 +721,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커피"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cà phê"
           }
         },
         "zh-Hans" : {
@@ -673,6 +769,12 @@
             "value" : "톱니바퀴"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bánh răng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -711,6 +813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "웰시코기"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chó Corgi"
           }
         },
         "zh-Hans" : {
@@ -753,6 +861,12 @@
             "value" : "뉴턴의 요람"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con lắc Newton"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -791,6 +905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사인함수"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đường cong sin"
           }
         },
         "zh-Hans" : {
@@ -833,6 +953,12 @@
             "value" : "공룡"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khủng long"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -871,6 +997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chó"
           }
         },
         "zh-Hans" : {
@@ -913,6 +1045,12 @@
             "value" : "도게자"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lễ xin lỗi Nhật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -951,6 +1089,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "돌고래"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cá heo"
           }
         },
         "zh-Hans" : {
@@ -993,6 +1137,12 @@
             "value" : "점"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chấm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1031,6 +1181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rrồng"
           }
         },
         "zh-Hans" : {
@@ -1073,6 +1229,12 @@
             "value" : "버블티"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trà sữa trân châu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1111,6 +1273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물방울"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giọt nước"
           }
         },
         "zh-Hans" : {
@@ -1153,6 +1321,12 @@
             "value" : "러버덕"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vịt cao su"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1191,6 +1365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지구"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trái Đất"
           }
         },
         "zh-Hans" : {
@@ -1233,6 +1413,12 @@
             "value" : "엔진"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Động cơ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1268,6 +1454,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entaku"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entaku"
@@ -1313,6 +1505,12 @@
             "value" : "공장"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhà máy"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1351,6 +1549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "생선남"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Người Cá"
           }
         },
         "zh-Hans" : {
@@ -1393,6 +1597,12 @@
             "value" : "여우"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cáo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1431,6 +1641,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개구리"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ế ch"
           }
         },
         "zh-Hans" : {
@@ -1473,6 +1689,12 @@
             "value" : "후라이팬"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chảo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1511,6 +1733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "유령"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ma"
           }
         },
         "zh-Hans" : {
@@ -1553,6 +1781,12 @@
             "value" : "그레이하운드"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chó Xám"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1591,6 +1825,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "고슴도치"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nhím"
           }
         },
         "zh-Hans" : {
@@ -1633,6 +1873,12 @@
             "value" : "말"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ngựa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1671,6 +1917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "인간"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con Người"
           }
         },
         "zh-Hans" : {
@@ -1713,6 +1965,12 @@
             "value" : "잭 오 랜턴"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đèn Bí Ngô"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1751,6 +2009,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "증기기관차"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đầu Máy Hơi Nước"
           }
         },
         "zh-Hans" : {
@@ -1793,6 +2057,12 @@
             "value" : "커스텀 러너"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner Tự Tạo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1831,6 +2101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모찌"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bánh Mochi"
           }
         },
         "zh-Hans" : {
@@ -1873,6 +2149,12 @@
             "value" : "쥐"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chuột"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1911,6 +2193,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "마네키네코"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mèo Thần Tài"
           }
         },
         "zh-Hans" : {
@@ -1953,6 +2241,12 @@
             "value" : "문어"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bạch Tuộc"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1991,6 +2285,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "수달"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rái Cá"
           }
         },
         "zh-Hans" : {
@@ -2033,6 +2333,12 @@
             "value" : "부엉이"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cú"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2071,6 +2377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "앵무새"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vẹt"
           }
         },
         "zh-Hans" : {
@@ -2113,6 +2425,12 @@
             "value" : "펜듈럼"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Con Lắc"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2151,6 +2469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "펭귄"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chim Cánh Cụt"
           }
         },
         "zh-Hans" : {
@@ -2193,6 +2517,12 @@
             "value" : "펭귄 2"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chim Cánh Cụt 2"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2231,6 +2561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "인싸 파티"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiệc Tùng"
           }
         },
         "zh-Hans" : {
@@ -2273,6 +2609,12 @@
             "value" : "돼지"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Heo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2311,6 +2653,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "파동"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xung"
           }
         },
         "zh-Hans" : {
@@ -2353,6 +2701,12 @@
             "value" : "강아지"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chó Con"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2391,6 +2745,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "토끼"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thỏ"
           }
         },
         "zh-Hans" : {
@@ -2433,6 +2793,12 @@
             "value" : "원자로"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lò Phản Ứng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2471,6 +2837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "로켓"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên Lửa"
           }
         },
         "zh-Hans" : {
@@ -2513,6 +2885,12 @@
             "value" : "모든 러너 해제"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mở Khóa Tất Cả Runner"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2551,6 +2929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "소세지"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xúc Xích"
           }
         },
         "zh-Hans" : {
@@ -2593,6 +2977,12 @@
             "value" : "양"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cừu"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2631,6 +3021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "루돌프와 썰매"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tuần Lộc & Xe Trượt Tuyết"
           }
         },
         "zh-Hans" : {
@@ -2673,6 +3069,12 @@
             "value" : "슬라임"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slime"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2711,6 +3113,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "눈사람"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Người Tuyết"
           }
         },
         "zh-Hans" : {
@@ -2753,6 +3161,12 @@
             "value" : "불꽃놀이"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pháo Hoa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2791,6 +3205,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다람쥐"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sóc"
           }
         },
         "zh-Hans" : {
@@ -2833,6 +3253,12 @@
             "value" : "초밥"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sushi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2871,6 +3297,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "회전초밥"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sushi Xoay"
           }
         },
         "zh-Hans" : {
@@ -2913,6 +3345,12 @@
             "value" : "누웠냥"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đuôi Mèo"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2951,6 +3389,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "테리어"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chó Terrier"
           }
         },
         "zh-Hans" : {
@@ -2993,6 +3437,12 @@
             "value" : "힘, 지혜, 용기"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sức Mạnh, Trí Tuệ, Can Đảm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3028,6 +3478,12 @@
           }
         },
         "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uhooi"
+          }
+        },
+        "vi" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uhooi"
@@ -3073,6 +3529,12 @@
             "value" : "푸쉬업"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hít Đất"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3111,6 +3573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "싯업"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gập Bụng"
           }
         },
         "zh-Hans" : {
@@ -3153,6 +3621,12 @@
             "value" : "고래"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cá Voi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3191,6 +3665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "쳇바퀴"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bánh Xe Chuột Hamster"
           }
         },
         "zh-Hans" : {
