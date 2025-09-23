@@ -5,7 +5,8 @@ Manage RunCat localization srtings.
 RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so localization of this library is also required.
 
 > [!NOTE]
-> This repository does not accept requests or inquiries for RunCat.
+> This repository does not accept requests or inquiries for RunCat.  
+> Please send your inquiries by [email](mailto:kyomesuke@icloud.com?subject=RunCat%20Issue%20Report&body=#%20Environment%0A-%20Device%20Model:%20%5BiMac/MacBook/Mac%20mini/etc.%5D%0A-%20Version%20of%20RunCat:%20%5Bplease%20write%5D%0A-%20Version%20of%20macOS:%20%5Bplease%20write%5D%0A%0A#%20What%20You%20Tried%0A-%20Relaunched%20the%20app:%20%5BYes/No%5D%0A-%20Restored%20at%20Runner%20Store:%20%5BYes/No%5D%0A-%20Uninstalled%20the%20app:%20%5BYes/No%5D%0A%0A#%20Short%20Description%0A%0A%0A#%20Steps%20to%20Reproduce%20the%20Issue%0A%0A%0A#%20Expected%20Result%0A%0A%0A), along with information about your environment and the steps to reproduce the issue.
 
 ## Supported languages
 
