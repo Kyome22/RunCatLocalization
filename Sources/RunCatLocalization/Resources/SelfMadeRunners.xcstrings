@@ -40,6 +40,12 @@
             "value" : "추가"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -91,6 +97,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "추가된 러너:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners đã thêm:"
           }
         },
         "zh-Hans" : {
@@ -146,6 +158,12 @@
             "value" : "추가 오류"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lỗi thêm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -196,6 +214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "색상:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Màu sắc:"
           }
         },
         "zh-Hans" : {
@@ -250,6 +274,12 @@
             "value" : "이미 사용중인 러너 이름입니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên runner này đã được sử dụng."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -300,6 +330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이미지를 인코딩하지 못했습니다."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể mã hóa hình ảnh."
           }
         },
         "zh-Hans" : {
@@ -354,6 +390,12 @@
             "value" : "커스텀 러너 저장에 실패했습니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể lưu runner tự tạo."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -404,6 +446,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1. 파일 형식: PNG"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Định dạng: PNG"
           }
         },
         "zh-Hans" : {
@@ -458,6 +506,12 @@
             "value" : "프레임:"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khung hình:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -508,6 +562,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "2. 높이: 36px"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Chiều cao: 36px"
           }
         },
         "zh-Hans" : {
@@ -562,6 +622,12 @@
             "value" : "미리보기:"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xem trước:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -612,6 +678,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "요구 사항:"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Yêu cầu:"
           }
         },
         "zh-Hans" : {
@@ -666,6 +738,12 @@
             "value" : "러너 이름:"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tên Runner:"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -716,6 +794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커스텀 러너"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner Tự Tạo"
           }
         },
         "zh-Hans" : {
@@ -771,6 +855,12 @@
             "value" : "추가하시려면 러너 스토어에서 커스텀 러너 기능을 구매해야 합니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Để thêm, bạn phải mua chức năng này tại Runners Store."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -821,6 +911,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "기본 색상 사용"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sử dụng màu gốc"
           }
         },
         "zh-Hans" : {
@@ -875,6 +971,12 @@
             "value" : "해당 이미지는 규격 요건에 부합하지 않습니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hình ảnh tải lên vi phạm một số yêu cầu."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -927,6 +1029,12 @@
             "value" : "프레임 수가 제한 범위를 초과했습니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Số khung hình đã đạt giới hạn tối đa."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -977,6 +1085,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3. 너비: 10~100px"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Chiều rộng: 10~100px"
           }
         },
         "zh-Hans" : {
