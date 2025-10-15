@@ -38,6 +38,12 @@
             "state" : "translated",
             "value" : "启用"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟用"
+          }
         }
       }
     },
@@ -77,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "如果您使用的是带有刘海的 MacBook，可能无法在菜单栏中看到系统信息栏，或无法访问其他菜单栏项目。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果您使用的是有瀏海的 MacBook，可能無法在選單列中看到系統資訊列或無法存取其他選單列項目。"
           }
         }
       }
@@ -118,6 +130,12 @@
             "state" : "translated",
             "value" : "系统信息栏使用说明"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系統資訊列使用說明"
+          }
         }
       }
     },
@@ -157,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "电池状态"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "電池狀態"
           }
         }
       }
@@ -198,6 +222,12 @@
             "state" : "translated",
             "value" : "我改变主意了"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我改變主意了"
+          }
         }
       }
     },
@@ -237,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "实验性功能"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "實驗性功能"
           }
         }
       }
@@ -278,6 +314,12 @@
             "state" : "translated",
             "value" : "内存性能"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "記憶體效能"
+          }
         }
       }
     },
@@ -317,6 +359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "监视器"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "監視器"
           }
         }
       }
@@ -358,6 +406,12 @@
             "state" : "translated",
             "value" : "网络连接"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "網路連線"
+          }
         }
       }
     },
@@ -398,6 +452,12 @@
             "state" : "translated",
             "value" : "存储容量"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲存空間容量"
+          }
         }
       }
     },
@@ -437,6 +497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "系统信息栏（β）"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系統資訊列 (β)"
           }
         }
       }

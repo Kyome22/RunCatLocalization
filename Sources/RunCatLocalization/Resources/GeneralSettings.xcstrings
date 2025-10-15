@@ -38,6 +38,12 @@
             "state" : "translated",
             "value" : "所有跑者"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇所有跑者"
+          }
         }
       }
     },
@@ -77,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我改变主意了"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我改變主意了"
           }
         }
       }
@@ -118,6 +130,12 @@
             "state" : "translated",
             "value" : "水平翻转"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "水平翻轉"
+          }
         }
       }
     },
@@ -157,6 +175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "速度反转"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "速度反轉"
           }
         }
       }
@@ -198,6 +222,12 @@
             "state" : "translated",
             "value" : "启动"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "啟動"
+          }
         }
       }
     },
@@ -237,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "登录时自启 RunCat"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登入時自動啟動 RunCat"
           }
         }
       }
@@ -278,6 +314,12 @@
             "state" : "translated",
             "value" : "仅单色跑者"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "選擇僅單色跑者"
+          }
         }
       }
     },
@@ -314,6 +356,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跑者"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "跑者"
@@ -358,6 +406,12 @@
             "state" : "translated",
             "value" : "每 10 分钟随机一个"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "每 10 分鐘隨機選擇一個"
+          }
         }
       }
     },
@@ -398,6 +452,12 @@
             "state" : "translated",
             "value" : "停止"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停止跑者"
+          }
         }
       }
     },
@@ -434,6 +494,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "停止跑者"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "停止跑者"
@@ -478,6 +544,12 @@
             "state" : "translated",
             "value" : "如果停止跑者，就会失去软件的趣味性"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果你停止了跑者，就會失去此 App 的獨特性"
+          }
         }
       }
     },
@@ -518,6 +590,12 @@
             "state" : "translated",
             "value" : "你确定要停止跑者吗？"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "你確定要停止跑者嗎？"
+          }
         }
       }
     },
@@ -557,6 +635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用系统强调色"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用系統主題色"
           }
         }
       }

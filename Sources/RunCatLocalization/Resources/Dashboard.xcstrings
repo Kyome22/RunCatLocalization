@@ -38,6 +38,12 @@
             "state" : "translated",
             "value" : "关于 RunCat"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於 RunCat"
+          }
         }
       }
     },
@@ -78,6 +84,12 @@
             "state" : "translated",
             "value" : "活动监视器"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "活動監視器"
+          }
         }
       }
     },
@@ -114,6 +126,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "返回"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "返回"
@@ -158,6 +176,12 @@
             "state" : "translated",
             "value" : "动物类跑者"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動物類跑者"
+          }
         }
       }
     },
@@ -197,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "默认跑者"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "預設跑者"
           }
         }
       }
@@ -238,6 +268,12 @@
             "state" : "translated",
             "value" : "非生物类跑者"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非生物類跑者"
+          }
         }
       }
     },
@@ -277,6 +313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "季节限定跑者"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "季節限定跑者"
           }
         }
       }
@@ -318,6 +360,12 @@
             "state" : "translated",
             "value" : "自制跑者"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自製跑者"
+          }
         }
       }
     },
@@ -357,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "特殊颜色跑者"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特殊色跑者"
           }
         }
       }
@@ -398,6 +452,12 @@
             "state" : "translated",
             "value" : "贡献 RunCat"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "貢獻 RunCat"
+          }
         }
       }
     },
@@ -437,6 +497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "调试睡眠"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "偵錯睡眠"
           }
         }
       }
@@ -478,6 +544,12 @@
             "state" : "translated",
             "value" : "调试唤醒"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "偵錯喚醒"
+          }
         }
       }
     },
@@ -517,6 +589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "开始无尽游戏"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "玩無盡遊戲"
           }
         }
       }
@@ -558,6 +636,12 @@
             "state" : "translated",
             "value" : "帮助"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "幫助"
+          }
         }
       }
     },
@@ -597,6 +681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "常见问题"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常見問題"
           }
         }
       }
@@ -638,6 +728,12 @@
             "state" : "translated",
             "value" : "如何自制跑者"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如何自製跑者"
+          }
         }
       }
     },
@@ -674,6 +770,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更多"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "更多"
@@ -718,6 +820,12 @@
             "state" : "translated",
             "value" : "反馈问题"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "回報問題"
+          }
         }
       }
     },
@@ -754,6 +862,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跑者"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "跑者"
@@ -798,6 +912,12 @@
             "state" : "translated",
             "value" : "自制"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自製"
+          }
         }
       }
     },
@@ -838,6 +958,12 @@
             "state" : "translated",
             "value" : "设置"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
         }
       }
     },
@@ -874,6 +1000,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商店"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "商店"
@@ -917,6 +1049,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "退出 RunCat"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "離開 RunCat"
           }
         }
       }

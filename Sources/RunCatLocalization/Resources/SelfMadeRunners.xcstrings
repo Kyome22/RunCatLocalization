@@ -38,6 +38,12 @@
             "state" : "translated",
             "value" : "颜色："
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顏色："
+          }
         }
       }
     },
@@ -77,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "该跑者名称已被使用。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此跑者名稱已被使用。"
           }
         }
       }
@@ -118,6 +130,12 @@
             "state" : "translated",
             "value" : "图片编码失败。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "解析圖片失敗。"
+          }
         }
       }
     },
@@ -158,6 +176,12 @@
             "state" : "translated",
             "value" : "保存自制跑者失败。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲存自製跑者失敗。"
+          }
         }
       }
     },
@@ -194,6 +218,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 格式：PNG"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "1. 格式：PNG"
@@ -238,6 +268,12 @@
             "state" : "translated",
             "value" : "帧数："
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "畫格："
+          }
         }
       }
     },
@@ -274,6 +310,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 高度：36 像素"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "2. 高度：36 像素"
@@ -318,6 +360,12 @@
             "state" : "translated",
             "value" : "要求条件："
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "規格要求："
+          }
         }
       }
     },
@@ -357,6 +405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "预览："
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "預覽："
           }
         }
       }
@@ -398,6 +452,12 @@
             "state" : "translated",
             "value" : "制作"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "製作"
+          }
         }
       }
     },
@@ -437,6 +497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已制作的跑者"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "製作的跑者："
           }
         }
       }
@@ -478,6 +544,12 @@
             "state" : "translated",
             "value" : "无法制作"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "製作失敗"
+          }
         }
       }
     },
@@ -517,6 +589,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "跑者名称："
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跑者名稱："
           }
         }
       }
@@ -558,6 +636,12 @@
             "state" : "translated",
             "value" : "自制跑者"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自製跑者"
+          }
         }
       }
     },
@@ -597,6 +681,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "如需此功能，请在跑者商店购买。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如需製作跑者，請在跑者商店購買。"
           }
         }
       }
@@ -638,6 +728,12 @@
             "state" : "translated",
             "value" : "使用原始颜色"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用原始顏色"
+          }
         }
       }
     },
@@ -677,6 +773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "所加载的图片不满足部分要求条件。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所載入的圖片不符合某些規格要求。"
           }
         }
       }
@@ -718,6 +820,12 @@
             "state" : "translated",
             "value" : "帧数已达到最大上限。"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "畫格已經達到上限。"
+          }
         }
       }
     },
@@ -757,6 +865,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3. 宽度：10~100 像素"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 寬度：10~100 像素"
           }
         }
       }
