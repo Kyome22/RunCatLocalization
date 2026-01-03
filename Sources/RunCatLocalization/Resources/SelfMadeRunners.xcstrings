@@ -134,7 +134,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "解析圖片失敗。"
+            "value" : "編碼圖片失敗。"
           }
         }
       }
