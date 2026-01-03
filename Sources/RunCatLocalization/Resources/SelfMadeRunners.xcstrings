@@ -456,7 +456,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "製作"
+            "value" : "添加"
           }
         }
       }
@@ -502,7 +502,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "製作的跑者："
+            "value" : "已添加的跑者："
           }
         }
       }
@@ -548,7 +548,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "製作失敗"
+            "value" : "添加失敗"
           }
         }
       }
@@ -686,7 +686,7 @@
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "如需製作跑者，請在跑者商店購買。"
+            "value" : "如需添加跑者，請在跑者商店購買。"
           }
         }
       }
