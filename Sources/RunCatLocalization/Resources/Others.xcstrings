@@ -38,6 +38,12 @@
             "state" : "translated",
             "value" : "%@?lang=zh-Hans"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=zh-Hant"
+          }
         }
       }
     },
@@ -77,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无尽游戏"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無盡遊戲"
           }
         }
       }
@@ -118,6 +130,12 @@
             "state" : "translated",
             "value" : "常规"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
+          }
         }
       }
     },
@@ -154,6 +172,12 @@
           }
         },
         "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地化"
+          }
+        },
+        "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "本地化"
@@ -198,6 +222,12 @@
             "state" : "translated",
             "value" : "# 环境\n- %@：ver %@\n- %@\n- macOS：%@"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 環境\n- %@：ver %@\n- %@\n- macOS：%@"
+          }
         }
       }
     },
@@ -237,6 +267,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 预期的结果"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 預期結果"
           }
         }
       }
@@ -278,6 +314,12 @@
             "state" : "translated",
             "value" : "%@ 报告问题"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 報告問題"
+          }
         }
       }
     },
@@ -317,6 +359,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 重现步骤"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 重現問題的步驟"
           }
         }
       }
@@ -358,6 +406,12 @@
             "state" : "translated",
             "value" : "# 简要描述"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 間單的描述"
+          }
         }
       }
     },
@@ -397,6 +451,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 尝试过的操作\n- 重启软件：是/否\n- 从 Runners Store 恢复: 是/否\n- 卸载软件：是/否"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 嘗試過的操作\n- 重新啟動 App：是/否\n- 從跑者商店還原：是/否\n- 解除安裝 App：是/否"
           }
         }
       }
@@ -438,6 +498,12 @@
             "state" : "translated",
             "value" : "支持页面"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支援頁面"
+          }
         }
       }
     },
@@ -477,6 +543,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "系统信息"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系統資訊"
           }
         }
       }
@@ -518,6 +590,12 @@
             "state" : "translated",
             "value" : "简体中文 - Junjie Lin (junzilla)"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡體中文 - Junjie Lin (junzilla)"
+          }
         }
       }
     },
@@ -557,6 +635,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "法语 - Kravatox"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "法語 - Kravatox"
           }
         }
       }
@@ -598,6 +682,12 @@
             "state" : "translated",
             "value" : "德语 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "德語 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
         }
       }
     },
@@ -638,6 +728,12 @@
             "state" : "translated",
             "value" : "日语 - Takuto Nakamura (Kyome)"
           }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日語 - Takuto Nakamura (Kyome)"
+          }
         }
       }
     },
@@ -677,6 +773,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "韩语 - Jaewon Gwon (Jake)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "韓語 - Jaewon Gwon (Jake)"
           }
         }
       }

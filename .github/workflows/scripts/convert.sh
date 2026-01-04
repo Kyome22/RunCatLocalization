@@ -34,7 +34,8 @@ jq -r '
       "fr": .value.localizations.fr.stringUnit.value,
       "ja": .value.localizations.ja.stringUnit.value,
       "ko": .value.localizations.ko.stringUnit.value,
-      "zh-Hans": .value.localizations["zh-Hans"].stringUnit.value
+      "zh-Hans": .value.localizations["zh-Hans"].stringUnit.value,
+      "zh-Hant": .value.localizations["zh-Hant"].stringUnit.value
     }
   }) | sort_by(.runner_id)
 ' "$INPUT_FILE" > "$TEMP_FILE"
