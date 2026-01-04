@@ -91,6 +91,13 @@ https://kyome22.github.io/RunCatLocalization/
 
 When contributing translations for runner names, please refer to this page to ensure appropriate translations that match each runner's characteristics. The page displays all runner names with their images and current translations, making it easier to understand the context and provide suitable translations.
 
+### How to check with local host
+
+```sh
+.github/workflows/scripts/convert.sh Sources/RunCatLocalization/Resources/RunnerName.xcstrings docs/runner-names.json
+docs/local_deploy.sh
+```
+
 ## Notes
 
 Please use wording that follows Apple platform conventions.
