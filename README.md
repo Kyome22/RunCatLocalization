@@ -20,7 +20,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
 ## Requirements
 
-- Development with Xcode 16.4+
+- Development with Xcode 26.1+
 - Written in Swift 6.1
 - Compatible with macOS 14.0+
 
@@ -32,6 +32,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
    public enum RCLLanguage: Sendable, Identifiable {
        case automatic
        case chineseSimplified
+       case chineseTraditional
        case english
        case french
        case german
@@ -47,6 +48,8 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
                Locale.current
            case .chineseSimplified:
                Locale(languageCode: .chinese, script: .hanSimplified)
+           case chineseTraditional:
+               Locale(languageCode: .chinese, script: .hanTraditional)
            case .english:
                Locale(languageCode: .english)
            case .french:
@@ -66,6 +69,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
        public static let allCases: [RCLLanguage] = [
            .chineseSimplified,
+           .chineseTraditilnal,
            .english,
            .french,
            .german,
