@@ -450,7 +450,7 @@
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# 尝试过的操作\n- 重启软件：是/否\n- 从 Runners Store 恢复: 是/否\n- 卸载软件：是/否"
+            "value" : "# 尝试过的操作\n- 重启软件：是/否\n- 从跑者商店恢复: 是/否\n- 卸载软件：是/否"
           }
         },
         "zh-Hant" : {

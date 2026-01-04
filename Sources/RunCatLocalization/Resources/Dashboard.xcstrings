@@ -691,18 +691,19 @@
         }
       }
     },
-    "helpHowToRegister" : {
+    "helpHowToAdd" : {
+      "generatesSymbol" : false,
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Wie man selbsterstellte Läufer registriert"
+            "value" : "Wie man selbsterstellte Läufer hinzufügt"
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "How to register self-made runners"
+            "value" : "How to add self-made runners"
           }
         },
         "fr" : {
@@ -714,13 +715,13 @@
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "自作ランナー登録方法"
+            "value" : "自作ランナー追加方法"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "직접 만든 커스텀 러너를 등록하는 방법"
+            "value" : "직접 만든 커스텀 러너를 추가하는 방법"
           }
         },
         "zh-Hans" : {
@@ -1060,5 +1061,5 @@
       }
     }
   },
-  "version" : "1.0"
+  "version" : "1.1"
 }
