@@ -33,6 +33,12 @@
             "value" : "활성화"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kích hoạt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "상단 노치가 있는 맥북을 사용중이라면, 메뉴바의 시스템 정보가 보이지 않거나, 메뉴바의 항목을 선택하지 못할 수도 있습니다."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nếu bạn sử dụng MacBook có notch, bạn có thể không thể thấy Thanh Thông Tin Hệ Thống trên thanh menu hoặc không thể truy cập các mục thanh menu khác."
           }
         },
         "zh-Hans" : {
@@ -125,6 +137,12 @@
             "value" : "시스템 정보 사용 시 주의사항"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu ý khi sử dụng Thanh Thông Tin Hệ Thống"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "배터리 상태"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trạng Thái Pin"
           }
         },
         "zh-Hans" : {
@@ -217,6 +241,12 @@
             "value" : "그냥 둘래요"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tôi đã thay đổi ý kiến"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -261,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실험적 기능"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tính năng thử nghiệm"
           }
         },
         "zh-Hans" : {
@@ -309,6 +345,12 @@
             "value" : "메모리 성능"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hiệu Năng Bộ Nhớ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -353,6 +395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모니터링"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giám sát"
           }
         },
         "zh-Hans" : {
@@ -401,6 +449,12 @@
             "value" : "네트워크 연결"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kết Nối Mạng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -447,6 +501,12 @@
             "value" : "저장 용량"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dung Lượng Lưu Trữ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -491,6 +551,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시스템 정보 (베타)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thanh Thông Tin Hệ Thống (β)"
           }
         },
         "zh-Hans" : {

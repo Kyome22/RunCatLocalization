@@ -33,6 +33,12 @@
             "value" : "RunCat에 관하여"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giới thiệu RunCat"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "활성 상태 보기"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trình Theo Dõi Hoạt Động"
           }
         },
         "zh-Hans" : {
@@ -125,6 +137,12 @@
             "value" : "뒤로"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Quay lại"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "동물 러너"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner Động Vật"
           }
         },
         "zh-Hans" : {
@@ -217,6 +241,12 @@
             "value" : "기본 러너"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner Mặc Định"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -261,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "무생물 러너"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner Vật Thể"
           }
         },
         "zh-Hans" : {
@@ -309,6 +345,12 @@
             "value" : "계절한정 러너"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner Theo Mùa"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -353,6 +395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커스텀 러너"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner Tự Tạo"
           }
         },
         "zh-Hans" : {
@@ -401,6 +449,12 @@
             "value" : "특별 컬러 러너"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner Màu Đặc Biệt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -445,6 +499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RunCat에 기여"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Góp phần cho RunCat"
           }
         },
         "zh-Hans" : {
@@ -493,6 +553,12 @@
             "value" : "수면 디버깅"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gỡ lỗi Chế Độ Ngủ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -537,6 +603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "각성 디버깅"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gỡ lỗi Đánh Thức"
           }
         },
         "zh-Hans" : {
@@ -585,6 +657,12 @@
             "value" : "엔드리스 게임 시작"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chơi Game Vô Hạn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -629,6 +707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "도움말"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trợ giúp"
           }
         },
         "zh-Hans" : {
@@ -677,6 +761,12 @@
             "value" : "자주 묻는 질문"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Câu Hỏi Thường Gặp"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -721,6 +811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "직접 만든 커스텀 러너를 등록하는 방법"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cách đăng ký runner tự tạo"
           }
         },
         "zh-Hans" : {
@@ -769,6 +865,12 @@
             "value" : "더보기"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thêm"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -813,6 +915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "문제점 알리기"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Báo cáo sự cố"
           }
         },
         "zh-Hans" : {
@@ -861,6 +969,12 @@
             "value" : "러너"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -905,6 +1019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "러너 만들기"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tự Tạo"
           }
         },
         "zh-Hans" : {
@@ -953,6 +1073,12 @@
             "value" : "설정"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài Đặt"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -999,6 +1125,12 @@
             "value" : "스토어"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cửa Hàng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1043,6 +1175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RunCat 종료"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thoát RunCat"
           }
         },
         "zh-Hans" : {

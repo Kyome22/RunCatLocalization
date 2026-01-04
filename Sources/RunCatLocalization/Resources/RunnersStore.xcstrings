@@ -33,6 +33,12 @@
             "value" : "동물 러너"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners loại động vật"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -77,6 +83,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "무생물 러너"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners loại vật thể"
           }
         },
         "zh-Hans" : {
@@ -125,6 +137,12 @@
             "value" : "추천 아이템"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mục đề xuất"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -169,6 +187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "계절한정 러너"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners theo mùa"
           }
         },
         "zh-Hans" : {
@@ -217,6 +241,12 @@
             "value" : "특별 컬러 러너 (개발자 도네이션)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners màu đặc biệt (ủng hộ nhà phát triển)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -261,6 +291,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "AppStore와 동기화하는 데 실패했습니다."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không thể đồng bộ với AppStore."
           }
         },
         "zh-Hans" : {
@@ -309,6 +345,12 @@
             "value" : "잘못된 트랜잭션 데이터 서명입니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chữ ký dữ liệu giao dịch không hợp lệ."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -353,6 +395,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사용 가능한 항목이 없음"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không có mục nào khả dụng"
           }
         },
         "zh-Hans" : {
@@ -401,6 +449,12 @@
             "value" : "Runners Store를 사용하려면 인터넷 연결이 필요합니다.\n인터넷 연결을 확인해주세요."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cần kết nối internet để sử dụng Runners Store.\nVui lòng kiểm tra kết nối internet của bạn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -445,6 +499,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매가 진행중입니다."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giao dịch mua đang chờ xử lý."
           }
         },
         "zh-Hans" : {
@@ -493,6 +553,12 @@
             "value" : "이 상품을 찾을 수 없습니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không tìm thấy sản phẩm này."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -537,6 +603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "네트워크 상태를 확인하신 뒤, 애플리케이션을 재시작 해주세요."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khởi động lại ứng dụng khi đã kết nối mạng."
           }
         },
         "zh-Hans" : {
@@ -585,6 +657,12 @@
             "value" : "이 상품은 현재 사용이 불가능합니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sản phẩm này không khả dụng."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -629,6 +707,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mua"
           }
         },
         "zh-Hans" : {
@@ -677,6 +761,12 @@
             "value" : "구매 오류"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lỗi mua hàng"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -721,6 +811,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "이 구매는 불가능합니다."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không được phép mua."
           }
         },
         "zh-Hans" : {
@@ -769,6 +865,12 @@
             "value" : "Apple ID 결제 방법을 확인해주세요."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kiểm tra cài đặt thanh toán Apple ID của bạn."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -813,6 +915,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "재로드"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tải lại"
           }
         },
         "zh-Hans" : {
@@ -861,6 +969,12 @@
             "value" : "복구"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khôi phục"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -905,6 +1019,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매이력으로 복구"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Khôi phục dựa trên lịch sử"
           }
         },
         "zh-Hans" : {
@@ -953,6 +1073,12 @@
             "value" : "러너 스토어"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cửa hàng Runners"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -999,6 +1125,12 @@
             "value" : "알수없는 오류가 발생했습니다."
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Đã xảy ra lỗi không xác định."
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1043,6 +1175,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "구매가 취소되었습니다."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Giao dịch mua đã bị hủy."
           }
         },
         "zh-Hans" : {
