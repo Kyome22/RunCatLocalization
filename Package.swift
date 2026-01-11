@@ -1,4 +1,4 @@
-// swift-tools-version: 6.1
+// swift-tools-version: 6.2
 
 import PackageDescription
 
@@ -10,7 +10,7 @@ let package = Package(
     name: "RunCatLocalization",
     defaultLocalization: "en",
     platforms: [
-        .macOS(.v14)
+        .macOS(.v14),
     ],
     products: [
         .executable(
@@ -48,6 +48,6 @@ let package = Package(
             resources: [.process("Resources")],
             swiftSettings: swiftSettings,
             plugins: ["RCLStringsPlugin"]
-        )
+        ),
     ]
 )
