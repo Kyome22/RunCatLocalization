@@ -326,7 +326,7 @@
         }
       }
     },
-    "formatPrecondition" : {
+    "formatRequirement" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -418,7 +418,7 @@
         }
       }
     },
-    "heightPrecondition" : {
+    "heightRequirement" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
@@ -460,52 +460,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "2. 高度：36 像素"
-          }
-        }
-      }
-    },
-    "preconditions" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voraussetzungen:"
-          }
-        },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preconditions:"
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prérequis :"
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "必要条件："
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "필수조건:"
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "要求条件："
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "規格要求："
           }
         }
       }
@@ -552,6 +506,52 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "預覽："
+          }
+        }
+      }
+    },
+    "requirements" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anforderungen:"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Requirements:"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exigences :"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "規格要件："
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "요구 사항:"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "規格要求："
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "規格要求："
           }
         }
       }
@@ -741,42 +741,42 @@
         }
       }
     },
-    "violatePrecondition" : {
+    "violateRequirements" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Das geladene Bild verstößt gegen einige Voraussetzungen."
+            "value" : "Das geladene Bild verstößt gegen einige Anforderungen."
           }
         },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "The loaded image violates some preconditions."
+            "value" : "The loaded image violates some requirements."
           }
         },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "L’image chargé ne correspond pas aux prérequis."
+            "value" : "L’image chargé ne correspond pas aux exigences."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "読み込まれた画像は必要条件を満たしていません。"
+            "value" : "読み込まれた画像は規格要件を満たしていません。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "해당 이미지는 필수조건에 맞지 않습니다."
+            "value" : "해당 이미지는 규격 요건에 부합하지 않습니다."
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "所加载的图片不满足部分要求条件。"
+            "value" : "所加载的图片不满足部分規格要求。"
           }
         },
         "zh-Hant" : {
@@ -833,7 +833,7 @@
         }
       }
     },
-    "widthPrecondition" : {
+    "widthRequirement" : {
       "localizations" : {
         "de" : {
           "stringUnit" : {
