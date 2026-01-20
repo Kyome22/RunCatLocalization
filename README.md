@@ -17,6 +17,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 - German
 - Japanese
 - Korean
+- Spanish
 
 ## Requirements
 

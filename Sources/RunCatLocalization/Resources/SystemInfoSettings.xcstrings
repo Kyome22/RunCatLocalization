@@ -1,512 +1,578 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "activate" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Aktivieren"
+  "sourceLanguage": "en",
+  "strings": {
+    "activate": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aktivieren"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activate"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activate"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activer"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activer"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "有効にする"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "有効にする"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "활성화"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "활성화"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "启用"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "启用"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "啟用"
-          }
-        }
-      }
-    },
-    "activateSystemInfoBarMessage" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wenn Sie ein MacBook mit einer Notch verwenden, kann es sein, dass Sie die Systeminformationsleiste in der Menüleiste nicht sehen oder nicht auf andere Menüleistenelemente zugreifen können."
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "啟用"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "If you use MacBook with a notch, you may not be able to see the System Info Bar on the menu bar or not be able to access other menu bar items."
-          }
-        },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Si vous utilisez un MacBook avec une encoche, vous pourriez ne pas être capable de voir la Barre des Infos Système ou d’autre icônes dans la barre des menus."
-          }
-        },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ノッチ付きのMacBookを使用している場合、メニューバー上にシステム情報バーが表示できないことや、他のメニューバー上のアイテムにアクセスできなくなることがあります。"
-          }
-        },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "상단 노치가 있는 맥북을 사용중이라면, 메뉴바의 시스템 정보가 보이지 않거나, 메뉴바의 항목을 선택하지 못할 수도 있습니다."
-          }
-        },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "如果您使用的是带有刘海的 MacBook，可能无法在菜单栏中看到系统信息栏，或无法访问其他菜单栏项目。"
-          }
-        },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "如果您使用的是有瀏海的 MacBook，可能無法在選單列中看到系統資訊列或無法存取其他選單列項目。"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Activar"
           }
         }
       }
     },
-    "activateSystemInfoBarTitle" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hinweise zur Verwendung der Systeminformationsleiste"
+    "activateSystemInfoBarMessage": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wenn Sie ein MacBook mit einer Notch verwenden, kann es sein, dass Sie die Systeminformationsleiste in der Menüleiste nicht sehen oder nicht auf andere Menüleistenelemente zugreifen können."
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notes on using System Info Bar"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If you use MacBook with a notch, you may not be able to see the System Info Bar on the menu bar or not be able to access other menu bar items."
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "À noter pour l’utilisation de la Barre des Infos Système"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Si vous utilisez un MacBook avec une encoche, vous pourriez ne pas être capable de voir la Barre des Infos Système ou d’autre icônes dans la barre des menus."
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "システム情報バーを使用する際の注意事項"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ノッチ付きのMacBookを使用している場合、メニューバー上にシステム情報バーが表示できないことや、他のメニューバー上のアイテムにアクセスできなくなることがあります。"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "시스템 정보 사용 시 주의사항"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "상단 노치가 있는 맥북을 사용중이라면, 메뉴바의 시스템 정보가 보이지 않거나, 메뉴바의 항목을 선택하지 못할 수도 있습니다."
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "系统信息栏使用说明"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如果您使用的是带有刘海的 MacBook，可能无法在菜单栏中看到系统信息栏，或无法访问其他菜单栏项目。"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "系統資訊列使用說明"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "如果您使用的是有瀏海的 MacBook，可能無法在選單列中看到系統資訊列或無法存取其他選單列項目。"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "If you use MacBook with a notch, you may not be able to see the Información del sistema Bar on the menu bar or not be able to access other menu bar items."
           }
         }
       }
     },
-    "batteryState" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Batteriestatus"
+    "activateSystemInfoBarTitle": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hinweise zur Verwendung der Systeminformationsleiste"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Battery State"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notes on using System Info Bar"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niveau de batterie"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "À noter pour l’utilisation de la Barre des Infos Système"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "バッテリー状態"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "システム情報バーを使用する際の注意事項"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "배터리 상태"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 정보 사용 시 주의사항"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "电池状态"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系统信息栏使用说明"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "電池狀態"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系統資訊列使用說明"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Notes on using Información del sistema Bar"
           }
         }
       }
     },
-    "changedMyMind" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ich habe meine Meinung geändert"
+    "batteryState": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Batteriestatus"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Changed my mind"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Battery State"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mon avis a changé"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Niveau de batterie"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "やめておく"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "バッテリー状態"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "그냥 둘래요"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "배터리 상태"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "我改变主意了"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "电池状态"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "我改變主意了"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "電池狀態"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Estado de la batería"
           }
         }
       }
     },
-    "experimentalFeature" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Experimentelle Funktion"
+    "changedMyMind": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ich habe meine Meinung geändert"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Experimental feature"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Changed my mind"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fonction expérimentale"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mon avis a changé"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "試験的機能"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "やめておく"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "실험적 기능"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "그냥 둘래요"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "实验性功能"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我改变主意了"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "實驗性功能"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "我改變主意了"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cambié de opinión"
           }
         }
       }
     },
-    "memoryPerformance" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Speicherleistung"
+    "experimentalFeature": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Experimentelle Funktion"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Memory Performance"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Experimental feature"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Utilisation de la mémoire"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fonction expérimentale"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "メモリ性能"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "試験的機能"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "메모리 성능"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "실험적 기능"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "内存性能"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "实验性功能"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "記憶體效能"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "實驗性功能"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Experimental feature"
           }
         }
       }
     },
-    "monitoring" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Überwachung"
+    "memoryPerformance": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speicherleistung"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Monitoring"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Memory Performance"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Affichage des informations"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Utilisation de la mémoire"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "モニタリング"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メモリ性能"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모니터링"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메모리 성능"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "监测"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "内存性能"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "監控"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "記憶體效能"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rendimiento de memoria"
           }
         }
       }
     },
-    "networkConnection" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Netzwerkverbindung"
+    "monitoring": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Überwachung"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Network Connection"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monitoring"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Informations du réseau"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Affichage des informations"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ネットワーク接続状況"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "モニタリング"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "네트워크 연결"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모니터링"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "网络连接"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "监测"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "網路連線"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "監控"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Monitoreo"
           }
         }
       }
     },
-    "storageCapacity" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Speicherkapazität"
+    "networkConnection": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Netzwerkverbindung"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Storage Capacity"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Network Connection"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Capacité de stockage"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Informations du réseau"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ストレージ容量"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ネットワーク接続状況"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "저장 용량"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "네트워크 연결"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "存储容量"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "网络连接"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "儲存空間容量"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "網路連線"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Conexión de red"
           }
         }
       }
     },
-    "systemInfoBar" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "System-Infoleiste (β)"
+    "storageCapacity": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Speicherkapazität"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "System Info Bar (β)"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Storage Capacity"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Barre des Infos Système (β)"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capacité de stockage"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "システム情報バー（β）"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ストレージ容量"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "시스템 정보 (베타)"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "저장 용량"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "系统信息栏（β）"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "存储容量"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "系統資訊列 (β)"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "儲存空間容量"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Capacidad de almacenamiento"
+          }
+        }
+      }
+    },
+    "systemInfoBar": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "System-Infoleiste (β)"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "System Info Bar (β)"
+          }
+        },
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Barre des Infos Système (β)"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "システム情報バー（β）"
+          }
+        },
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "시스템 정보 (베타)"
+          }
+        },
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系统信息栏（β）"
+          }
+        },
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "系統資訊列 (β)"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Barra de información del sistema (β)"
           }
         }
       }
     }
   },
-  "version" : "1.0"
+  "version": "1.0"
 }

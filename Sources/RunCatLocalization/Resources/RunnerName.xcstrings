@@ -1,3686 +1,4166 @@
 {
-  "sourceLanguage" : "en",
-  "strings" : {
-    "b_cat" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Katze β"
+  "sourceLanguage": "en",
+  "strings": {
+    "b_cat": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Katze β"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cat β"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cat β"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chat β"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chat β"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ネコ β"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ネコ β"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "베타냥"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "베타냥"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "β 猫"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "β 猫"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "β 貓"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "β 貓"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cat β"
+          }
         }
       }
     },
-    "bird" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vogel"
+    "bird": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vogel"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bird"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bird"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oiseau"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oiseau"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "トリ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トリ"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "새"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "새"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小鸟"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小鸟"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小鳥"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小鳥"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bird"
+          }
         }
       }
     },
-    "bonfire" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lagerfeuer"
+    "bonfire": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lagerfeuer"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bonfire"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bonfire"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feu de camp"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Feu de camp"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "焚き火"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "焚き火"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모닥불"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모닥불"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "篝火"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "篝火"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "營火"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "營火"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bonfire"
           }
         }
       }
     },
-    "butterfly" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schmetterling"
+    "butterfly": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schmetterling"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Butterfly"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Butterfly"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Papillon"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Papillon"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蝶々"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "蝶々"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "나비"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "나비"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蝴蝶"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "蝴蝶"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蝴蝶"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "蝴蝶"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Butterfly"
           }
         }
       }
     },
-    "c_cat" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Katze γ"
+    "c_cat": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Katze γ"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cat γ"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cat γ"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chat γ"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chat γ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ネコ γ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ネコ γ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "감마냥"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "감마냥"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "γ 猫"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "γ 猫"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "γ 貓"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "γ 貓"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cat γ"
           }
         }
       }
     },
-    "cat" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Katze α"
+    "cat": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Katze α"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cat α"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cat α"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chat α"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chat α"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ネコ α"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ネコ α"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "알파냥"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "알파냥"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "α 猫"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "α 猫"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "α 貓"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "α 貓"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cat α"
+          }
         }
       }
     },
-    "cat_cluster_metal" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Metallcluster-Katze"
+    "cat_cluster_metal": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metallcluster-Katze"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Metal Cluster Cat"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metal Cluster Cat"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chat Métal Cluster"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chat Métal Cluster"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "メタルクラスタキャット"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "メタルクラスタキャット"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "메탈냥"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "메탈냥"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "金属团猫"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "金属团猫"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "金屬簇貓"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "金屬簇貓"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Metal Cluster Cat"
+          }
         }
       }
     },
-    "cat_flash" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Flash-Katze"
+    "cat_flash": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flash-Katze"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flash Cat"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Flash Cat"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chat Flash"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chat Flash"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "赤い閃光猫"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "赤い閃光猫"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "플래시냥"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "플래시냥"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "闪电猫"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "闪电猫"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "閃電貓"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "閃電貓"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Flash Cat"
           }
         }
       }
     },
-    "cat_golden" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Goldene Katze"
+    "cat_golden": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goldene Katze"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Golden Cat"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Golden Cat"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chat doré"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chat doré"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "黄金のネコ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "黄金のネコ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "골든냥"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "골든냥"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "金猫"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "金猫"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "黃金貓"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "黃金貓"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Golden Cat"
           }
         }
       }
     },
-    "cat_nyan_mock" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mock Nyan Cat"
+    "cat_nyan_mock": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mock Nyan Cat"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mock Nyan Cat"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mock Nyan Cat"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réplique Nyan Cat"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Réplique Nyan Cat"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Nyan Catもどき"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nyan Catもどき"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "디스크 냥캣"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "디스크 냥캣"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "模仿彩虹猫"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "模仿彩虹猫"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仿彩虹貓"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "仿彩虹貓"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mock Nyan Cat"
           }
         }
       }
     },
-    "chameleon" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chamäleon"
+    "chameleon": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chamäleon"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chameleon"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chameleon"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Caméléon"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Caméléon"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "カメレオン"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "カメレオン"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "카멜레온"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "카멜레온"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "变色龙"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "变色龙"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "變色龍"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "變色龍"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chameleon"
+          }
         }
       }
     },
-    "cheetah" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gepard"
+    "cheetah": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Gepard"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cheetah"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cheetah"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Guépard"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Guépard"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "チーター"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "チーター"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "치타"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "치타"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "猎豹"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "猎豹"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "獵豹"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "獵豹"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cheetah"
+          }
         }
       }
     },
-    "chicken" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Huhn"
+    "chicken": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Huhn"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chicken"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chicken"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poule"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Poule"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ニワトリ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ニワトリ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "닭"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "닭"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小鸡"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小鸡"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小雞"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小雞"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chicken"
           }
         }
       }
     },
-    "chime_wind" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Windspiel"
+    "chime_wind": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Windspiel"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wind Chime"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wind Chime"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Carillon à vent"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Carillon à vent"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "風鈴"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "風鈴"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "풍경"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "풍경"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "风铃"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "风铃"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "風鈴"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "風鈴"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wind Chime"
           }
         }
       }
     },
-    "city" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Stadt"
+    "city": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Stadt"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "City"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "City"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ville"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ville"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "都会"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "都会"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도시"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "도시"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "城市"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "城市"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "城市"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "城市"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "City"
           }
         }
       }
     },
-    "coffee" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kaffee"
+    "coffee": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kaffee"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Coffee"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coffee"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Café"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Café"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "コーヒー"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コーヒー"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "커피"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "커피"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "咖啡"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "咖啡"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "咖啡"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "咖啡"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coffee"
+          }
         }
       }
     },
-    "cogwheel" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zahnrad"
+    "cogwheel": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Zahnrad"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cogwheel"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cogwheel"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Engrenages"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Engrenages"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "歯車"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "歯車"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "톱니바퀴"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "톱니바퀴"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "齿轮"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "齿轮"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "齒輪"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "齒輪"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cogwheel"
+          }
         }
       }
     },
-    "corgi_welsh" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Welsh Corgi"
+    "corgi_welsh": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welsh Corgi"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welsh Corgi"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Welsh Corgi"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welsh Corgi"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Welsh Corgi"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ウェルシュ・コーギー"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ウェルシュ・コーギー"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "웰시코기"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "웰시코기"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "柯基"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "柯基"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "柯基"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "柯基"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welsh Corgi"
           }
         }
       }
     },
-    "cradle" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kugelstoßpendel"
+    "cradle": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kugelstoßpendel"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Newton's Cradle"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Newton's Cradle"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendule de Newton"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pendule de Newton"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ニュートンのゆりかご"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ニュートンのゆりかご"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "뉴턴의 요람"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "뉴턴의 요람"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "牛顿摆"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "牛顿摆"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "牛頓球"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "牛頓球"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Newton's Cradle"
           }
         }
       }
     },
-    "curve_sine" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sinuskurve"
+    "curve_sine": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sinuskurve"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sine Curve"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sine Curve"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Courbe sinusoïdale"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Courbe sinusoïdale"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "サイン波"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "サイン波"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "사인함수"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "사인함수"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正弦曲线"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正弦曲线"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "正弦曲線"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "正弦曲線"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sine Curve"
           }
         }
       }
     },
-    "dinosaur" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dinosaurier"
+    "dinosaur": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dinosaurier"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dinosaur"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dinosaur"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dinosaure"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dinosaure"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "恐竜"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恐竜"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "공룡"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "공룡"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "恐龙"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恐龙"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "恐龍"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "恐龍"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dinosaur"
+          }
         }
       }
     },
-    "dog" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hund"
+    "dog": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hund"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dog"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dog"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chien"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chien"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "イヌ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "イヌ"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "개"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "개"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "狗"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "狗"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "狗"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "狗"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dog"
+          }
         }
       }
     },
-    "dogeza" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Japanische Entschuldigung"
+    "dogeza": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Japanische Entschuldigung"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Japanese Apology"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Japanese Apology"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Excuses Japonaise"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Excuses Japonaise"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "土下座"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "土下座"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "도게자"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "도게자"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "土下座"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "土下座"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "日式道歉"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "日式道歉"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Japanese Apology"
           }
         }
       }
     },
-    "dolphin" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Delfin"
+    "dolphin": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Delfin"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dolphin"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dolphin"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dauphin"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dauphin"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "イルカ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "イルカ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "돌고래"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "돌고래"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "海豚"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "海豚"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "海豚"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "海豚"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dolphin"
           }
         }
       }
     },
-    "dots" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Punkte"
+    "dots": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Punkte"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dots"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dots"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Points"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Points"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ドット"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ドット"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "점"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "점"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "点点"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "点点"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "點點"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "點點"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dots"
           }
         }
       }
     },
-    "dragon" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drache"
+    "dragon": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drache"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dragon"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dragon"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dragon"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dragon"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ドラゴン"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ドラゴン"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "용"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "용"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "龙"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "龙"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "龍"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "龍"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dragon"
+          }
         }
       }
     },
-    "drink_tapioca" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tapioca-Getränk"
+    "drink_tapioca": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tapioca-Getränk"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tapioca Drink"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tapioca Drink"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verre de tapioca"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Verre de tapioca"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "タピオカ ドリンク"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タピオカ ドリンク"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "버블티"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "버블티"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "珍珠奶茶"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "珍珠奶茶"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "珍珠奶茶"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "珍珠奶茶"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tapioca Drink"
+          }
         }
       }
     },
-    "drop" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tropfen"
+    "drop": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tropfen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drop"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drop"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Goutte"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Goutte"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "水滴"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "水滴"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "물방울"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "물방울"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "水滴"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "水滴"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "水滴"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "水滴"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drop"
           }
         }
       }
     },
-    "duck_rubber" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Quietscheente"
+    "duck_rubber": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Quietscheente"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rubber Duck"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rubber Duck"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Canard en plastique"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Canard en plastique"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お風呂のアヒル"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "お風呂のアヒル"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "러버덕"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "러버덕"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "橡皮鸭"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "橡皮鸭"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "橡皮鴨"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "橡皮鴨"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rubber Duck"
           }
         }
       }
     },
-    "earth" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erde"
+    "earth": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Erde"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Earth"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Earth"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "La Terre"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La Terre"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "地球"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "地球"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "지구"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "지구"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "地球"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "地球"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "地球"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "地球"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Earth"
           }
         }
       }
     },
-    "engine" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Motor"
+    "engine": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Motor"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Engine"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Engine"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Piston moteur"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Piston moteur"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "エンジン"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "エンジン"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "엔진"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "엔진"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "引擎"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "引擎"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "引擎"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "引擎"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Engine"
+          }
         }
       }
     },
-    "entaku" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entaku"
+    "entaku": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entaku"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entaku"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entaku"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entaku"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entaku"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "えんたく"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "えんたく"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entaku"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entaku"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entaku"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entaku"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entaku"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entaku"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Entaku"
+          }
         }
       }
     },
-    "factory" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fabrik"
+    "factory": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fabrik"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Factory"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Factory"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Usine"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Usine"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "工場"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "工場"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "공장"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "공장"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "工厂"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "工厂"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "工廠"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "工廠"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Factory"
           }
         }
       }
     },
-    "fishman" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fischmann"
+    "fishman": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fischmann"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fish-Man"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fish-Man"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Homme-poisson"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Homme-poisson"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "魚男"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "魚男"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "생선남"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "생선남"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "鱼人"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "鱼人"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "魚人"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "魚人"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fish-Man"
           }
         }
       }
     },
-    "fox" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fuchs"
+    "fox": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fuchs"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fox"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fox"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Renard"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Renard"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "キツネ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "キツネ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "여우"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "여우"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "狐狸"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "狐狸"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "狐狸"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "狐狸"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fox"
           }
         }
       }
     },
-    "frog" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Frosch"
+    "frog": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frosch"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Frog"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frog"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Grenouille"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Grenouille"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "カエル"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "カエル"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "개구리"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "개구리"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "青蛙"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "青蛙"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "青蛙"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "青蛙"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frog"
+          }
         }
       }
     },
-    "frypan" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bratpfanne"
+    "frypan": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bratpfanne"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Frypan"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frypan"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Poêle"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poêle"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "フライパン"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フライパン"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "후라이팬"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "후라이팬"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "平底锅"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "平底锅"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "平底鍋"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "平底鍋"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Frypan"
+          }
         }
       }
     },
-    "ghost" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Geist"
+    "ghost": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Geist"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ghost"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ghost"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fantôme"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fantôme"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "幽霊"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "幽霊"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "유령"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "유령"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "幽灵"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "幽灵"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "幽靈"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "幽靈"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ghost"
           }
         }
       }
     },
-    "greyhound" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Windhund"
+    "greyhound": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Windhund"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Greyhound"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Greyhound"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lévrier"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lévrier"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "グレイハウンド"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "グレイハウンド"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "그레이하운드"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "그레이하운드"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "灰狗"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "灰狗"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "灰狗"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "灰狗"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Greyhound"
           }
         }
       }
     },
-    "hedgehog" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Igel"
+    "hedgehog": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Igel"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hedgehog"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hedgehog"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hérisson"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hérisson"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ハリネズミ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ハリネズミ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "고슴도치"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "고슴도치"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刺猬"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "刺猬"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "刺蝟"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "刺蝟"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hedgehog"
           }
         }
       }
     },
-    "horse" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pferd"
+    "horse": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pferd"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Horse"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Horse"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cheval"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cheval"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "早馬"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "早馬"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "말"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "말"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "马"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "马"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "馬"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "馬"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Horse"
+          }
         }
       }
     },
-    "human" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mensch"
+    "human": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mensch"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Human"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Human"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Humain"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Humain"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ヒト"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ヒト"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "인간"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인간"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "人"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "人"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "人"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "人"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Human"
+          }
         }
       }
     },
-    "lantern_o_jack" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jack mit der Laterne"
+    "lantern_o_jack": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jack mit der Laterne"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jack O' Lantern"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jack O' Lantern"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Citrouille hantée"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Citrouille hantée"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ジャック・オー・ランタン"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ジャック・オー・ランタン"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "잭 오 랜턴"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "잭 오 랜턴"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "南瓜灯"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "南瓜灯"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "南瓜燈"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "南瓜燈"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Jack O' Lantern"
           }
         }
       }
     },
-    "locomotive_steam" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dampflokomotive"
+    "locomotive_steam": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Dampflokomotive"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steam Locomotive"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Steam Locomotive"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Locomotive à vapeur"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Locomotive à vapeur"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蒸気機関車"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "蒸気機関車"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "증기기관차"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "증기기관차"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蒸汽机车"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "蒸汽机车"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "蒸汽火車"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "蒸汽火車"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Steam Locomotive"
           }
         }
       }
     },
-    "made_self" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Selbsterstellter Läufer"
+    "made_self": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Selbsterstellter Läufer"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Self-Made Runner"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Self-Made Runner"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Coureur Personnalisé"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Coureur Personnalisé"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自作ランナー"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "自作ランナー"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "커스텀 러너"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "커스텀 러너"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自制跑者"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "自制跑者"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "自製跑者"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "自製跑者"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Self-Made Corredor"
           }
         }
       }
     },
-    "mochi" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mochi"
+    "mochi": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mochi"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mochi"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mochi"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mochi"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mochi"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "おもち"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "おもち"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모찌"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모찌"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "年糕"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "年糕"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "麻糬"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "麻糬"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mochi"
+          }
         }
       }
     },
-    "mouse" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maus"
+    "mouse": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maus"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mouse"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mouse"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Souris"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Souris"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ネズミ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ネズミ"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "쥐"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "쥐"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "老鼠"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "老鼠"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "老鼠"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "老鼠"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mouse"
+          }
         }
       }
     },
-    "neko_maneki" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Winkekatze"
+    "neko_maneki": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Winkekatze"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maneki Neko"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maneki Neko"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maneki Neko"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maneki Neko"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "招き猫"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "招き猫"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "마네키네코"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "마네키네코"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "招财猫"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "招财猫"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "招財貓"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "招財貓"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Maneki Neko"
           }
         }
       }
     },
-    "octopus" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oktopus"
+    "octopus": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Oktopus"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Octopus"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Octopus"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Poulpe"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Poulpe"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "タコ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "タコ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "문어"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "문어"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "章鱼"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "章鱼"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "章魚"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "章魚"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Octopus"
           }
         }
       }
     },
-    "otter" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otter"
+    "otter": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otter"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otter"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otter"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Loutre"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Loutre"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "カワウソ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "カワウソ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "수달"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "수달"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "水獭"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "水獭"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "水獺"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "水獺"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Otter"
           }
         }
       }
     },
-    "owl" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eule"
+    "owl": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eule"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Owl"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Owl"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hibou"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hibou"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "フクロウ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "フクロウ"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "부엉이"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "부엉이"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "猫头鹰"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "猫头鹰"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "貓頭鷹"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "貓頭鷹"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Owl"
+          }
         }
       }
     },
-    "parrot" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Papagei"
+    "parrot": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Papagei"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Parrot"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parrot"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perroquet"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Perroquet"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "例のオウム"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "例のオウム"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "앵무새"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "앵무새"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "鹦鹉"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "鹦鹉"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "鸚鵡"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "鸚鵡"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parrot"
+          }
         }
       }
     },
-    "pendulum" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kuckucksuhr"
+    "pendulum": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kuckucksuhr"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendulum"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pendulum"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendule"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pendule"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "振り子"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "振り子"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "펜듈럼"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "펜듈럼"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "钟摆"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "钟摆"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "鐘擺"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "鐘擺"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pendulum"
           }
         }
       }
     },
-    "penguin" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pinguin"
+    "penguin": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pinguin"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Penguin"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Penguin"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manchot"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Manchot"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ペンギン"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ペンギン"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "펭귄"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "펭귄"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "企鹅"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "企鹅"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "企鵝"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "企鵝"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Penguin"
           }
         }
       }
     },
-    "penguin2" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pinguin 2"
+    "penguin2": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pinguin 2"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Penguin 2"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Penguin 2"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Manchot 2"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Manchot 2"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ペンギン２"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ペンギン２"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "펭귄 2"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "펭귄 2"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "企鹅 2"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "企鹅 2"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "企鵝 2"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "企鵝 2"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Penguin 2"
           }
         }
       }
     },
-    "people_party" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Party-Volk"
+    "people_party": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Party-Volk"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Party People"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Party People"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Foule en fête"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Foule en fête"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "パリピ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "パリピ"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "인싸 파티"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "인싸 파티"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "派对"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "派对"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "派對中的人們"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "派對中的人們"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Party People"
+          }
         }
       }
     },
-    "pig" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schwein"
+    "pig": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schwein"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pig"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pig"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cochon"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cochon"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ブタ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ブタ"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "돼지"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "돼지"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小猪"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小猪"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小豬"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小豬"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pig"
+          }
         }
       }
     },
-    "pulse" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Puls"
+    "pulse": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puls"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pulse"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pulse"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Battement"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Battement"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "パルス"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "パルス"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "파동"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "파동"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "心跳"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "心跳"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "心跳"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "心跳"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pulse"
           }
         }
       }
     },
-    "puppy" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Welpe"
+    "puppy": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Welpe"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puppy"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Puppy"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Chiot"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chiot"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "子犬"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "子犬"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "강아지"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "강아지"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小狗"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小狗"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小狗"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小狗"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Puppy"
           }
         }
       }
     },
-    "rabbit" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hase"
+    "rabbit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hase"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rabbit"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rabbit"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Lapin"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Lapin"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ウサギ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ウサギ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "토끼"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "토끼"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小兔子"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小兔子"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "小兔子"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "小兔子"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rabbit"
           }
         }
       }
     },
-    "reactor" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reaktor"
+    "reactor": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reaktor"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reactor"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reactor"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Réacteur"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Réacteur"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "彼のリアクター"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "彼のリアクター"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "원자로"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "원자로"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "反应堆"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "反应堆"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "反應爐"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "反應爐"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reactor"
+          }
         }
       }
     },
-    "rocket" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rakete"
+    "rocket": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rakete"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rocket"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rocket"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fusée"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Fusée"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ロケット"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ロケット"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "로켓"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "로켓"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "火箭"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "火箭"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "火箭"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "火箭"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rocket"
+          }
         }
       }
     },
-    "runners_all" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alle Läufer freischalten"
+    "runners_all": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Alle Läufer freischalten"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock All Runners"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Unlock All Runners"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Débloquer tous les Coureurs"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Débloquer tous les Coureurs"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "全ランナー開放"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "全ランナー開放"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "모든 러너 해제"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "모든 러너 해제"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "解锁所有跑者"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "解锁所有跑者"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "解鎖所有跑者"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "解鎖所有跑者"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Unlock All Corredors"
           }
         }
       }
     },
-    "sausage" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wurst"
+    "sausage": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wurst"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sausage"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sausage"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Saucisse"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Saucisse"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "踊るソーセージ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "踊るソーセージ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "소세지"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "소세지"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "香肠"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "香肠"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "香腸"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "香腸"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sausage"
           }
         }
       }
     },
-    "sheep" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schaf"
+    "sheep": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schaf"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sheep"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sheep"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Mouton"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mouton"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ヒツジ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ヒツジ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "양"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "양"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "绵羊"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "绵羊"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "綿羊"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "綿羊"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sheep"
           }
         }
       }
     },
-    "sleigh_reindeer" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rentier & Schlitten"
+    "sleigh_reindeer": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rentier & Schlitten"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reindeer & Sleigh"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reindeer & Sleigh"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Traineau de Rennes"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Traineau de Rennes"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "トナカイとソリ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "トナカイとソリ"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "루돌프와 썰매"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "루돌프와 썰매"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "驯鹿与雪橇"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "驯鹿与雪橇"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "馴鹿與雪橇"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "馴鹿與雪橇"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Reindeer & Sleigh"
+          }
         }
       }
     },
-    "slime" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schleim"
+    "slime": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schleim"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Slime"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slime"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Slime"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slime"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "スライム"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "スライム"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "슬라임"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "슬라임"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "史莱姆"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "史莱姆"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "史萊姆"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "史萊姆"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Slime"
+          }
         }
       }
     },
-    "snowman" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Schneemann"
+    "snowman": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Schneemann"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snowman"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Snowman"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Bonhomme de neige"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bonhomme de neige"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "雪だるま"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "雪だるま"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "눈사람"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "눈사람"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "雪人"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "雪人"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "雪人"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "雪人"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Snowman"
           }
         }
       }
     },
-    "sparkler" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wunderkerze"
+    "sparkler": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wunderkerze"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparkler"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sparkler"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Feux d'artifice"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Feux d'artifice"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "線香花火"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "線香花火"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "불꽃놀이"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "불꽃놀이"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "烟花棒"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "烟花棒"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仙女棒"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "仙女棒"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sparkler"
           }
         }
       }
     },
-    "squirrel" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Eichhörnchen"
+    "squirrel": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Eichhörnchen"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Squirrel"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Squirrel"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Écureuil"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Écureuil"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "リス"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "リス"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "다람쥐"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "다람쥐"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "松鼠"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "松鼠"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "松鼠"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "松鼠"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Squirrel"
           }
         }
       }
     },
-    "sushi" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sushi"
+    "sushi": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sushi"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sushi"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sushi"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sushi"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sushi"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "お寿司"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "お寿司"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "초밥"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "초밥"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "寿司"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "寿司"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "壽司"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "壽司"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sushi"
+          }
         }
       }
     },
-    "sushi_rotating" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Drehendes Sushi"
+    "sushi_rotating": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Drehendes Sushi"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rotating Sushi"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rotating Sushi"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sushi en rotation"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sushi en rotation"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "回転寿司"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回転寿司"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "회전초밥"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "회전초밥"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "回转寿司"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "回转寿司"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "迴轉壽司"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "迴轉壽司"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Rotating Sushi"
+          }
         }
       }
     },
-    "tail_cat" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Katzenschwanz"
+    "tail_cat": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Katzenschwanz"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cat Tail"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cat Tail"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Queue de chat"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Queue de chat"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "猫のしっぽ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "猫のしっぽ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "누웠냥"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "누웠냥"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "猫尾"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "猫尾"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "貓尾巴"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "貓尾巴"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Cat Tail"
           }
         }
       }
     },
-    "terrier" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Terrier"
+    "terrier": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terrier"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terrier"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Terrier"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terrier"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Terrier"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "テリア犬"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "テリア犬"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "테리어"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "테리어"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "梗犬"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "梗犬"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "梗犬"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "梗犬"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Terrier"
           }
         }
       }
     },
-    "triforce" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Kraft, Weisheit, Mut"
+    "triforce": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kraft, Weisheit, Mut"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Power, Wisdom, Courage"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Power, Wisdom, Courage"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Force, Sagesse, Courage"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Force, Sagesse, Courage"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "力、知恵、勇気"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "力、知恵、勇気"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "힘, 지혜, 용기"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "힘, 지혜, 용기"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "力量，智慧，勇气"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "力量，智慧，勇气"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "力量，智慧，勇氣"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "力量，智慧，勇氣"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Power, Wisdom, Courage"
           }
         }
       }
     },
-    "uhooi" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uhooi"
+    "uhooi": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uhooi"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uhooi"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uhooi"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uhooi"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uhooi"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ウホーイ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ウホーイ"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uhooi"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uhooi"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uhooi"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uhooi"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uhooi"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uhooi"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Uhooi"
+          }
         }
       }
     },
-    "up_push" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Liegestütz"
+    "up_push": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Liegestütz"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Push-Up"
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Push-Up"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pompe"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Pompe"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "腕立て伏せ"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "腕立て伏せ"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "푸쉬업"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "푸쉬업"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "俯卧撑"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "俯卧撑"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "伏地挺身"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "伏地挺身"
           }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Push-Up"
+          }
         }
       }
     },
-    "up_sit" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sit-Up"
+    "up_sit": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sit-Up"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sit-Up"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sit-Up"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Abdominaux"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abdominaux"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "腹筋"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "腹筋"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "싯업"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "싯업"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仰卧起坐"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "仰卧起坐"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仰臥起坐"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "仰臥起坐"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Sit-Up"
           }
         }
       }
     },
-    "whale" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Wal"
+    "whale": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Wal"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whale"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Whale"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Baleine"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Baleine"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "クジラ"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "クジラ"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "고래"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "고래"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "鲸鱼"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "鲸鱼"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "鯨魚"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "鯨魚"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Whale"
           }
         }
       }
     },
-    "wheel_hamster" : {
-      "localizations" : {
-        "de" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hamsterrad"
+    "wheel_hamster": {
+      "localizations": {
+        "de": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hamsterrad"
+          }
+        },
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hamster Wheel"
           }
         },
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hamster Wheel"
+        "fr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Roue de Hamster"
           }
         },
-        "fr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Roue de Hamster"
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ハムスターと回し車"
           }
         },
-        "ja" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ハムスターと回し車"
+        "ko": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "쳇바퀴"
           }
         },
-        "ko" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "쳇바퀴"
+        "zh-Hans": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "仓鼠跑轮"
           }
         },
-        "zh-Hans" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "仓鼠跑轮"
+        "zh-Hant": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "倉鼠跑輪子"
           }
         },
-        "zh-Hant" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "倉鼠跑輪子"
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hamster Wheel"
           }
         }
       }
     }
   },
-  "version" : "1_0"
+  "version": "1_0"
 }
