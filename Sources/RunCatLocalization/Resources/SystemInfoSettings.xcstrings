@@ -15,6 +15,12 @@
             "value" : "Activate"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Activar"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44,12 +50,6 @@
             "state" : "translated",
             "value" : "啟用"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Activar"
-          }
         }
       }
     },
@@ -65,6 +65,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If you use MacBook with a notch, you may not be able to see the System Info Bar on the menu bar or not be able to access other menu bar items."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si usas un MacBook con notch, es posible que no puedas ver la Barra de información del sistema en la barra de menú o no puedas acceder a otros elementos de la barra de menú."
           }
         },
         "fr" : {
@@ -96,12 +102,6 @@
             "state" : "translated",
             "value" : "如果您使用的是有瀏海的 MacBook，可能無法在選單列中看到系統資訊列或無法存取其他選單列項目。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Si usas un MacBook con notch, es posible que no puedas ver la Barra de información del sistema en la barra de menú o no puedas acceder a otros elementos de la barra de menú."
-          }
         }
       }
     },
@@ -117,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Notes on using System Info Bar"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notas sobre el uso de la Barra de información del sistema"
           }
         },
         "fr" : {
@@ -148,12 +154,6 @@
             "state" : "translated",
             "value" : "系統資訊列使用說明"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Notas sobre el uso de la Barra de información del sistema"
-          }
         }
       }
     },
@@ -169,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Battery State"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Estado de la batería"
           }
         },
         "fr" : {
@@ -200,12 +206,6 @@
             "state" : "translated",
             "value" : "電池狀態"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Estado de la batería"
-          }
         }
       }
     },
@@ -221,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Changed my mind"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambié de opinión"
           }
         },
         "fr" : {
@@ -252,12 +258,6 @@
             "state" : "translated",
             "value" : "我改變主意了"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cambié de opinión"
-          }
         }
       }
     },
@@ -273,6 +273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Experimental feature"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Función experimental"
           }
         },
         "fr" : {
@@ -304,12 +310,6 @@
             "state" : "translated",
             "value" : "實驗性功能"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Función experimental"
-          }
         }
       }
     },
@@ -325,6 +325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Memory Performance"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rendimiento de memoria"
           }
         },
         "fr" : {
@@ -356,12 +362,6 @@
             "state" : "translated",
             "value" : "記憶體效能"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rendimiento de memoria"
-          }
         }
       }
     },
@@ -377,6 +377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Monitoring"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitoreo"
           }
         },
         "fr" : {
@@ -408,12 +414,6 @@
             "state" : "translated",
             "value" : "監控"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Monitoreo"
-          }
         }
       }
     },
@@ -429,6 +429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Network Connection"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conexión de red"
           }
         },
         "fr" : {
@@ -460,12 +466,6 @@
             "state" : "translated",
             "value" : "網路連線"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Conexión de red"
-          }
         }
       }
     },
@@ -481,6 +481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Storage Capacity"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Capacidad de almacenamiento"
           }
         },
         "fr" : {
@@ -512,12 +518,6 @@
             "state" : "translated",
             "value" : "儲存空間容量"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Capacidad de almacenamiento"
-          }
         }
       }
     },
@@ -533,6 +533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "System Info Bar (β)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Barra de información del sistema (β)"
           }
         },
         "fr" : {
@@ -563,12 +569,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "系統資訊列 (β)"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Barra de información del sistema (β)"
           }
         }
       }

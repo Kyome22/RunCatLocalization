@@ -15,6 +15,12 @@
             "value" : "About RunCat"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de RunCat"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44,12 +50,6 @@
             "state" : "translated",
             "value" : "關於 RunCat"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Acerca de RunCat"
-          }
         }
       }
     },
@@ -65,6 +65,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Activity Monitor"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitor de actividad"
           }
         },
         "fr" : {
@@ -96,12 +102,6 @@
             "state" : "translated",
             "value" : "活動監視器"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Monitor de actividad"
-          }
         }
       }
     },
@@ -117,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Back"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
           }
         },
         "fr" : {
@@ -148,12 +154,6 @@
             "state" : "translated",
             "value" : "返回"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Atrás"
-          }
         }
       }
     },
@@ -169,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Animal Type Runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de tipo animal"
           }
         },
         "fr" : {
@@ -200,12 +206,6 @@
             "state" : "translated",
             "value" : "動物類跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores de tipo animal"
-          }
         }
       }
     },
@@ -221,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Default Runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores predeterminados"
           }
         },
         "fr" : {
@@ -252,12 +258,6 @@
             "state" : "translated",
             "value" : "預設跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores predeterminados"
-          }
         }
       }
     },
@@ -273,6 +273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inanimate Type Runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de tipo inanimado"
           }
         },
         "fr" : {
@@ -304,12 +310,6 @@
             "state" : "translated",
             "value" : "非生物類跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores de tipo inanimado"
-          }
         }
       }
     },
@@ -325,6 +325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seasonal Runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores estacionales"
           }
         },
         "fr" : {
@@ -356,12 +362,6 @@
             "state" : "translated",
             "value" : "季節限定跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores estacionales"
-          }
         }
       }
     },
@@ -377,6 +377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Self-Made Runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores personalizados"
           }
         },
         "fr" : {
@@ -408,12 +414,6 @@
             "state" : "translated",
             "value" : "自製跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores personalizados"
-          }
         }
       }
     },
@@ -429,6 +429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Special-Colored Runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de colores especiales"
           }
         },
         "fr" : {
@@ -460,12 +466,6 @@
             "state" : "translated",
             "value" : "特殊色跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores de colores especiales"
-          }
         }
       }
     },
@@ -481,6 +481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Contribute to RunCat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contribuir a RunCat"
           }
         },
         "fr" : {
@@ -512,12 +518,6 @@
             "state" : "translated",
             "value" : "貢獻 RunCat"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Contribuir a RunCat"
-          }
         }
       }
     },
@@ -533,6 +533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Debug Sleep"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuración del modo reposo"
           }
         },
         "fr" : {
@@ -564,12 +570,6 @@
             "state" : "translated",
             "value" : "偵錯睡眠"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Depuración del modo reposo"
-          }
         }
       }
     },
@@ -585,6 +585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Debug WakeUp"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuración de la reactivación"
           }
         },
         "fr" : {
@@ -616,12 +622,6 @@
             "state" : "translated",
             "value" : "偵錯喚醒"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Depuración de la reactivación"
-          }
         }
       }
     },
@@ -637,6 +637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Play Endless Game"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jugar al juego infinito"
           }
         },
         "fr" : {
@@ -668,12 +674,6 @@
             "state" : "translated",
             "value" : "玩無盡遊戲"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jugar al juego infinito"
-          }
         }
       }
     },
@@ -689,6 +689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Help"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayuda"
           }
         },
         "fr" : {
@@ -720,12 +726,6 @@
             "state" : "translated",
             "value" : "幫助"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ayuda"
-          }
         }
       }
     },
@@ -741,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frequently Asked Questions"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preguntas frecuentes"
           }
         },
         "fr" : {
@@ -772,12 +778,6 @@
             "state" : "translated",
             "value" : "常見問題"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Preguntas frecuentes"
-          }
         }
       }
     },
@@ -794,6 +794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "How to add self-made runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cómo agregar corredores personalizados"
           }
         },
         "fr" : {
@@ -825,12 +831,6 @@
             "state" : "translated",
             "value" : "如何添加自製跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cómo agregar corredores personalizados"
-          }
         }
       }
     },
@@ -846,6 +846,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "More"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más"
           }
         },
         "fr" : {
@@ -877,12 +883,6 @@
             "state" : "translated",
             "value" : "更多"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Más"
-          }
         }
       }
     },
@@ -898,6 +898,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Report an Issue"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reportar un problema"
           }
         },
         "fr" : {
@@ -929,12 +935,6 @@
             "state" : "translated",
             "value" : "回報問題"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reportar un problema"
-          }
         }
       }
     },
@@ -950,6 +950,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores"
           }
         },
         "fr" : {
@@ -981,12 +987,6 @@
             "state" : "translated",
             "value" : "跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores"
-          }
         }
       }
     },
@@ -1002,6 +1002,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Self-Made"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalizado"
           }
         },
         "fr" : {
@@ -1033,12 +1039,6 @@
             "state" : "translated",
             "value" : "自製"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Personalizado"
-          }
         }
       }
     },
@@ -1054,6 +1054,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Settings"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
           }
         },
         "fr" : {
@@ -1085,12 +1091,6 @@
             "state" : "translated",
             "value" : "設定"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Configuración"
-          }
         }
       }
     },
@@ -1106,6 +1106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Store"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tienda"
           }
         },
         "fr" : {
@@ -1137,12 +1143,6 @@
             "state" : "translated",
             "value" : "商店"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tienda"
-          }
         }
       }
     },
@@ -1158,6 +1158,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Quit RunCat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir de RunCat"
           }
         },
         "fr" : {
@@ -1188,12 +1194,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "結束 RunCat"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Salir de RunCat"
           }
         }
       }

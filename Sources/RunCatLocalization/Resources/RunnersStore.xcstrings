@@ -15,6 +15,12 @@
             "value" : "Animal type runners"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de tipo animal"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44,12 +50,6 @@
             "state" : "translated",
             "value" : "動物類跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores de tipo animal"
-          }
         }
       }
     },
@@ -65,6 +65,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Inanimate type runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de tipo inanimado"
           }
         },
         "fr" : {
@@ -96,12 +102,6 @@
             "state" : "translated",
             "value" : "非生物類跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores de tipo inanimado"
-          }
         }
       }
     },
@@ -117,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Recommended items"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elementos recomendados"
           }
         },
         "fr" : {
@@ -148,12 +154,6 @@
             "state" : "translated",
             "value" : "推薦項目"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Elementos recomendados"
-          }
         }
       }
     },
@@ -169,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Seasonal runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores estacionales"
           }
         },
         "fr" : {
@@ -200,12 +206,6 @@
             "state" : "translated",
             "value" : "季節限定跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores estacionales"
-          }
         }
       }
     },
@@ -221,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Special-colored runners (support the developer)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de colores especiales (apoya al desarrollador)"
           }
         },
         "fr" : {
@@ -252,12 +258,6 @@
             "state" : "translated",
             "value" : "特殊配色跑者（支持開發者）"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredores de colores especiales (apoya al desarrollador)"
-          }
         }
       }
     },
@@ -273,6 +273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Failed to sync with AppStore."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al sincronizar con App Store."
           }
         },
         "fr" : {
@@ -304,12 +310,6 @@
             "state" : "translated",
             "value" : "與 App Store 同步失敗。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Error al sincronizar con App Store."
-          }
         }
       }
     },
@@ -325,6 +325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The transaction data signature is invalid."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La firma de los datos de la transacción no es válida."
           }
         },
         "fr" : {
@@ -356,12 +362,6 @@
             "state" : "translated",
             "value" : "交易資料簽名無效。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La firma de los datos de la transacción no es válida."
-          }
         }
       }
     },
@@ -377,6 +377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "No Available Items"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay elementos disponibles"
           }
         },
         "fr" : {
@@ -408,12 +414,6 @@
             "state" : "translated",
             "value" : "沒有可用項目"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "No hay elementos disponibles"
-          }
         }
       }
     },
@@ -429,6 +429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "An internet connection is required to use Runners Store.\nPlease check your internet connection."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se requiere una conexión a internet para usar la Tienda de Corredores.\nPor favor, verifica tu conexión a internet."
           }
         },
         "fr" : {
@@ -460,12 +466,6 @@
             "state" : "translated",
             "value" : "查看跑者商店需要網路連線，請檢查你的網路連線狀況。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Se requiere una conexión a internet para usar la Tienda de Corredores.\nPor favor, verifica tu conexión a internet."
-          }
         }
       }
     },
@@ -481,6 +481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The purchase is pending."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La compra está pendiente."
           }
         },
         "fr" : {
@@ -512,12 +518,6 @@
             "state" : "translated",
             "value" : "交易處理中。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La compra está pendiente."
-          }
         }
       }
     },
@@ -533,6 +533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "This product is not found."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este producto no se encontró."
           }
         },
         "fr" : {
@@ -564,12 +570,6 @@
             "state" : "translated",
             "value" : "找不到該商品。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Este producto no se encontró."
-          }
         }
       }
     },
@@ -585,6 +585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restart the application while connected to the network."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reinicia la aplicación mientras estés conectado a la red."
           }
         },
         "fr" : {
@@ -616,12 +622,6 @@
             "state" : "translated",
             "value" : "請在有網路連線的狀態下重新啟動 App。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reinicia la aplicación mientras estés conectado a la red."
-          }
         }
       }
     },
@@ -637,6 +637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "This product is unavaliable."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este producto no está disponible."
           }
         },
         "fr" : {
@@ -668,12 +674,6 @@
             "state" : "translated",
             "value" : "該商品不可用。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Este producto no está disponible."
-          }
         }
       }
     },
@@ -689,6 +689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Purchase"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprar"
           }
         },
         "fr" : {
@@ -720,12 +726,6 @@
             "state" : "translated",
             "value" : "購買"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Comprar"
-          }
         }
       }
     },
@@ -741,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Purchasing Error"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de compra"
           }
         },
         "fr" : {
@@ -772,12 +778,6 @@
             "state" : "translated",
             "value" : "交易失敗"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Error de compra"
-          }
         }
       }
     },
@@ -793,6 +793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The purchase is not allowed."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La compra no está permitida."
           }
         },
         "fr" : {
@@ -824,12 +830,6 @@
             "state" : "translated",
             "value" : "無法進行交易。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La compra no está permitida."
-          }
         }
       }
     },
@@ -845,6 +845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Check your Apple ID payment settings."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revisa la configuración de pago de tu Apple ID."
           }
         },
         "fr" : {
@@ -876,12 +882,6 @@
             "state" : "translated",
             "value" : "請檢查你的 Apple ID 付款設定。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Revisa la configuración de pago de tu Apple ID."
-          }
         }
       }
     },
@@ -897,6 +897,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reload"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recargar"
           }
         },
         "fr" : {
@@ -928,12 +934,6 @@
             "state" : "translated",
             "value" : "重新載入"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Recargar"
-          }
         }
       }
     },
@@ -949,6 +949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restore"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar"
           }
         },
         "fr" : {
@@ -980,12 +986,6 @@
             "state" : "translated",
             "value" : "恢復購買"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurar"
-          }
         }
       }
     },
@@ -1001,6 +1001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Restore based on history"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar según el historial"
           }
         },
         "fr" : {
@@ -1032,12 +1038,6 @@
             "state" : "translated",
             "value" : "根據歷史紀錄恢復"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Restaurar según el historial"
-          }
         }
       }
     },
@@ -1053,6 +1053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Runners Store"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tienda de Corredores"
           }
         },
         "fr" : {
@@ -1084,12 +1090,6 @@
             "state" : "translated",
             "value" : "跑者商店"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tienda de Corredores"
-          }
         }
       }
     },
@@ -1105,6 +1105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unknown error occurred."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocurrió un error desconocido."
           }
         },
         "fr" : {
@@ -1136,12 +1142,6 @@
             "state" : "translated",
             "value" : "發生未知的錯誤。"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ocurrió un error desconocido."
-          }
         }
       }
     },
@@ -1157,6 +1157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "The purchase was cancelled."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La compra fue cancelada."
           }
         },
         "fr" : {
@@ -1187,12 +1193,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此交易被取消。"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "La compra fue cancelada."
           }
         }
       }

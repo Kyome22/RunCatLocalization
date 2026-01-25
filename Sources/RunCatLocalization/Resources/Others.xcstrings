@@ -15,6 +15,12 @@
             "value" : "%@?lang=en"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=es"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44,12 +50,6 @@
             "state" : "translated",
             "value" : "%@?lang=zh-Hant"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@?lang=es"
-          }
         }
       }
     },
@@ -65,6 +65,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Endless Game"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juego infinito"
           }
         },
         "fr" : {
@@ -96,12 +102,6 @@
             "state" : "translated",
             "value" : "無盡遊戲"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Juego infinito"
-          }
         }
       }
     },
@@ -114,6 +114,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "General"
@@ -148,12 +154,6 @@
             "state" : "translated",
             "value" : "一般"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "General"
-          }
         }
       }
     },
@@ -169,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Localization"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localización"
           }
         },
         "fr" : {
@@ -200,12 +206,6 @@
             "state" : "translated",
             "value" : "本地化"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Localización"
-          }
         }
       }
     },
@@ -221,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# Environment\n- %@: ver %@\n- %@\n- macOS: %@"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Entorno\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
         "fr" : {
@@ -252,12 +258,6 @@
             "state" : "translated",
             "value" : "# 環境\n- %@：ver %@\n- %@\n- macOS：%@"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "# Entorno\n- %@: ver %@\n- %@\n- macOS: %@"
-          }
         }
       }
     },
@@ -273,6 +273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# Expected Result"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Resultado esperado"
           }
         },
         "fr" : {
@@ -304,12 +310,6 @@
             "state" : "translated",
             "value" : "# 預期結果"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "# Resultado esperado"
-          }
         }
       }
     },
@@ -325,6 +325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%@ Issue Report"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Reporte de problema"
           }
         },
         "fr" : {
@@ -356,12 +362,6 @@
             "state" : "translated",
             "value" : "%@ 報告問題"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "%@ Reporte de problema"
-          }
         }
       }
     },
@@ -377,6 +377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# Steps to Reproduce the Issue"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Pasos para reproducir el problema"
           }
         },
         "fr" : {
@@ -408,12 +414,6 @@
             "state" : "translated",
             "value" : "# 重現問題的步驟"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "# Pasos para reproducir el problema"
-          }
         }
       }
     },
@@ -429,6 +429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# Short Description"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Descripción breve"
           }
         },
         "fr" : {
@@ -460,12 +466,6 @@
             "state" : "translated",
             "value" : "# 間單的描述"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "# Descripción breve"
-          }
         }
       }
     },
@@ -481,6 +481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# What You Tried\n- Relaunched the app: Yes/No\n- Restored at Runners Store: Yes/No\n- Uninstalled the app: Yes/No"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Lo que intentaste\n- Reiniciaste la app: Sí/No\n- Restauraste en Tienda de Corredores: Sí/No\n- Desinstalaste la app: Sí/No"
           }
         },
         "fr" : {
@@ -512,12 +518,6 @@
             "state" : "translated",
             "value" : "# 嘗試過的操作\n- 重新啟動 App：是/否\n- 從跑者商店還原：是/否\n- 解除安裝 App：是/否"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "# Lo que intentaste\n- Reiniciaste la app: Sí/No\n- Restauraste en Tienda de Corredores: Sí/No\n- Desinstalaste la app: Sí/No"
-          }
         }
       }
     },
@@ -533,6 +533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Support Page"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Página de soporte"
           }
         },
         "fr" : {
@@ -564,12 +570,6 @@
             "state" : "translated",
             "value" : "支援頁面"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Página de soporte"
-          }
         }
       }
     },
@@ -585,6 +585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "System Info"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Información del sistema"
           }
         },
         "fr" : {
@@ -616,12 +622,6 @@
             "state" : "translated",
             "value" : "系統資訊"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Información del sistema"
-          }
         }
       }
     },
@@ -637,6 +637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chinese, Simplified - Junjie Lin (junzilla)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chino simplificado - Junjie Lin (junzilla)"
           }
         },
         "fr" : {
@@ -668,12 +674,6 @@
             "state" : "translated",
             "value" : "簡體中文 - Junjie Lin (junzilla)"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chino simplificado - Junjie Lin (junzilla)"
-          }
         }
       }
     },
@@ -690,6 +690,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chinese, Traditional - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chino tradicional - Qing Bi Liao (Pencil126)"
           }
         },
         "fr" : {
@@ -721,12 +727,6 @@
             "state" : "translated",
             "value" : "繁體中文 - Qing Bi Liao (Pencil126)"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chino tradicional - Qing Bi Liao (Pencil126)"
-          }
         }
       }
     },
@@ -742,6 +742,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "French - Kravatox"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Francés - Kravatox"
           }
         },
         "fr" : {
@@ -773,12 +779,6 @@
             "state" : "translated",
             "value" : "法語 - Kravatox"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Francés - Kravatox"
-          }
         }
       }
     },
@@ -794,6 +794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "German - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alemán - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
           }
         },
         "fr" : {
@@ -825,12 +831,6 @@
             "state" : "translated",
             "value" : "德語 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Alemán - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
-          }
         }
       }
     },
@@ -846,6 +846,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Japanese - Takuto Nakamura (Kyome)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japonés - Takuto Nakamura (Kyome)"
           }
         },
         "fr" : {
@@ -877,12 +883,6 @@
             "state" : "translated",
             "value" : "日語 - Takuto Nakamura (Kyome)"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Japonés - Takuto Nakamura (Kyome)"
-          }
         }
       }
     },
@@ -898,6 +898,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Korean - Jaewon Gwon (Jake)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coreano - Jaewon Gwon (Jake)"
           }
         },
         "fr" : {
@@ -928,12 +934,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "韓語 - Jaewon Gwon (Jake)"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Coreano - Jaewon Gwon (Jake)"
           }
         }
       }

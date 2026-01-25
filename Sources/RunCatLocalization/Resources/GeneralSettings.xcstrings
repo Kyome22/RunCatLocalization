@@ -15,6 +15,12 @@
             "value" : "Select from all runners"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar entre todos los corredores"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44,12 +50,6 @@
             "state" : "translated",
             "value" : "選擇所有跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seleccionar entre todos los corredores"
-          }
         }
       }
     },
@@ -65,6 +65,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Changed my mind"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambié de opinión"
           }
         },
         "fr" : {
@@ -96,12 +102,6 @@
             "state" : "translated",
             "value" : "我改變主意了"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cambié de opinión"
-          }
         }
       }
     },
@@ -117,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Flip horizontally"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltear horizontalmente"
           }
         },
         "fr" : {
@@ -148,12 +154,6 @@
             "state" : "translated",
             "value" : "水平翻轉"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Voltear horizontalmente"
-          }
         }
       }
     },
@@ -169,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Invert speed"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invertir velocidad"
           }
         },
         "fr" : {
@@ -200,12 +206,6 @@
             "state" : "translated",
             "value" : "速度反轉"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Invertir velocidad"
-          }
         }
       }
     },
@@ -221,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Launch"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar"
           }
         },
         "fr" : {
@@ -252,12 +258,6 @@
             "state" : "translated",
             "value" : "啟動"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Iniciar"
-          }
         }
       }
     },
@@ -273,6 +273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Launch RunCat automatically at login."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar RunCat automáticamente al iniciar sesión."
           }
         },
         "fr" : {
@@ -304,12 +310,6 @@
             "state" : "translated",
             "value" : "登入時自動啟動 RunCat"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Iniciar RunCat automáticamente al iniciar sesión."
-          }
         }
       }
     },
@@ -325,6 +325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Select from only monochrome runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar corredores monocromáticos"
           }
         },
         "fr" : {
@@ -356,12 +362,6 @@
             "state" : "translated",
             "value" : "選擇僅單色跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seleccionar corredores monocromáticos"
-          }
         }
       }
     },
@@ -377,6 +377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Runner"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredor"
           }
         },
         "fr" : {
@@ -408,12 +414,6 @@
             "state" : "translated",
             "value" : "跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredor"
-          }
         }
       }
     },
@@ -429,6 +429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Select randomly per 10 minutes automatically"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar aleatoriamente cada 10 minutos automáticamente"
           }
         },
         "fr" : {
@@ -460,12 +466,6 @@
             "state" : "translated",
             "value" : "每 10 分鐘隨機選擇"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Seleccionar aleatoriamente cada 10 minutos automáticamente"
-          }
         }
       }
     },
@@ -481,6 +481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stop the runner"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener el corredor"
           }
         },
         "fr" : {
@@ -512,12 +518,6 @@
             "state" : "translated",
             "value" : "停止跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Detener el corredor"
-          }
         }
       }
     },
@@ -533,6 +533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stop the runner"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener el corredor"
           }
         },
         "fr" : {
@@ -564,12 +570,6 @@
             "state" : "translated",
             "value" : "停止跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Detener el corredor"
-          }
         }
       }
     },
@@ -585,6 +585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "If you stop the runner, the uniqueness of this application will be lost."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si detienes el corredor, se perderá la singularidad de esta aplicación."
           }
         },
         "fr" : {
@@ -616,12 +622,6 @@
             "state" : "translated",
             "value" : "如果你停止了跑者，就會失去此 App 的獨特性"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Si detienes el corredor, se perderá la singularidad de esta aplicación."
-          }
         }
       }
     },
@@ -637,6 +637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do you really want to stop the runner?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Realmente quieres detener el corredor?"
           }
         },
         "fr" : {
@@ -668,12 +674,6 @@
             "state" : "translated",
             "value" : "你確定要停止跑者嗎？"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "¿Realmente quieres detener el corredor?"
-          }
         }
       }
     },
@@ -689,6 +689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Use the system accent color"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usar el color del sistema"
           }
         },
         "fr" : {
@@ -719,12 +725,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用系統主題色"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Usar el color del sistema"
           }
         }
       }

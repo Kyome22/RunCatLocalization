@@ -15,6 +15,12 @@
             "value" : "Cat β"
           }
         },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gato β"
+          }
+        },
         "fr" : {
           "stringUnit" : {
             "state" : "translated",
@@ -44,12 +50,6 @@
             "state" : "translated",
             "value" : "β 貓"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gato β"
-          }
         }
       }
     },
@@ -65,6 +65,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bird"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pájaro"
           }
         },
         "fr" : {
@@ -96,12 +102,6 @@
             "state" : "translated",
             "value" : "小鳥"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pájaro"
-          }
         }
       }
     },
@@ -117,6 +117,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bonfire"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hoguera"
           }
         },
         "fr" : {
@@ -148,12 +154,6 @@
             "state" : "translated",
             "value" : "營火"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hoguera"
-          }
         }
       }
     },
@@ -169,6 +169,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Butterfly"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mariposa"
           }
         },
         "fr" : {
@@ -200,12 +206,6 @@
             "state" : "translated",
             "value" : "蝴蝶"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mariposa"
-          }
         }
       }
     },
@@ -221,6 +221,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cat γ"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gato γ"
           }
         },
         "fr" : {
@@ -252,12 +258,6 @@
             "state" : "translated",
             "value" : "γ 貓"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gato γ"
-          }
         }
       }
     },
@@ -273,6 +273,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cat α"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gato α"
           }
         },
         "fr" : {
@@ -304,12 +310,6 @@
             "state" : "translated",
             "value" : "α 貓"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gato α"
-          }
         }
       }
     },
@@ -325,6 +325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Metal Cluster Cat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gato Metal Cluster"
           }
         },
         "fr" : {
@@ -356,12 +362,6 @@
             "state" : "translated",
             "value" : "金屬簇貓"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gato Metal Cluster"
-          }
         }
       }
     },
@@ -377,6 +377,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Flash Cat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gato Flash"
           }
         },
         "fr" : {
@@ -408,12 +414,6 @@
             "state" : "translated",
             "value" : "閃電貓"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gato Flash"
-          }
         }
       }
     },
@@ -429,6 +429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Golden Cat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gato Dorado"
           }
         },
         "fr" : {
@@ -460,12 +466,6 @@
             "state" : "translated",
             "value" : "黃金貓"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gato Dorado"
-          }
         }
       }
     },
@@ -481,6 +481,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mock Nyan Cat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Imitación de Nyan Cat"
           }
         },
         "fr" : {
@@ -512,12 +518,6 @@
             "state" : "translated",
             "value" : "仿彩虹貓"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Imitación de Nyan Cat"
-          }
         }
       }
     },
@@ -533,6 +533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chameleon"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Camaleón"
           }
         },
         "fr" : {
@@ -564,12 +570,6 @@
             "state" : "translated",
             "value" : "變色龍"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Camaleón"
-          }
         }
       }
     },
@@ -585,6 +585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cheetah"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guepardo"
           }
         },
         "fr" : {
@@ -616,12 +622,6 @@
             "state" : "translated",
             "value" : "獵豹"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Guepardo"
-          }
         }
       }
     },
@@ -637,6 +637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chicken"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pollo"
           }
         },
         "fr" : {
@@ -668,12 +674,6 @@
             "state" : "translated",
             "value" : "小雞"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pollo"
-          }
         }
       }
     },
@@ -689,6 +689,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wind Chime"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Carillón de viento"
           }
         },
         "fr" : {
@@ -720,12 +726,6 @@
             "state" : "translated",
             "value" : "風鈴"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Carillón de viento"
-          }
         }
       }
     },
@@ -741,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "City"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ciudad"
           }
         },
         "fr" : {
@@ -772,12 +778,6 @@
             "state" : "translated",
             "value" : "城市"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ciudad"
-          }
         }
       }
     },
@@ -793,6 +793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Coffee"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Café"
           }
         },
         "fr" : {
@@ -824,12 +830,6 @@
             "state" : "translated",
             "value" : "咖啡"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Café"
-          }
         }
       }
     },
@@ -845,6 +845,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cogwheel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Engranaje"
           }
         },
         "fr" : {
@@ -876,12 +882,6 @@
             "state" : "translated",
             "value" : "齒輪"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Engranaje"
-          }
         }
       }
     },
@@ -894,6 +894,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welsh Corgi"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Welsh Corgi"
@@ -928,12 +934,6 @@
             "state" : "translated",
             "value" : "柯基"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Welsh Corgi"
-          }
         }
       }
     },
@@ -949,6 +949,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Newton's Cradle"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Péndulo de Newton"
           }
         },
         "fr" : {
@@ -980,12 +986,6 @@
             "state" : "translated",
             "value" : "牛頓球"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Péndulo de Newton"
-          }
         }
       }
     },
@@ -1001,6 +1001,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sine Curve"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Curva sinusoidal"
           }
         },
         "fr" : {
@@ -1032,12 +1038,6 @@
             "state" : "translated",
             "value" : "正弦曲線"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Curva sinusoidal"
-          }
         }
       }
     },
@@ -1053,6 +1053,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dinosaur"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dinosaurio"
           }
         },
         "fr" : {
@@ -1084,12 +1090,6 @@
             "state" : "translated",
             "value" : "恐龍"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dinosaurio"
-          }
         }
       }
     },
@@ -1105,6 +1105,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dog"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Perro"
           }
         },
         "fr" : {
@@ -1136,12 +1142,6 @@
             "state" : "translated",
             "value" : "狗"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Perro"
-          }
         }
       }
     },
@@ -1157,6 +1157,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Japanese Apology"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disculpa japonesa"
           }
         },
         "fr" : {
@@ -1188,12 +1194,6 @@
             "state" : "translated",
             "value" : "日式道歉"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Disculpa japonesa"
-          }
         }
       }
     },
@@ -1209,6 +1209,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dolphin"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Delfín"
           }
         },
         "fr" : {
@@ -1240,12 +1246,6 @@
             "state" : "translated",
             "value" : "海豚"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Delfín"
-          }
         }
       }
     },
@@ -1261,6 +1261,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dots"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Puntos"
           }
         },
         "fr" : {
@@ -1292,12 +1298,6 @@
             "state" : "translated",
             "value" : "點點"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Puntos"
-          }
         }
       }
     },
@@ -1313,6 +1313,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dragon"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dragón"
           }
         },
         "fr" : {
@@ -1344,12 +1350,6 @@
             "state" : "translated",
             "value" : "龍"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Dragón"
-          }
         }
       }
     },
@@ -1365,6 +1365,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tapioca Drink"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bebida de tapioca"
           }
         },
         "fr" : {
@@ -1396,12 +1402,6 @@
             "state" : "translated",
             "value" : "珍珠奶茶"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bebida de tapioca"
-          }
         }
       }
     },
@@ -1417,6 +1417,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Drop"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gota"
           }
         },
         "fr" : {
@@ -1448,12 +1454,6 @@
             "state" : "translated",
             "value" : "水滴"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gota"
-          }
         }
       }
     },
@@ -1469,6 +1469,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rubber Duck"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pato de goma"
           }
         },
         "fr" : {
@@ -1500,12 +1506,6 @@
             "state" : "translated",
             "value" : "橡皮鴨"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pato de goma"
-          }
         }
       }
     },
@@ -1521,6 +1521,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Earth"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tierra"
           }
         },
         "fr" : {
@@ -1552,12 +1558,6 @@
             "state" : "translated",
             "value" : "地球"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tierra"
-          }
         }
       }
     },
@@ -1573,6 +1573,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Engine"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Motor"
           }
         },
         "fr" : {
@@ -1604,12 +1610,6 @@
             "state" : "translated",
             "value" : "引擎"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Motor"
-          }
         }
       }
     },
@@ -1622,6 +1622,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entaku"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entaku"
@@ -1656,12 +1662,6 @@
             "state" : "translated",
             "value" : "Entaku"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Entaku"
-          }
         }
       }
     },
@@ -1677,6 +1677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Factory"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fábrica"
           }
         },
         "fr" : {
@@ -1708,12 +1714,6 @@
             "state" : "translated",
             "value" : "工廠"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fábrica"
-          }
         }
       }
     },
@@ -1729,6 +1729,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fish-Man"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hombre-pez"
           }
         },
         "fr" : {
@@ -1760,12 +1766,6 @@
             "state" : "translated",
             "value" : "魚人"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hombre-pez"
-          }
         }
       }
     },
@@ -1781,6 +1781,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Fox"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zorro"
           }
         },
         "fr" : {
@@ -1812,12 +1818,6 @@
             "state" : "translated",
             "value" : "狐狸"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zorro"
-          }
         }
       }
     },
@@ -1833,6 +1833,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frog"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rana"
           }
         },
         "fr" : {
@@ -1864,12 +1870,6 @@
             "state" : "translated",
             "value" : "青蛙"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rana"
-          }
         }
       }
     },
@@ -1885,6 +1885,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Frypan"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sartén"
           }
         },
         "fr" : {
@@ -1916,12 +1922,6 @@
             "state" : "translated",
             "value" : "平底鍋"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sartén"
-          }
         }
       }
     },
@@ -1937,6 +1937,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ghost"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fantasma"
           }
         },
         "fr" : {
@@ -1968,12 +1974,6 @@
             "state" : "translated",
             "value" : "幽靈"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fantasma"
-          }
         }
       }
     },
@@ -1989,6 +1989,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Greyhound"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Galgo"
           }
         },
         "fr" : {
@@ -2020,12 +2026,6 @@
             "state" : "translated",
             "value" : "灰狗"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Galgo"
-          }
         }
       }
     },
@@ -2041,6 +2041,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hedgehog"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erizo"
           }
         },
         "fr" : {
@@ -2072,12 +2078,6 @@
             "state" : "translated",
             "value" : "刺蝟"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Erizo"
-          }
         }
       }
     },
@@ -2093,6 +2093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Horse"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Caballo"
           }
         },
         "fr" : {
@@ -2124,12 +2130,6 @@
             "state" : "translated",
             "value" : "馬"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Caballo"
-          }
         }
       }
     },
@@ -2145,6 +2145,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Human"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Humano"
           }
         },
         "fr" : {
@@ -2176,12 +2182,6 @@
             "state" : "translated",
             "value" : "人"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Humano"
-          }
         }
       }
     },
@@ -2197,6 +2197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Jack O' Lantern"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Calabaza de Halloween"
           }
         },
         "fr" : {
@@ -2228,12 +2234,6 @@
             "state" : "translated",
             "value" : "南瓜燈"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Calabaza de Halloween"
-          }
         }
       }
     },
@@ -2249,6 +2249,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Steam Locomotive"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Locomotora de vapor"
           }
         },
         "fr" : {
@@ -2280,12 +2286,6 @@
             "state" : "translated",
             "value" : "蒸汽火車"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Locomotora de vapor"
-          }
         }
       }
     },
@@ -2301,6 +2301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Self-Made Runner"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredor personalizado"
           }
         },
         "fr" : {
@@ -2332,12 +2338,6 @@
             "state" : "translated",
             "value" : "自製跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Corredor personalizado"
-          }
         }
       }
     },
@@ -2350,6 +2350,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mochi"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mochi"
@@ -2384,12 +2390,6 @@
             "state" : "translated",
             "value" : "麻糬"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Mochi"
-          }
         }
       }
     },
@@ -2405,6 +2405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Mouse"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ratón"
           }
         },
         "fr" : {
@@ -2436,12 +2442,6 @@
             "state" : "translated",
             "value" : "老鼠"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ratón"
-          }
         }
       }
     },
@@ -2454,6 +2454,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Maneki Neko"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Maneki Neko"
@@ -2488,12 +2494,6 @@
             "state" : "translated",
             "value" : "招財貓"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Maneki Neko"
-          }
         }
       }
     },
@@ -2509,6 +2509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Octopus"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulpo"
           }
         },
         "fr" : {
@@ -2540,12 +2546,6 @@
             "state" : "translated",
             "value" : "章魚"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pulpo"
-          }
         }
       }
     },
@@ -2561,6 +2561,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Otter"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nutria"
           }
         },
         "fr" : {
@@ -2592,12 +2598,6 @@
             "state" : "translated",
             "value" : "水獺"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nutria"
-          }
         }
       }
     },
@@ -2613,6 +2613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Owl"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Búho"
           }
         },
         "fr" : {
@@ -2644,12 +2650,6 @@
             "state" : "translated",
             "value" : "貓頭鷹"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Búho"
-          }
         }
       }
     },
@@ -2665,6 +2665,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Parrot"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loro"
           }
         },
         "fr" : {
@@ -2696,12 +2702,6 @@
             "state" : "translated",
             "value" : "鸚鵡"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Loro"
-          }
         }
       }
     },
@@ -2717,6 +2717,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pendulum"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Péndulo"
           }
         },
         "fr" : {
@@ -2748,12 +2754,6 @@
             "state" : "translated",
             "value" : "鐘擺"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Péndulo"
-          }
         }
       }
     },
@@ -2769,6 +2769,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Penguin"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pingüino"
           }
         },
         "fr" : {
@@ -2800,12 +2806,6 @@
             "state" : "translated",
             "value" : "企鵝"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pingüino"
-          }
         }
       }
     },
@@ -2821,6 +2821,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Penguin 2"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pingüino 2"
           }
         },
         "fr" : {
@@ -2852,12 +2858,6 @@
             "state" : "translated",
             "value" : "企鵝 2"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pingüino 2"
-          }
         }
       }
     },
@@ -2873,6 +2873,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Party People"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gente de fiesta"
           }
         },
         "fr" : {
@@ -2904,12 +2910,6 @@
             "state" : "translated",
             "value" : "派對中的人們"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Gente de fiesta"
-          }
         }
       }
     },
@@ -2925,6 +2925,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pig"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cerdo"
           }
         },
         "fr" : {
@@ -2956,12 +2962,6 @@
             "state" : "translated",
             "value" : "小豬"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cerdo"
-          }
         }
       }
     },
@@ -2977,6 +2977,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pulse"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pulso"
           }
         },
         "fr" : {
@@ -3008,12 +3014,6 @@
             "state" : "translated",
             "value" : "心跳"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pulso"
-          }
         }
       }
     },
@@ -3029,6 +3029,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Puppy"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cachorro"
           }
         },
         "fr" : {
@@ -3060,12 +3066,6 @@
             "state" : "translated",
             "value" : "小狗"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cachorro"
-          }
         }
       }
     },
@@ -3081,6 +3081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rabbit"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Conejo"
           }
         },
         "fr" : {
@@ -3112,12 +3118,6 @@
             "state" : "translated",
             "value" : "小兔子"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Conejo"
-          }
         }
       }
     },
@@ -3130,6 +3130,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reactor"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reactor"
@@ -3164,12 +3170,6 @@
             "state" : "translated",
             "value" : "反應爐"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reactor"
-          }
         }
       }
     },
@@ -3185,6 +3185,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rocket"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cohete"
           }
         },
         "fr" : {
@@ -3216,12 +3222,6 @@
             "state" : "translated",
             "value" : "火箭"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cohete"
-          }
         }
       }
     },
@@ -3237,6 +3237,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unlock All Runners"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Desbloquear todos los corredores"
           }
         },
         "fr" : {
@@ -3268,12 +3274,6 @@
             "state" : "translated",
             "value" : "解鎖所有跑者"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Desbloquear todos los corredores"
-          }
         }
       }
     },
@@ -3289,6 +3289,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sausage"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salchicha"
           }
         },
         "fr" : {
@@ -3320,12 +3326,6 @@
             "state" : "translated",
             "value" : "香腸"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Salchicha"
-          }
         }
       }
     },
@@ -3341,6 +3341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sheep"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oveja"
           }
         },
         "fr" : {
@@ -3372,12 +3378,6 @@
             "state" : "translated",
             "value" : "綿羊"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Oveja"
-          }
         }
       }
     },
@@ -3393,6 +3393,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reindeer & Sleigh"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reno y trineo"
           }
         },
         "fr" : {
@@ -3424,12 +3430,6 @@
             "state" : "translated",
             "value" : "馴鹿與雪橇"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Reno y trineo"
-          }
         }
       }
     },
@@ -3442,6 +3442,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slime"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Slime"
@@ -3476,12 +3482,6 @@
             "state" : "translated",
             "value" : "史萊姆"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Slime"
-          }
         }
       }
     },
@@ -3497,6 +3497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Snowman"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muñeco de nieve"
           }
         },
         "fr" : {
@@ -3528,12 +3534,6 @@
             "state" : "translated",
             "value" : "雪人"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Muñeco de nieve"
-          }
         }
       }
     },
@@ -3549,6 +3549,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sparkler"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bengala"
           }
         },
         "fr" : {
@@ -3580,12 +3586,6 @@
             "state" : "translated",
             "value" : "仙女棒"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Bengala"
-          }
         }
       }
     },
@@ -3601,6 +3601,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Squirrel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ardilla"
           }
         },
         "fr" : {
@@ -3632,12 +3638,6 @@
             "state" : "translated",
             "value" : "松鼠"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ardilla"
-          }
         }
       }
     },
@@ -3650,6 +3650,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sushi"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sushi"
@@ -3684,12 +3690,6 @@
             "state" : "translated",
             "value" : "壽司"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sushi"
-          }
         }
       }
     },
@@ -3705,6 +3705,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Rotating Sushi"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sushi giratorio"
           }
         },
         "fr" : {
@@ -3736,12 +3742,6 @@
             "state" : "translated",
             "value" : "迴轉壽司"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sushi giratorio"
-          }
         }
       }
     },
@@ -3757,6 +3757,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Cat Tail"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cola de gato"
           }
         },
         "fr" : {
@@ -3788,12 +3794,6 @@
             "state" : "translated",
             "value" : "貓尾巴"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Cola de gato"
-          }
         }
       }
     },
@@ -3806,6 +3806,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Terrier"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Terrier"
@@ -3840,12 +3846,6 @@
             "state" : "translated",
             "value" : "梗犬"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Terrier"
-          }
         }
       }
     },
@@ -3861,6 +3861,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Power, Wisdom, Courage"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fuerza, Sabiduría, Valor"
           }
         },
         "fr" : {
@@ -3892,12 +3898,6 @@
             "state" : "translated",
             "value" : "力量，智慧，勇氣"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Fuerza, Sabiduría, Valor"
-          }
         }
       }
     },
@@ -3910,6 +3910,12 @@
           }
         },
         "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uhooi"
+          }
+        },
+        "es" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uhooi"
@@ -3944,12 +3950,6 @@
             "state" : "translated",
             "value" : "Uhooi"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Uhooi"
-          }
         }
       }
     },
@@ -3965,6 +3965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Push-Up"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Flexión"
           }
         },
         "fr" : {
@@ -3996,12 +4002,6 @@
             "state" : "translated",
             "value" : "伏地挺身"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Flexión"
-          }
         }
       }
     },
@@ -4017,6 +4017,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sit-Up"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abdominal"
           }
         },
         "fr" : {
@@ -4048,12 +4054,6 @@
             "state" : "translated",
             "value" : "仰臥起坐"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abdominal"
-          }
         }
       }
     },
@@ -4069,6 +4069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Whale"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ballena"
           }
         },
         "fr" : {
@@ -4100,12 +4106,6 @@
             "state" : "translated",
             "value" : "鯨魚"
           }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ballena"
-          }
         }
       }
     },
@@ -4121,6 +4121,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Hamster Wheel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rueda de hámster"
           }
         },
         "fr" : {
@@ -4151,12 +4157,6 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "倉鼠跑輪子"
-          }
-        },
-        "es" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rueda de hámster"
           }
         }
       }
