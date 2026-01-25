@@ -31,6 +31,7 @@ jq -r '
     translations: {
       "de": .value.localizations.de.stringUnit.value,
       "en": .value.localizations.en.stringUnit.value,
+      "es": .value.localizations.es.stringUnit.value,
       "fr": .value.localizations.fr.stringUnit.value,
       "ja": .value.localizations.ja.stringUnit.value,
       "ko": .value.localizations.ko.stringUnit.value,

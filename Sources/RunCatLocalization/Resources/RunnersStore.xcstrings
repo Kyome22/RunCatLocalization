@@ -44,6 +44,12 @@
             "state" : "translated",
             "value" : "動物類跑者"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de tipo animal"
+          }
         }
       }
     },
@@ -89,6 +95,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "非生物類跑者"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de tipo inanimado"
           }
         }
       }
@@ -136,6 +148,12 @@
             "state" : "translated",
             "value" : "推薦項目"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Elementos recomendados"
+          }
         }
       }
     },
@@ -181,6 +199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "季節限定跑者"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores estacionales"
           }
         }
       }
@@ -228,6 +252,12 @@
             "state" : "translated",
             "value" : "特殊配色跑者（支持開發者）"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de colores especiales (apoya al desarrollador)"
+          }
         }
       }
     },
@@ -273,6 +303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "與 App Store 同步失敗。"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al sincronizar con App Store."
           }
         }
       }
@@ -320,6 +356,12 @@
             "state" : "translated",
             "value" : "交易資料簽名無效。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La firma de los datos de la transacción no es válida."
+          }
         }
       }
     },
@@ -365,6 +407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "沒有可用項目"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No hay elementos disponibles"
           }
         }
       }
@@ -412,6 +460,12 @@
             "state" : "translated",
             "value" : "查看跑者商店需要網路連線，請檢查你的網路連線狀況。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se requiere una conexión a internet para usar la Tienda de Corredores.\nPor favor, verifica tu conexión a internet."
+          }
         }
       }
     },
@@ -457,6 +511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "交易處理中。"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La compra está pendiente."
           }
         }
       }
@@ -504,6 +564,12 @@
             "state" : "translated",
             "value" : "找不到該商品。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este producto no se encontró."
+          }
         }
       }
     },
@@ -549,6 +615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "請在有網路連線的狀態下重新啟動 App。"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reinicia la aplicación mientras estés conectado a la red."
           }
         }
       }
@@ -596,6 +668,12 @@
             "state" : "translated",
             "value" : "該商品不可用。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este producto no está disponible."
+          }
         }
       }
     },
@@ -641,6 +719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "購買"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Comprar"
           }
         }
       }
@@ -688,6 +772,12 @@
             "state" : "translated",
             "value" : "交易失敗"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error de compra"
+          }
         }
       }
     },
@@ -733,6 +823,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "無法進行交易。"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La compra no está permitida."
           }
         }
       }
@@ -780,6 +876,12 @@
             "state" : "translated",
             "value" : "請檢查你的 Apple ID 付款設定。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revisa la configuración de pago de tu Apple ID."
+          }
         }
       }
     },
@@ -825,6 +927,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重新載入"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recargar"
           }
         }
       }
@@ -872,6 +980,12 @@
             "state" : "translated",
             "value" : "恢復購買"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar"
+          }
         }
       }
     },
@@ -917,6 +1031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "根據歷史紀錄恢復"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restaurar según el historial"
           }
         }
       }
@@ -964,6 +1084,12 @@
             "state" : "translated",
             "value" : "跑者商店"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tienda de Corredores"
+          }
         }
       }
     },
@@ -1010,6 +1136,12 @@
             "state" : "translated",
             "value" : "發生未知的錯誤。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocurrió un error desconocido."
+          }
         }
       }
     },
@@ -1055,6 +1187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此交易被取消。"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La compra fue cancelada."
           }
         }
       }

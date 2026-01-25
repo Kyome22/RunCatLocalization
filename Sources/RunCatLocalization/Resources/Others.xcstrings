@@ -44,6 +44,12 @@
             "state" : "translated",
             "value" : "%@?lang=zh-Hant"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=es"
+          }
         }
       }
     },
@@ -89,6 +95,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "無盡遊戲"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juego infinito"
           }
         }
       }
@@ -136,6 +148,12 @@
             "state" : "translated",
             "value" : "一般"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
+          }
         }
       }
     },
@@ -181,6 +199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "本地化"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localización"
           }
         }
       }
@@ -228,6 +252,12 @@
             "state" : "translated",
             "value" : "# 環境\n- %@：ver %@\n- %@\n- macOS：%@"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Entorno\n- %@: ver %@\n- %@\n- macOS: %@"
+          }
         }
       }
     },
@@ -273,6 +303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 預期結果"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Resultado esperado"
           }
         }
       }
@@ -320,6 +356,12 @@
             "state" : "translated",
             "value" : "%@ 報告問題"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Reporte de problema"
+          }
         }
       }
     },
@@ -365,6 +407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 重現問題的步驟"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Pasos para reproducir el problema"
           }
         }
       }
@@ -412,6 +460,12 @@
             "state" : "translated",
             "value" : "# 間單的描述"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Descripción breve"
+          }
         }
       }
     },
@@ -457,6 +511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 嘗試過的操作\n- 重新啟動 App：是/否\n- 從跑者商店還原：是/否\n- 解除安裝 App：是/否"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Lo que intentaste\n- Reiniciaste la app: Sí/No\n- Restauraste en Tienda de Corredores: Sí/No\n- Desinstalaste la app: Sí/No"
           }
         }
       }
@@ -504,6 +564,12 @@
             "state" : "translated",
             "value" : "支援頁面"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Página de soporte"
+          }
         }
       }
     },
@@ -550,6 +616,12 @@
             "state" : "translated",
             "value" : "系統資訊"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Información del sistema"
+          }
         }
       }
     },
@@ -595,6 +667,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "簡體中文 - Junjie Lin (junzilla)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chino simplificado - Junjie Lin (junzilla)"
           }
         }
       }
@@ -643,6 +721,12 @@
             "state" : "translated",
             "value" : "繁體中文 - Qing Bi Liao (Pencil126)"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chino tradicional - Qing Bi Liao (Pencil126)"
+          }
         }
       }
     },
@@ -688,6 +772,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "法語 - Kravatox"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Francés - Kravatox"
           }
         }
       }
@@ -735,6 +825,12 @@
             "state" : "translated",
             "value" : "德語 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alemán - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
         }
       }
     },
@@ -781,6 +877,12 @@
             "state" : "translated",
             "value" : "日語 - Takuto Nakamura (Kyome)"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japonés - Takuto Nakamura (Kyome)"
+          }
         }
       }
     },
@@ -826,6 +928,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "韓語 - Jaewon Gwon (Jake)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coreano - Jaewon Gwon (Jake)"
           }
         }
       }

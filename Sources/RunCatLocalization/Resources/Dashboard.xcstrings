@@ -44,6 +44,12 @@
             "state" : "translated",
             "value" : "關於 RunCat"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acerca de RunCat"
+          }
         }
       }
     },
@@ -89,6 +95,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "活動監視器"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Monitor de actividad"
           }
         }
       }
@@ -136,6 +148,12 @@
             "state" : "translated",
             "value" : "返回"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Atrás"
+          }
         }
       }
     },
@@ -181,6 +199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "動物類跑者"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de tipo animal"
           }
         }
       }
@@ -228,6 +252,12 @@
             "state" : "translated",
             "value" : "預設跑者"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores predeterminados"
+          }
         }
       }
     },
@@ -273,6 +303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "非生物類跑者"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de tipo inanimado"
           }
         }
       }
@@ -320,6 +356,12 @@
             "state" : "translated",
             "value" : "季節限定跑者"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores estacionales"
+          }
         }
       }
     },
@@ -365,6 +407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自製跑者"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores personalizados"
           }
         }
       }
@@ -412,6 +460,12 @@
             "state" : "translated",
             "value" : "特殊色跑者"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores de colores especiales"
+          }
         }
       }
     },
@@ -457,6 +511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "貢獻 RunCat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Contribuir a RunCat"
           }
         }
       }
@@ -504,6 +564,12 @@
             "state" : "translated",
             "value" : "偵錯睡眠"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuración del modo reposo"
+          }
         }
       }
     },
@@ -549,6 +615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "偵錯喚醒"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuración de la reactivación"
           }
         }
       }
@@ -596,6 +668,12 @@
             "state" : "translated",
             "value" : "玩無盡遊戲"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jugar al juego infinito"
+          }
         }
       }
     },
@@ -642,6 +720,12 @@
             "state" : "translated",
             "value" : "幫助"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayuda"
+          }
         }
       }
     },
@@ -687,6 +771,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "常見問題"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preguntas frecuentes"
           }
         }
       }
@@ -735,6 +825,12 @@
             "state" : "translated",
             "value" : "如何添加自製跑者"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cómo agregar corredores personalizados"
+          }
         }
       }
     },
@@ -780,6 +876,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更多"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Más"
           }
         }
       }
@@ -827,6 +929,12 @@
             "state" : "translated",
             "value" : "回報問題"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reportar un problema"
+          }
         }
       }
     },
@@ -872,6 +980,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "跑者"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores"
           }
         }
       }
@@ -919,6 +1033,12 @@
             "state" : "translated",
             "value" : "自製"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Personalizado"
+          }
         }
       }
     },
@@ -964,6 +1084,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "設定"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Configuración"
           }
         }
       }
@@ -1011,6 +1137,12 @@
             "state" : "translated",
             "value" : "商店"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tienda"
+          }
         }
       }
     },
@@ -1056,6 +1188,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "結束 RunCat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salir de RunCat"
           }
         }
       }
