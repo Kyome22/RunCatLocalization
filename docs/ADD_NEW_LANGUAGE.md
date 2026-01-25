@@ -33,12 +33,14 @@ Add the new language to the `translations` object in the `jq` command. **Importa
 ```bash
 # Find this section in the jq command:
 translations: {
-  "en": .value.localizations.en.stringUnit.value,
   "de": .value.localizations.de.stringUnit.value,
+  "en": .value.localizations.en.stringUnit.value,
+  "es": .value.localizations.es.stringUnit.value,
   "fr": .value.localizations.fr.stringUnit.value,
   "ja": .value.localizations.ja.stringUnit.value,
   "ko": .value.localizations.ko.stringUnit.value,
   "zh-Hans": .value.localizations["zh-Hans"].stringUnit.value,
+  "zh-Hant": .value.localizations["zh-Hant"].stringUnit.value,
   "new-language-code": .value.localizations["new-language-code"].stringUnit.value  # Add this line in alphabetical order
 }
 ```
@@ -88,15 +90,17 @@ Add the new language to the `supportedLanguages` array and `langNames` object. *
 this.primaryLanguage = "en";
 
 // Additional languages in alphabetical order by language code
-this.supportedLanguages = ["de", "fr", "ja", "ko", "zh-Hans", "new-language-code"];
+this.supportedLanguages = ["de", "es", "fr", "ja", "ko", "zh-Hans", "zh-Hant", "new-language-code"];
 
 // Also add to the langNames object in updateLanguageHeaders():
 const langNames = {
   de: "Deutsch",
+  es: "Español",
   fr: "Français",
   ja: "日本語",
   ko: "한국어",
   "zh-Hans": "简体中文",
+  "zh-Hant": "繁體中文",
   "new-language-code": "Language Name", // Add this line
 };
 ```
@@ -143,18 +147,18 @@ Use standard ISO language codes:
 **Current structure**:
 
 - **Primary**: `en` (English)
-- **Additional**: `de`, `fr`, `ja`, `ko`, `zh-Hans` (alphabetical order)
+- **Additional**: `de`, `es`, `fr`, `ja`, `ko`, `zh-Hans`, `zh-Hant` (alphabetical order)
 
 **Examples**:
 
-- German (`de`) comes before French (`fr`)
-- Spanish (`es`) would come after German (`de`) and before French (`fr`)
-- Italian (`it`) would come after German (`de`) and before Japanese (`ja`)
+- German (`de`) comes before Spanish (`es`)
+- Spanish (`es`) comes after German (`de`) and before French (`fr`)
+- Italian (`it`) would come after French (`fr`) and before Japanese (`ja`)
 
 This structure must be maintained consistently across all three files:
 
-- `convert.sh` - `translations` object (English first, then alphabetical)
-- `index.html` - language radio buttons (alphabetical order only)
+- `convert.sh` - `translations` object (alphabetical order)
+- `index.html` - language radio buttons (alphabetical order)
 - `script.js` - `primaryLanguage` and `supportedLanguages` array (English separate, others alphabetical)
 
 ## Default Language Selection
@@ -177,15 +181,16 @@ This structure must be maintained consistently across all three files:
 Use appropriate flag emojis for the language radio buttons:
 
 - 🇺🇸 - English
-- 🇯🇵 - Japanese
-- 🇰🇷 - Korean
-- 🇨🇳 - Simplified Chinese
-- 🇫🇷 - French
 - 🇩🇪 - German
 - 🇪🇸 - Spanish
+- 🇫🇷 - French
 - 🇮🇹 - Italian
+- 🇯🇵 - Japanese
+- 🇰🇷 - Korean
 - 🇵🇹 - Portuguese
 - 🇷🇺 - Russian
+- 🇨🇳 - Simplified Chinese
+- 🇹🇼 - Traditional Chinese
 
 ## Complete Example: Adding Spanish
 
@@ -201,13 +206,14 @@ Here's what you need to change for adding Spanish (`es`):
 
 ```bash
 translations: {
-  "en": .value.localizations.en.stringUnit.value,
   "de": .value.localizations.de.stringUnit.value,
+  "en": .value.localizations.en.stringUnit.value,
   "es": .value.localizations.es.stringUnit.value,
   "fr": .value.localizations.fr.stringUnit.value,
   "ja": .value.localizations.ja.stringUnit.value,
   "ko": .value.localizations.ko.stringUnit.value,
-  "zh-Hans": .value.localizations["zh-Hans"].stringUnit.value
+  "zh-Hans": .value.localizations["zh-Hans"].stringUnit.value,
+  "zh-Hant": .value.localizations["zh-Hant"].stringUnit.value
 }
 ```
 
@@ -228,7 +234,7 @@ translations: {
 this.primaryLanguage = "en";
 
 // Additional languages in alphabetical order by language code
-this.supportedLanguages = ["de", "es", "fr", "ja", "ko", "zh-Hans"];
+this.supportedLanguages = ["de", "es", "fr", "ja", "ko", "zh-Hans", "zh-Hant"];
 
 // In langNames object:
 const langNames = {
@@ -238,6 +244,7 @@ const langNames = {
   ja: "日本語",
   ko: "한국어",
   "zh-Hans": "简体中文",
+  "zh-Hant": "繁體中文",
 };
 ```
 
