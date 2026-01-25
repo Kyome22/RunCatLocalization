@@ -44,6 +44,12 @@
             "state" : "translated",
             "value" : "可用"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Disponible"
+          }
         }
       }
     },
@@ -89,6 +95,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "長條圖"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gráfico de barras"
           }
         }
       }
@@ -136,6 +148,12 @@
             "state" : "translated",
             "value" : "僅圖示"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Solo icono"
+          }
         }
       }
     },
@@ -181,6 +199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "百分比"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Porcentaje"
           }
         }
       }
@@ -228,6 +252,12 @@
             "state" : "translated",
             "value" : "圓餅圖"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gráfico circular"
+          }
         }
       }
     },
@@ -273,6 +303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "顯示電池狀態"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar estado de la batería"
           }
         }
       }
@@ -320,6 +356,12 @@
             "state" : "translated",
             "value" : "顯示 CPU 使用率"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar uso de CPU"
+          }
         }
       }
     },
@@ -365,6 +407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "顯示記憶體效能"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar rendimiento de memoria"
           }
         }
       }
@@ -412,6 +460,12 @@
             "state" : "translated",
             "value" : "顯示網路速度"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar velocidad de red"
+          }
         }
       }
     },
@@ -458,6 +512,12 @@
             "state" : "translated",
             "value" : "顯示儲存空間容量"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mostrar capacidad de almacenamiento"
+          }
         }
       }
     },
@@ -503,6 +563,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已使用"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usado"
           }
         }
       }

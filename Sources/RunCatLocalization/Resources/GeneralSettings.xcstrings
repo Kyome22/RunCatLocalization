@@ -44,6 +44,12 @@
             "state" : "translated",
             "value" : "選擇所有跑者"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar entre todos los corredores"
+          }
         }
       }
     },
@@ -89,6 +95,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "我改變主意了"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambié de opinión"
           }
         }
       }
@@ -136,6 +148,12 @@
             "state" : "translated",
             "value" : "水平翻轉"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Voltear horizontalmente"
+          }
         }
       }
     },
@@ -181,6 +199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "速度反轉"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invertir velocidad"
           }
         }
       }
@@ -228,6 +252,12 @@
             "state" : "translated",
             "value" : "啟動"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar"
+          }
         }
       }
     },
@@ -273,6 +303,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "登入時自動啟動 RunCat"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Iniciar RunCat automáticamente al iniciar sesión."
           }
         }
       }
@@ -320,6 +356,12 @@
             "state" : "translated",
             "value" : "選擇僅單色跑者"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar corredores monocromáticos"
+          }
         }
       }
     },
@@ -365,6 +407,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "跑者"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredor"
           }
         }
       }
@@ -412,6 +460,12 @@
             "state" : "translated",
             "value" : "每 10 分鐘隨機選擇"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seleccionar aleatoriamente cada 10 minutos automáticamente"
+          }
         }
       }
     },
@@ -457,6 +511,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "停止跑者"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener el corredor"
           }
         }
       }
@@ -504,6 +564,12 @@
             "state" : "translated",
             "value" : "停止跑者"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detener el corredor"
+          }
         }
       }
     },
@@ -549,6 +615,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "如果你停止了跑者，就會失去此 App 的獨特性"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si detienes el corredor, se perderá la singularidad de esta aplicación."
           }
         }
       }
@@ -596,6 +668,12 @@
             "state" : "translated",
             "value" : "你確定要停止跑者嗎？"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Realmente quieres detener el corredor?"
+          }
         }
       }
     },
@@ -641,6 +719,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用系統主題色"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usar el color del sistema"
           }
         }
       }

@@ -45,6 +45,12 @@
             "state" : "translated",
             "value" : "添加"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Añadir"
+          }
         }
       }
     },
@@ -91,6 +97,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已添加的跑者："
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores añadidos:"
           }
         }
       }
@@ -139,6 +151,12 @@
             "state" : "translated",
             "value" : "添加失敗"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al añadir"
+          }
         }
       }
     },
@@ -184,6 +202,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "顏色："
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color:"
           }
         }
       }
@@ -231,6 +255,12 @@
             "state" : "translated",
             "value" : "此跑者名稱已被使用。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Este nombre de corredor ya está en uso."
+          }
         }
       }
     },
@@ -276,6 +306,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "編碼圖片失敗。"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al codificar las imágenes."
           }
         }
       }
@@ -323,6 +359,12 @@
             "state" : "translated",
             "value" : "儲存自製跑者失敗。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Error al guardar el corredor personalizado."
+          }
         }
       }
     },
@@ -368,6 +410,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "1. 格式：PNG"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Formato: PNG"
           }
         }
       }
@@ -415,6 +463,12 @@
             "state" : "translated",
             "value" : "畫格："
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fotogramas:"
+          }
         }
       }
     },
@@ -460,6 +514,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "2. 高度：36 像素"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Altura: 36 píxeles"
           }
         }
       }
@@ -507,6 +567,12 @@
             "state" : "translated",
             "value" : "預覽："
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vista previa:"
+          }
         }
       }
     },
@@ -552,6 +618,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "規格要求："
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Requisitos:"
           }
         }
       }
@@ -599,6 +671,12 @@
             "state" : "translated",
             "value" : "跑者名稱："
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nombre del corredor:"
+          }
         }
       }
     },
@@ -644,6 +722,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自製跑者"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Corredores personalizados"
           }
         }
       }
@@ -692,6 +776,12 @@
             "state" : "translated",
             "value" : "如需添加跑者，請在跑者商店購買。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para añadir, debes comprar esta función en la Tienda de Corredores."
+          }
         }
       }
     },
@@ -737,6 +827,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用原始顏色"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Usar color original"
           }
         }
       }
@@ -784,6 +880,12 @@
             "state" : "translated",
             "value" : "所載入的圖片不符合某些規格要求。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La imagen cargada incumple algunos requisitos."
+          }
         }
       }
     },
@@ -830,6 +932,12 @@
             "state" : "translated",
             "value" : "畫格已經達到上限。"
           }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El número de fotogramas ha alcanzado el límite máximo."
+          }
         }
       }
     },
@@ -875,6 +983,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "3. 寬度：10~100 像素"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Ancho: 10~100 píxeles"
           }
         }
       }
