@@ -1,1202 +1,1064 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "categoryAnimal": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tierische Läufer"
+  "sourceLanguage" : "en",
+  "strings" : {
+    "categoryAnimal" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tierische Läufer"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Animal type runners"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Animal type runners"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coureurs animaux"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs animaux"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "生物系ランナー"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生物系ランナー"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "동물 러너"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "동물 러너"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "动物类跑者"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "动物类跑者"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "動物類跑者"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Animal type corredors"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "動物類跑者"
           }
         }
       }
     },
-    "categoryInanimate": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unbelebte Läufer"
+    "categoryInanimate" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbelebte Läufer"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Inanimate type runners"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Inanimate type runners"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coureurs objets"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs objets"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "非生物系ランナー"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非生物系ランナー"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "무생물 러너"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "무생물 러너"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "非生物类跑者"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非生物类跑者"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "非生物類跑者"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Inanimate type corredors"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非生物類跑者"
           }
         }
       }
     },
-    "categoryRecommended": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Empfohlene Elemente"
+    "categoryRecommended" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empfohlene Elemente"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recommended items"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recommended items"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Catégories recommandées"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Catégories recommandées"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "おすすめ"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おすすめ"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "추천 아이템"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추천 아이템"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "推荐项目"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推荐项目"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "推薦項目"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recommended items"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "推薦項目"
           }
         }
       }
     },
-    "categorySeasonal": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Saisonale Läufer"
+    "categorySeasonal" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisonale Läufer"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seasonal runners"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seasonal runners"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coureur de saison"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureur de saison"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "季節のランナー"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "季節のランナー"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "계절한정 러너"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "계절한정 러너"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "季节限定跑者"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "季节限定跑者"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "季節限定跑者"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Seasonal corredors"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "季節限定跑者"
           }
         }
       }
     },
-    "categorySpecial": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Läufer in Sonderfarben (unterstützen Sie den Entwickler)"
+    "categorySpecial" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Läufer in Sonderfarben (unterstützen Sie den Entwickler)"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Special-colored runners (support the developer)"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Special-colored runners (support the developer)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coureurs édition colorée (soutient le développeur)"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs édition colorée (soutient le développeur)"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "特別カラー版ランナー（開発者への支援）"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特別カラー版ランナー（開発者への支援）"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "특별 컬러 러너 (개발자 도네이션)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "특별 컬러 러너 (개발자 도네이션)"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "特殊配色跑者（支持开发者）"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特殊配色跑者（支持开发者）"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "特殊配色跑者（支持開發者）"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Special-colored corredors (support the developer)"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "特殊配色跑者（支持開發者）"
           }
         }
       }
     },
-    "failedToSync": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehler beim Synchronisieren mit dem AppStore."
+    "failedToSync" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Synchronisieren mit dem AppStore."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Failed to sync with AppStore."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to sync with AppStore."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur de synchronisation avec l’AppStore."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur de synchronisation avec l’AppStore."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "AppStoreとの同期に失敗しました。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AppStoreとの同期に失敗しました。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "AppStore와 동기화하는 데 실패했습니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AppStore와 동기화하는 데 실패했습니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "与 App Store 同步失败。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "与 App Store 同步失败。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "與 App Store 同步失敗。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Failed to sync with AppStore."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "與 App Store 同步失敗。"
           }
         }
       }
     },
-    "failedToVerify": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Die Transaktionsdatensignatur ist ungültig."
+    "failedToVerify" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Transaktionsdatensignatur ist ungültig."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The transaction data signature is invalid."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The transaction data signature is invalid."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "La signature des données de transaction est invalide."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La signature des données de transaction est invalide."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "トランザクションデータの署名が不正です。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トランザクションデータの署名が不正です。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "잘못된 트랜잭션 데이터 서명입니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "잘못된 트랜잭션 데이터 서명입니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "交易数据签名无效。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交易数据签名无效。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "交易資料簽名無效。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The transaction data signature is invalid."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交易資料簽名無效。"
           }
         }
       }
     },
-    "noAvailableItems": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Keine verfügbaren Elemente"
+    "noAvailableItems" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keine verfügbaren Elemente"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No Available Items"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Available Items"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pas d’articles disponibles"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas d’articles disponibles"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "利用可能なアイテムなし"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "利用可能なアイテムなし"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "사용 가능한 항목이 없음"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용 가능한 항목이 없음"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "暂无可用项目"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "暂无可用项目"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "沒有可用項目"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "No Available Items"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "沒有可用項目"
           }
         }
       }
     },
-    "noAvailableItemsSuggestion": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Für die Nutzung von Runners Store ist eine Internetverbindung erforderlich.\nBitte überprüfen Sie Ihre Internetverbindung."
+    "noAvailableItemsSuggestion" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Für die Nutzung von Runners Store ist eine Internetverbindung erforderlich.\nBitte überprüfen Sie Ihre Internetverbindung."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "An internet connection is required to use Runners Store.\nPlease check your internet connection."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "An internet connection is required to use Runners Store.\nPlease check your internet connection."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Une connexion internet est requise pour utiliser le Magasin de Coureurs.\nVérifiez votre connexion internet."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une connexion internet est requise pour utiliser le Magasin de Coureurs.\nVérifiez votre connexion internet."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Runners Storeの利用にはインターネット接続が必要です。\nインターネット接続を確認してください。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners Storeの利用にはインターネット接続が必要です。\nインターネット接続を確認してください。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Runners Store를 사용하려면 인터넷 연결이 필요합니다.\n인터넷 연결을 확인해주세요."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners Store를 사용하려면 인터넷 연결이 필요합니다.\n인터넷 연결을 확인해주세요."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "访问跑者商店需要联网，请检查你的网络连接。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "访问跑者商店需要联网，请检查你的网络连接。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "查看跑者商店需要網路連線，請檢查你的網路連線狀況。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "An internet connection is required to use Corredors Store.\nPlease check your internet connection."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "查看跑者商店需要網路連線，請檢查你的網路連線狀況。"
           }
         }
       }
     },
-    "pending": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Der Kauf steht noch aus."
+    "pending" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Kauf steht noch aus."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The purchase is pending."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The purchase is pending."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "La transaction est en attente."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La transaction est en attente."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "購入が保留されています。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購入が保留されています。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "구매가 진행중입니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구매가 진행중입니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "购买正在处理中。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "购买正在处理中。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "交易處理中。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The purchase is pending."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交易處理中。"
           }
         }
       }
     },
-    "productNotFound": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dieses Produkt wurde nicht gefunden."
+    "productNotFound" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Produkt wurde nicht gefunden."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This product is not found."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This product is not found."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ce produit est introuvable."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce produit est introuvable."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "商品が見つかりませんでした。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品が見つかりませんでした。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "이 상품을 찾을 수 없습니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 상품을 찾을 수 없습니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "未找到该商品。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "未找到该商品。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "找不到該商品。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This product is not found."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "找不到該商品。"
           }
         }
       }
     },
-    "productNotFoundSuggestion": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Starten Sie die Anwendung neu, während Sie mit dem Netzwerk verbunden sind."
+    "productNotFoundSuggestion" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Starten Sie die Anwendung neu, während Sie mit dem Netzwerk verbunden sind."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Restart the application while connected to the network."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restart the application while connected to the network."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Redémarrer l’application une fois connecté à internet."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Redémarrer l’application une fois connecté à internet."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ネットワークに繋がった環境でアプリを再起動してください。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ネットワークに繋がった環境でアプリを再起動してください。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "네트워크 상태를 확인하신 뒤, 애플리케이션을 재시작 해주세요."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "네트워크 상태를 확인하신 뒤, 애플리케이션을 재시작 해주세요."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "请在联网状态下重新启动应用。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请在联网状态下重新启动应用。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "請在有網路連線的狀態下重新啟動 App。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Restart the application while connected to the network."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請在有網路連線的狀態下重新啟動 App。"
           }
         }
       }
     },
-    "productUnavailable": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dieses Produkt ist nicht verfügbar."
+    "productUnavailable" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieses Produkt ist nicht verfügbar."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This product is unavaliable."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This product is unavaliable."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ce produit est indisponible."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce produit est indisponible."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "商品が無効です。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "商品が無効です。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "이 상품은 현재 사용이 불가능합니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 상품은 현재 사용이 불가능합니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "该商品当前不可用。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "该商品当前不可用。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "該商品不可用。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This product is unavaliable."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "該商品不可用。"
           }
         }
       }
     },
-    "purchase": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kauf"
+    "purchase" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kauf"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Purchase"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purchase"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Acheter"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acheter"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "購入"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購入"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "구매"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구매"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "购买"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "购买"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "購買"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Purchase"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購買"
           }
         }
       }
     },
-    "purchaseErrorTitle": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Kauffehler"
+    "purchaseErrorTitle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kauffehler"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Purchasing Error"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Purchasing Error"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur lors de l’achat"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de l’achat"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "購入エラー"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購入エラー"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "구매 오류"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구매 오류"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "购买出错"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "购买出错"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "交易失敗"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Purchasing Error"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "交易失敗"
           }
         }
       }
     },
-    "purchaseNotAllowed": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Der Kauf ist nicht erlaubt."
+    "purchaseNotAllowed" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Kauf ist nicht erlaubt."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The purchase is not allowed."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The purchase is not allowed."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "L’achat n’est pas autorisé."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’achat n’est pas autorisé."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "支払い機能が無効化されています。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支払い機能が無効化されています。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "이 구매는 불가능합니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 구매는 불가능합니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "无法进行购买"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法进行购买"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "無法進行交易。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The purchase is not allowed."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法進行交易。"
           }
         }
       }
     },
-    "purchaseNotAllowedSuggestion": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Überprüfen Sie die Zahlungseinstellungen Ihrer Apple ID."
+    "purchaseNotAllowedSuggestion" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Überprüfen Sie die Zahlungseinstellungen Ihrer Apple ID."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Check your Apple ID payment settings."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check your Apple ID payment settings."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vérifiez vos réglages de paiement de l’identifiant Apple."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vérifiez vos réglages de paiement de l’identifiant Apple."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Apple IDの支払いに関する設定を見直してください。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple IDの支払いに関する設定を見直してください。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Apple ID 결제 방법을 확인해주세요."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple ID 결제 방법을 확인해주세요."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "请检查你的 Apple ID 支付设置。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请检查你的 Apple ID 支付设置。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "請檢查你的 Apple ID 付款設定。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Check your Apple ID payment settings."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請檢查你的 Apple ID 付款設定。"
           }
         }
       }
     },
-    "reload": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Neu laden"
+    "reload" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neu laden"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reload"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reload"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Recharger"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Recharger"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "再読み込み"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再読み込み"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "재로드"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "재로드"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "刷新"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "刷新"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "重新載入"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Reload"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重新載入"
           }
         }
       }
     },
-    "restore": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wiederherstellen"
+    "restore" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederherstellen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Restore"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Rétablir"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rétablir"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "復元"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "復元"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "복구"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "복구"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "恢复购买"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢复购买"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "恢復購買"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Restore"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恢復購買"
           }
         }
       }
     },
-    "restoreTitle": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Wiederherstellung basierend auf Verlauf"
+    "restoreTitle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wiederherstellung basierend auf Verlauf"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Restore based on history"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore based on history"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Restauration basée sur l’historique"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restauration basée sur l’historique"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "購入履歴から復元"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購入履歴から復元"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "구매이력으로 복구"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구매이력으로 복구"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "根据历史记录恢复"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根据历史记录恢复"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "根據歷史紀錄恢復"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Restore based on history"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "根據歷史紀錄恢復"
           }
         }
       }
     },
-    "runnersStoreTitle": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Läufer Store"
+    "runnersStoreTitle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Läufer Store"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Runners Store"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runners Store"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Magasin de Coureurs"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Magasin de Coureurs"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ランナーストア"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ランナーストア"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "러너 스토어"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "러너 스토어"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "跑者商店"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跑者商店"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "跑者商店"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Corredors Store"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跑者商店"
           }
         }
       }
     },
-    "unknownError": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unbekannter Fehler aufgetreten."
+    "unknownError" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unbekannter Fehler aufgetreten."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unknown error occurred."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown error occurred."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Une erreur inattendue s’est produite."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Une erreur inattendue s’est produite."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "不明なエラーが発生しました。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不明なエラーが発生しました。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "알수없는 오류가 발생했습니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "알수없는 오류가 발생했습니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "发生未知错误。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "发生未知错误。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "發生未知的錯誤。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Unknown error occurred."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "發生未知的錯誤。"
           }
         }
       }
     },
-    "userCancelled": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Der Kauf wurde storniert."
+    "userCancelled" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Der Kauf wurde storniert."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The purchase was cancelled."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The purchase was cancelled."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "L’achat a été annulé."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’achat a été annulé."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "購入がキャンセルされました。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "購入がキャンセルされました。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "구매가 취소되었습니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "구매가 취소되었습니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "已取消购买。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已取消购买。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "此交易被取消。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The purchase was cancelled."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此交易被取消。"
           }
         }
       }
     }
   },
-  "version": "1.0"
+  "version" : "1.0"
 }

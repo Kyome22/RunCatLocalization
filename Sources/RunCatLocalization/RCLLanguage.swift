@@ -9,7 +9,6 @@ public enum RCLLanguage: Sendable, Identifiable {
     case german
     case japanese
     case korean
-    case spanish
 
     public var locale: Locale {
         switch self {
@@ -29,8 +28,6 @@ public enum RCLLanguage: Sendable, Identifiable {
             Locale(languageCode: .japanese)
         case .korean:
             Locale(languageCode: .korean)
-        case .spanish:
-            Locale(languageCode: .spanish)
         }
     }
 
@@ -52,6 +49,5 @@ public enum RCLLanguage: Sendable, Identifiable {
         .german,
         .japanese,
         .korean,
-        .spanish,
     ]
 }

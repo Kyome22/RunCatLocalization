@@ -1,998 +1,884 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "add": {
-      "generatesSymbol": false,
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hinzufügen"
+  "sourceLanguage" : "en",
+  "strings" : {
+    "add" : {
+      "generatesSymbol" : false,
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinzufügen"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Add"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ajouter"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "追加"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "추가"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "添加"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "添加"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Add"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加"
           }
         }
       }
     },
-    "addedRunners": {
-      "generatesSymbol": false,
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hinzugefügte Läufer:"
+    "addedRunners" : {
+      "generatesSymbol" : false,
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinzugefügte Läufer:"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Added Runners:"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Added Runners:"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coureurs ajoutés :"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs ajoutés :"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "追加済みのランナー："
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加済みのランナー："
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "추가된 러너:"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가된 러너:"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "已添加的跑者："
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已添加的跑者："
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "已添加的跑者："
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Added Corredors:"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "已添加的跑者："
           }
         }
       }
     },
-    "addErrorTitle": {
-      "generatesSymbol": false,
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Hinzufügungsfehler"
+    "addErrorTitle" : {
+      "generatesSymbol" : false,
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinzufügungsfehler"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Addition Error"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Addition Error"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Erreur lors de l'ajout"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Erreur lors de l'ajout"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ランナー追加エラー"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ランナー追加エラー"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "추가 오류"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가 오류"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "无法添加"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法添加"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "添加失敗"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Addition Error"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "添加失敗"
           }
         }
       }
     },
-    "color": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Farbe:"
+    "color" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Farbe:"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Color:"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Color:"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Couleur :"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Couleur :"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "色："
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "色："
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "색상:"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "색상:"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "颜色："
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "颜色："
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "顏色："
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Color:"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "顏色："
           }
         }
       }
     },
-    "conflictName": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Dieser Läufername wird bereits verwendet."
+    "conflictName" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dieser Läufername wird bereits verwendet."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This runner name is already in use."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "This runner name is already in use."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Ce nom de coureur est déjà utilisé."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ce nom de coureur est déjà utilisé."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "この名前はすでに使用されています。別の名前を使用してください。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この名前はすでに使用されています。別の名前を使用してください。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "이미 사용중인 러너 이름입니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미 사용중인 러너 이름입니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "该跑者名称已被使用。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "该跑者名称已被使用。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "此跑者名稱已被使用。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "This corredor name is already in use."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "此跑者名稱已被使用。"
           }
         }
       }
     },
-    "failedToEncodeImages": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehler beim Encodieren der Bilder."
+    "failedToEncodeImages" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Encodieren der Bilder."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Failed to encode images."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to encode images."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "L’encodage de l’image a échoué."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’encodage de l’image a échoué."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "画像のエンコードに失敗しました。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像のエンコードに失敗しました。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "이미지를 인코딩하지 못했습니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이미지를 인코딩하지 못했습니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "图片编码失败。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "图片编码失败。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "編碼圖片失敗。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Failed to encode images."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "編碼圖片失敗。"
           }
         }
       }
     },
-    "failedToSave": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Fehler beim Speichern des selbsterstellten Läufers."
+    "failedToSave" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Fehler beim Speichern des selbsterstellten Läufers."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Failed to save the self-made runner."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Failed to save the self-made runner."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "L’enregistrement du coureur personnalisé a échoué."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’enregistrement du coureur personnalisé a échoué."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "自作ランナーの保存に失敗しました。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自作ランナーの保存に失敗しました。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "커스텀 러너 저장에 실패했습니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커스텀 러너 저장에 실패했습니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "保存自制跑者失败。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存自制跑者失败。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "儲存自製跑者失敗。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Failed to save the self-made corredor."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "儲存自製跑者失敗。"
           }
         }
       }
     },
-    "formatRequirement": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. Format: PNG"
+    "formatRequirement" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Format: PNG"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. Format: PNG"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Format: PNG"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. Format : PNG"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. Format : PNG"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. フォーマット：PNG"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. フォーマット：PNG"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. 파일 형식: PNG"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 파일 형식: PNG"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. 格式：PNG"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 格式：PNG"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. 格式：PNG"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "1. Format: PNG"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "1. 格式：PNG"
           }
         }
       }
     },
-    "frames": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Frames:"
+    "frames" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frames:"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Frames:"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Frames:"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Images :"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Images :"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "フレーム："
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フレーム："
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "프레임:"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프레임:"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "帧数："
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帧数："
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "畫格："
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Frames:"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "畫格："
           }
         }
       }
     },
-    "heightRequirement": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. Höhe: 36px"
+    "heightRequirement" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Höhe: 36px"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. Height: 36px"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Height: 36px"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. Hauteur : 36px"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. Hauteur : 36px"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. 高さ：36px"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 高さ：36px"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. 높이: 36px"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 높이: 36px"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. 高度：36 像素"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 高度：36 像素"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. 高度：36 像素"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "2. Height: 36px"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "2. 高度：36 像素"
           }
         }
       }
     },
-    "preview": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vorschau:"
+    "preview" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vorschau:"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Preview:"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Preview:"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Aperçus :"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aperçus :"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "プレビュー："
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プレビュー："
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "미리보기:"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "미리보기:"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "预览："
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "预览："
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "預覽："
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Preview:"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "預覽："
           }
         }
       }
     },
-    "requirements": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Anforderungen:"
+    "requirements" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anforderungen:"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Requirements:"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Requirements:"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Exigences :"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Exigences :"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "規格要件："
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "規格要件："
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "요구 사항:"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "요구 사항:"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "規格要求："
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "規格要求："
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "規格要求："
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Requirements:"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "規格要求："
           }
         }
       }
     },
-    "runnerName": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Läufer Name:"
+    "runnerName" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Läufer Name:"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Runner Name:"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Runner Name:"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Nom du Coureur :"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nom du Coureur :"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ランナー名："
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ランナー名："
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "러너 이름:"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "러너 이름:"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "跑者名称："
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跑者名称："
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "跑者名稱："
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Corredor Name:"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "跑者名稱："
           }
         }
       }
     },
-    "selfMadeRunnersTitle": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Selbsterstellte Läufer"
+    "selfMadeRunnersTitle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Selbsterstellte Läufer"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Self-Made Runners"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Self-Made Runners"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coureurs Personnalisés"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coureurs Personnalisés"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "自作ランナー"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自作ランナー"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "커스텀 러너"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "커스텀 러너"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "自制跑者"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自制跑者"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "自製跑者"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Self-Made Corredors"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "自製跑者"
           }
         }
       }
     },
-    "toAdd": {
-      "generatesSymbol": false,
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Um sie hinzuzufügen, müssen Sie diese Funktion im Runners Store erwerben."
+    "toAdd" : {
+      "generatesSymbol" : false,
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um sie hinzuzufügen, müssen Sie diese Funktion im Runners Store erwerben."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "To add, you must purchase this function in the Runners Store."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To add, you must purchase this function in the Runners Store."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Pour ajouter, vous devez acheter cette fonction dans le Magasin de Coureurs."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pour ajouter, vous devez acheter cette fonction dans le Magasin de Coureurs."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "追加するには、本機能をランナーストアで購入する必要があります。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加するには、本機能をランナーストアで購入する必要があります。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "추가하시려면 러너 스토어에서 커스텀 러너 기능을 구매해야 합니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "추가하시려면 러너 스토어에서 커스텀 러너 기능을 구매해야 합니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "如需此功能，请在跑者商店购买。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如需此功能，请在跑者商店购买。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "如需添加跑者，請在跑者商店購買。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "To add, you must purchase this function in the Corredors Store."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如需添加跑者，請在跑者商店購買。"
           }
         }
       }
     },
-    "useOriginalColor": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Originalfarbe verwenden"
+    "useOriginalColor" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Originalfarbe verwenden"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Use original color"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Use original color"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Utiliser la couleur d’origine"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Utiliser la couleur d’origine"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "画像の色をそのまま使用する"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "画像の色をそのまま使用する"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "기본 색상 사용"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "기본 색상 사용"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "使用原始颜色"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用原始颜色"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "使用原始顏色"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Use original color"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用原始顏色"
           }
         }
       }
     },
-    "violateRequirements": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Das geladene Bild verstößt gegen einige Anforderungen."
+    "violateRequirements" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Das geladene Bild verstößt gegen einige Anforderungen."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The loaded image violates some requirements."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The loaded image violates some requirements."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "L’image chargé ne correspond pas aux exigences."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L’image chargé ne correspond pas aux exigences."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "読み込まれた画像は規格要件を満たしていません。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み込まれた画像は規格要件を満たしていません。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "해당 이미지는 규격 요건에 부합하지 않습니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "해당 이미지는 규격 요건에 부합하지 않습니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "所加载的图片不满足部分規格要求。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所加载的图片不满足部分規格要求。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "所載入的圖片不符合某些規格要求。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The loaded image violates some requirements."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所載入的圖片不符合某些規格要求。"
           }
         }
       }
     },
-    "violateUpperLimit": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Die Anzahl der Frames hat die Obergrenze erreicht."
+    "violateUpperLimit" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die Anzahl der Frames hat die Obergrenze erreicht."
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The number of frames has reached the upper limit."
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The number of frames has reached the upper limit."
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Le nombre d’image a atteint la limite maximale."
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le nombre d’image a atteint la limite maximale."
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "フレーム数が上限に達しています。"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フレーム数が上限に達しています。"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "프레임 수가 제한 범위를 초과했습니다."
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프레임 수가 제한 범위를 초과했습니다."
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "帧数已达到最大上限。"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帧数已达到最大上限。"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "畫格已經達到上限。"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "The number of frames has reached the upper limit."
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "畫格已經達到上限。"
           }
         }
       }
     },
-    "widthRequirement": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "3. Breite: 10~100px"
+    "widthRequirement" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Breite: 10~100px"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "3. Width: 10~100px"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Width: 10~100px"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "3. Largeur : 10~100px"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. Largeur : 10~100px"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "3. 幅：10~100px"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 幅：10~100px"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "3. 너비: 10~100px"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 너비: 10~100px"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "3. 宽度：10~100 像素"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 宽度：10~100 像素"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "3. 寬度：10~100 像素"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "3. Width: 10~100px"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "3. 寬度：10~100 像素"
           }
         }
       }
     }
   },
-  "version": "1.1"
+  "version" : "1.1"
 }
