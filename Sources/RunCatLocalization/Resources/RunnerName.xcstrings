@@ -1651,6 +1651,12 @@
             "value" : "Entaku"
           }
         },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Entaku"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3933,6 +3939,13 @@
             "value" : "Uhooi"
           }
         },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uhooi"
+          }
+        }
+      },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
