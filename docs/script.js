@@ -9,7 +9,7 @@ class RunnerNamesViewer {
     this.primaryLanguage = "en";
 
     // Additional languages in alphabetical order by language code
-    this.supportedLanguages = ["de", "es", "fr", "ja", "ko", "vi", "zh-Hans", "zh-Hant"];
+    this.supportedLanguages = ["de", "es", "fr", "ja", "ko", "ru", "vi", "zh-Hans", "zh-Hant"];
 
     // Selected additional language index (English is always selected)
     this.selectedLanguageIndex = 0; // First additional language by default
@@ -234,6 +234,7 @@ class RunnerNamesViewer {
       fr: "Français",
       ja: "日本語",
       ko: "한국어",
+      ru: "Русский",
       vi: "Tiếng Việt",
       "zh-Hans": "简体中文",
       "zh-Hant": "繁體中文"
