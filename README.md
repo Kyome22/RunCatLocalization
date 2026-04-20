@@ -4,7 +4,7 @@ Manage RunCat localization srtings.
 
 RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so localization of this library is also required.
 
-> [!NOTE]
+> [!CAUTION]
 > Due to ballooning maintenance costs, the acceptance of new language translations will end with the Pull Requests currently open.
 
 > [!NOTE]
