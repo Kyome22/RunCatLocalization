@@ -426,7 +426,7 @@
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Отчёт о проблеме"
+            "value" : "%@ Отчёт о проблеме"
           }
         },
         "vi" : {
