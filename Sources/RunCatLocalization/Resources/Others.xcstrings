@@ -1,1281 +1,1287 @@
 {
-  "sourceLanguage": "en",
-  "strings": {
-    "%@queryLang": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=de"
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@queryLang" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=de"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=en"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=en"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=es"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=es"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=fr"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=fr"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=ja"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=ja"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=ko"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=ko"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=ru"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=ru"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=vi"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=vi"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=zh-Hans"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=zh-Hans"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@?lang=zh-Hant"
-          }
-        }
-      }
-    },
-    "endlessGameTitle": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Endlosspiel"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Endless Game"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Juego infinito"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Jeu infini"
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "エンドレスゲーム"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "엔드리스 게임"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Бесконечная игра"
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Game Vô Hạn"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "无尽游戏"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "無盡遊戲"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=zh-Hant"
           }
         }
       }
     },
-    "generalTab": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Allgemein"
+    "endlessGameTitle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endlosspiel"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "General"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Endless Game"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "General"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Juego infinito"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Général"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeu infini"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "一般"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エンドレスゲーム"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "일반"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "엔드리스 게임"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Главная"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бесконечная игра"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Cài đặt chung"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Game Vô Hạn"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "常规"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无尽游戏"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "一般"
-          }
-        }
-      }
-    },
-    "localization": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Übersetzung"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Localization"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Localización"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Localisation"
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ローカリゼーション"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "현지화"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Локализация"
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Bản Địa Hóa"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "本地化"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "本地化"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無盡遊戲"
           }
         }
       }
     },
-    "mailEnvironment%@%@%@%@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Umgebung\n- %@: ver %@\n- %@\n- macOS: %@"
+    "generalTab" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allgemein"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Environment\n- %@: ver %@\n- %@\n- macOS: %@"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Entorno\n- %@: ver %@\n- %@\n- macOS: %@"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "General"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Environnement\n- %@ : ver %@\n- %@\n- macOS: %@"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Général"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 環境\n- %@：ver %@\n- %@\n- macOS：%@"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 실행환경\n- %@: ver %@\n- %@\n- macOS: %@"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일반"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Окружение\n- %@: ver %@\n- %@\n- macOS: %@"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Главная"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Môi Trường\n- %@: ver %@\n- %@\n- macOS: %@"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt chung"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 环境\n- %@：ver %@\n- %@\n- macOS：%@"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "常规"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 環境\n- %@：ver %@\n- %@\n- macOS：%@"
-          }
-        }
-      }
-    },
-    "mailExpectedResult": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Erwartetes Verhalten"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Expected Result"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Resultado esperado"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Résultat attendu"
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 本来期待される挙動"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 기대한 결과"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Ожидаемый результат"
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Kết Quả Mong Đợi"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 预期的结果"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 預期結果"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
           }
         }
       }
     },
-    "mailIssueReport%@": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ Fehler gemeldet "
+    "localization" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Übersetzung"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ Issue Report"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localization"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ Reporte de problema"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localización"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ Rapporter un problème"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Localisation"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 不具合の報告"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ローカリゼーション"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 문제점 알리기"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "현지화"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Отчёт о проблеме"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Локализация"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ Báo Cáo Sự Cố"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bản Địa Hóa"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 报告问题"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地化"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "%@ 報告問題"
-          }
-        }
-      }
-    },
-    "mailReproduceIssue": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Schritte um den Fehler zu reproduzieren"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Steps to Reproduce the Issue"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Pasos para reproducir el problema"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Étapes pour reproduire le problème"
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 不具合の再現手順（不具合が発生した際に行なっていた操作）"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 문제가 발생하기까지 조작한 순서"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Шаги для воспроизведения проблемы"
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Các Bước Tái Hiện Sự Cố"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 重现步骤"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 重現問題的步驟"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "本地化"
           }
         }
       }
     },
-    "mailShortDescription": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Kurzbeschreibung"
+    "mailEnvironment%@%@%@%@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Umgebung\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Short Description"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Environment\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Descripción breve"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Entorno\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Courte description"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Environnement\n- %@ : ver %@\n- %@\n- macOS: %@"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 不具合の簡単な説明"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 環境\n- %@：ver %@\n- %@\n- macOS：%@"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 문제점에 대한 간단한 설명"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 실행환경\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Краткое описание"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Окружение\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Mô Tả Ngắn Gọn"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Môi Trường\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 简要描述"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 环境\n- %@：ver %@\n- %@\n- macOS：%@"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 間單的描述"
-          }
-        }
-      }
-    },
-    "mailWhatYouTried": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Was hast du probiert\n- Neustart der app: Ja/Nein\n- Läufer Store wiederhergestellt: Ja/Nein\n- App deinstalliert: Ja/Nein"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# What You Tried\n- Relaunched the app: Yes/No\n- Restored at Runners Store: Yes/No\n- Uninstalled the app: Yes/No"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Lo que intentaste\n- Reiniciaste la app: Sí/No\n- Restauraste en Tienda de Corredores: Sí/No\n- Desinstalaste la app: Sí/No"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Qu’essayez-vous de faire\n- Relancer l’app : Oui/Non\n- Restaurer dans le Magasin de Coureurs : Oui/Non\n- Désinstaller l’app : Oui/Non"
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 試したこと\n- アプリの再起動：はい/いいえ\n- ランナーストアにて購入の復元：はい/いいえ\n- アプリのアンインストール：はい/いいえ"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 아래의 내용을 확인해주세요\n- 앱을 재실행 했습니다: 예/아니오\n- 러너 스토어에서 복구를 시도했습니다: 예/아니오\n- 앱을 제거 했습니다:  예/아니오"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Что вы пробовали\n- Перезапустили приложение: Да/Нет\n- Восстановили в магазине бегунов: Да/Нет\n- Удалили приложение: Да/Нет"
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# Những Gì Bạn Đã Thử\n- Khởi động lại ứng dụng: Có/Không\n- Khôi phục tại Runners Store: Có/Không\n- Gỡ cài đặt ứng dụng: Có/Không"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 尝试过的操作\n- 重启软件：是/否\n- 从跑者商店恢复: 是/否\n- 卸载软件：是/否"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "# 嘗試過的操作\n- 重新啟動 App：是/否\n- 從跑者商店還原：是/否\n- 解除安裝 App：是/否"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 環境\n- %@：ver %@\n- %@\n- macOS：%@"
           }
         }
       }
     },
-    "support": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Support-Seite"
+    "mailExpectedResult" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Erwartetes Verhalten"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Support Page"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Expected Result"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Página de soporte"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Resultado esperado"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Page Web pour l’assistance"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Résultat attendu"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "サポートページ"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 本来期待される挙動"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "서포트 페이지"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 기대한 결과"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Страница поддержки"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Ожидаемый результат"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Trang Hỗ Trợ"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Kết Quả Mong Đợi"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "支持页面"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 预期的结果"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "支援頁面"
-          }
-        }
-      }
-    },
-    "systemInfoTab": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "System Info"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "System Info"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Información del sistema"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Infos système"
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "システム情報"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "시스템 정보"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Информация о система"
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Thông Tin Hệ Thống"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "系统信息"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "系統資訊"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 預期結果"
           }
         }
       }
     },
-    "translatorChineseSimplified": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vereinfachtes Chinesisch - Junjie Lin (junzilla)"
+    "mailIssueReport%@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Fehler gemeldet "
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chinese, Simplified - Junjie Lin (junzilla)"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Issue Report"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chino simplificado - Junjie Lin (junzilla)"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Reporte de problema"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chinois Simplifié - Junjie Lin (junzilla)"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Rapporter un problème"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "中国語 (簡体) - Junjie Lin (junzilla)"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 不具合の報告"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "중국어 (간체) - Junjie Lin (junzilla)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 문제점 알리기"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Китайский, упрощённый - Цзюньцзе Линь (junzilla)"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отчёт о проблеме"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tiếng Trung Giản Thể - Junjie Lin (junzilla)"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Báo Cáo Sự Cố"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "简体中文 - Junjie Lin (junzilla)"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 报告问题"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "簡體中文 - Junjie Lin (junzilla)"
-          }
-        }
-      }
-    },
-    "translatorChineseTraditional": {
-      "generatesSymbol": false,
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Traditionelles Chinesisch - Qing Bi Liao (Pencil126)"
-          }
-        },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chinese, Traditional - Qing Bi Liao (Pencil126)"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chino tradicional - Qing Bi Liao (Pencil126)"
-          }
-        },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Chinois traditionnel - Qing Bi Liao (Pencil126)"
-          }
-        },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "中国語 (繁体) - Qing Bi Liao (Pencil126)"
-          }
-        },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "중국어 (번체) - Qing Bi Liao (Pencil126)"
-          }
-        },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Китайский, традиционный - Цин Би Ляо (Pencil126)"
-          }
-        },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tiếng Trung Phồn Thể - Qing Bi Liao (Pencil126)"
-          }
-        },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "繁体中文 - Qing Bi Liao (Pencil126)"
-          }
-        },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "繁體中文 - Qing Bi Liao (Pencil126)"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ 報告問題"
           }
         }
       }
     },
-    "translatorFrench": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Französisch - Kravatox"
+    "mailReproduceIssue" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Schritte um den Fehler zu reproduzieren"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "French - Kravatox"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Steps to Reproduce the Issue"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Francés - Kravatox"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Pasos para reproducir el problema"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Français - Kravatox"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Étapes pour reproduire le problème"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "フランス語 - Kravatox"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 不具合の再現手順（不具合が発生した際に行なっていた操作）"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "프랑스어 - Kravatox"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 문제가 발생하기까지 조작한 순서"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Французский - Kravatox"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Шаги для воспроизведения проблемы"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tiếng Pháp - Kravatox"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Các Bước Tái Hiện Sự Cố"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "法语 - Kravatox"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 重现步骤"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "法語 - Kravatox"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 重現問題的步驟"
           }
         }
       }
     },
-    "translatorGerman": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Deutsch - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+    "mailShortDescription" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Kurzbeschreibung"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "German - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Short Description"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Alemán - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Descripción breve"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Allemand - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Courte description"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ドイツ語 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 不具合の簡単な説明"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "독일어 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 문제점에 대한 간단한 설명"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Немецкий - Мариус Шрёдер (schroedermarius), Себастьян Дженсен (tsjdev-apps)"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Краткое описание"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tiếng Đức - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Mô Tả Ngắn Gọn"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "德语 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 简要描述"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "德語 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 間單的描述"
           }
         }
       }
     },
-    "translatorJapanese": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Japanisch - Takuto Nakamura (Kyome)"
+    "mailWhatYouTried" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Was hast du probiert\n- Neustart der app: Ja/Nein\n- Läufer Store wiederhergestellt: Ja/Nein\n- App deinstalliert: Ja/Nein"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Japanese - Takuto Nakamura (Kyome)"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# What You Tried\n- Relaunched the app: Yes/No\n- Restored at Runners Store: Yes/No\n- Uninstalled the app: Yes/No"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Japonés - Takuto Nakamura (Kyome)"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Lo que intentaste\n- Reiniciaste la app: Sí/No\n- Restauraste en Tienda de Corredores: Sí/No\n- Desinstalaste la app: Sí/No"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Japonais - Takuto Nakamura (Kyome)"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Qu’essayez-vous de faire\n- Relancer l’app : Oui/Non\n- Restaurer dans le Magasin de Coureurs : Oui/Non\n- Désinstaller l’app : Oui/Non"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "日本語 - Takuto Nakamura (Kyome)"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 試したこと\n- アプリの再起動：はい/いいえ\n- ランナーストアにて購入の復元：はい/いいえ\n- アプリのアンインストール：はい/いいえ"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "일본어 - Takuto Nakamura (Kyome)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 아래의 내용을 확인해주세요\n- 앱을 재실행 했습니다: 예/아니오\n- 러너 스토어에서 복구를 시도했습니다: 예/아니오\n- 앱을 제거 했습니다:  예/아니오"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Японский - Такуто Накамура (Kyome)"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Что вы пробовали\n- Перезапустили приложение: Да/Нет\n- Восстановили в магазине бегунов: Да/Нет\n- Удалили приложение: Да/Нет"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tiếng Nhật - Takuto Nakamura (Kyome)"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Những Gì Bạn Đã Thử\n- Khởi động lại ứng dụng: Có/Không\n- Khôi phục tại Runners Store: Có/Không\n- Gỡ cài đặt ứng dụng: Có/Không"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "日语 - Takuto Nakamura (Kyome)"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 尝试过的操作\n- 重启软件：是/否\n- 从跑者商店恢复: 是/否\n- 卸载软件：是/否"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "日語 - Takuto Nakamura (Kyome)"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# 嘗試過的操作\n- 重新啟動 App：是/否\n- 從跑者商店還原：是/否\n- 解除安裝 App：是/否"
           }
         }
       }
     },
-    "translatorKorean": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Koreanisch - Jaewon Gwon (Jake)"
+    "support" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support-Seite"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Korean - Jaewon Gwon (Jake)"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Support Page"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coreano - Jaewon Gwon (Jake)"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Página de soporte"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Coréen - Jaewon Gwon (Jake)"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Page Web pour l’assistance"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "韓国語 - Jaewon Gwon (Jake)"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サポートページ"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "한국어 - Jaewon Gwon (Jake)"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "서포트 페이지"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Корейский - Джевон Гвон (Jake)"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Страница поддержки"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tiếng Hàn - Jaewon Gwon (Jake)"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trang Hỗ Trợ"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "韩语 - Jaewon Gwon (Jake)"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支持页面"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "韓語 - Jaewon Gwon (Jake)"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "支援頁面"
           }
         }
       }
     },
-    "translatorSpanish": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Spanisch - Facundo De Lima"
+    "systemInfoTab" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System Info"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Spanish - Facundo De Lima"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "System Info"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Español - Facundo De Lima"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Información del sistema"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Espagnol - Facundo De Lima"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Infos système"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "スペイン語 - Facundo De Lima"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "システム情報"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "스페인어 - Facundo De Lima"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "시스템 정보"
           }
         },
-        "ru": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Испанский - Факундо де Лима"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Информация о система"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tiếng Tây Ban Nha - Facundo De Lima"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông Tin Hệ Thống"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "西班牙语 - Facundo De Lima"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系统信息"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "西班牙語 - Facundo De Lima"
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "系統資訊"
           }
         }
       }
     },
-    "translatorVietnamese": {
-      "localizations": {
-        "de": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vietnamesisch - Nguyen Minh Duc"
+    "translatorChineseSimplified" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vereinfachtes Chinesisch - Junjie Lin (junzilla)"
           }
         },
-        "en": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vietnamese - Nguyen Minh Duc"
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chinese, Simplified - Junjie Lin (junzilla)"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vietnamita - Nguyen Minh Duc"
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chino simplificado - Junjie Lin (junzilla)"
           }
         },
-        "fr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Vietnamien - Nguyen Minh Duc"
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chinois Simplifié - Junjie Lin (junzilla)"
           }
         },
-        "ja": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "ベトナム語 - Nguyen Minh Duc"
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中国語 (簡体) - Junjie Lin (junzilla)"
           }
         },
-        "ko": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "베트남어 - Nguyen Minh Duc"
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중국어 (간체) - Junjie Lin (junzilla)"
           }
         },
-        "vi": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Tiếng Việt - Nguyen Minh Duc"
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Китайский, упрощённый - Junjie Lin (junzilla)"
           }
         },
-        "zh-Hans": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "越南语 - Nguyen Minh Duc"
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Trung Giản Thể - Junjie Lin (junzilla)"
           }
         },
-        "zh-Hant": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "越南語 - Nguyen Minh Duc"
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "简体中文 - Junjie Lin (junzilla)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "簡體中文 - Junjie Lin (junzilla)"
+          }
+        }
+      }
+    },
+    "translatorChineseTraditional" : {
+      "generatesSymbol" : false,
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Traditionelles Chinesisch - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chinese, Traditional - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chino tradicional - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chinois traditionnel - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "中国語 (繁体) - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중국어 (번체) - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Китайский, традиционный - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Trung Phồn Thể - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繁体中文 - Qing Bi Liao (Pencil126)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "繁體中文 - Qing Bi Liao (Pencil126)"
+          }
+        }
+      }
+    },
+    "translatorFrench" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Französisch - Kravatox"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "French - Kravatox"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Francés - Kravatox"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Français - Kravatox"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フランス語 - Kravatox"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "프랑스어 - Kravatox"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Французский - Kravatox"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Pháp - Kravatox"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "法语 - Kravatox"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "法語 - Kravatox"
+          }
+        }
+      }
+    },
+    "translatorGerman" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Deutsch - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "German - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alemán - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Allemand - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ドイツ語 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "독일어 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Немецкий - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Đức - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "德语 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "德語 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        }
+      }
+    },
+    "translatorJapanese" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japanisch - Takuto Nakamura (Kyome)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japanese - Takuto Nakamura (Kyome)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japonés - Takuto Nakamura (Kyome)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Japonais - Takuto Nakamura (Kyome)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日本語 - Takuto Nakamura (Kyome)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "일본어 - Takuto Nakamura (Kyome)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Японский - Takuto Nakamura (Kyome)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Nhật - Takuto Nakamura (Kyome)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日语 - Takuto Nakamura (Kyome)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日語 - Takuto Nakamura (Kyome)"
+          }
+        }
+      }
+    },
+    "translatorKorean" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Koreanisch - Jaewon Gwon (Jake)"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Korean - Jaewon Gwon (Jake)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coreano - Jaewon Gwon (Jake)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coréen - Jaewon Gwon (Jake)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "韓国語 - Jaewon Gwon (Jake)"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "한국어 - Jaewon Gwon (Jake)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Корейский - Jaewon Gwon (Jake)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Hàn - Jaewon Gwon (Jake)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "韩语 - Jaewon Gwon (Jake)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "韓語 - Jaewon Gwon (Jake)"
+          }
+        }
+      }
+    },
+    "translatorSpanish" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spanisch - Facundo De Lima"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spanish - Facundo De Lima"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Español - Facundo De Lima"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Espagnol - Facundo De Lima"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スペイン語 - Facundo De Lima"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "스페인어 - Facundo De Lima"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Испанский - Facundo De Lima"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Tây Ban Nha - Facundo De Lima"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "西班牙语 - Facundo De Lima"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "西班牙語 - Facundo De Lima"
+          }
+        }
+      }
+    },
+    "translatorVietnamese" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vietnamesisch - Nguyen Minh Duc"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vietnamese - Nguyen Minh Duc"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vietnamita - Nguyen Minh Duc"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vietnamien - Nguyen Minh Duc"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ベトナム語 - Nguyen Minh Duc"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "베트남어 - Nguyen Minh Duc"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "вьетнамский - Nguyen Minh Duc"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Việt - Nguyen Minh Duc"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "越南语 - Nguyen Minh Duc"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "越南語 - Nguyen Minh Duc"
           }
         }
       }
     }
   },
-  "version": "1.1"
+  "version" : "1.1"
 }
