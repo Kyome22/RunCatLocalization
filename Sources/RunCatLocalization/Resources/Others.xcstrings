@@ -39,6 +39,12 @@
             "value" : "%@?lang=ko"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=vi"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -89,6 +95,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "엔드리스 게임"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Game Vô Hạn"
           }
         },
         "zh-Hans" : {
@@ -143,6 +155,12 @@
             "value" : "일반"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cài đặt chung"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -193,6 +211,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "현지화"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bản Địa Hóa"
           }
         },
         "zh-Hans" : {
@@ -247,6 +271,12 @@
             "value" : "# 실행환경\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Môi Trường\n- %@: ver %@\n- %@\n- macOS: %@"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -297,6 +327,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 기대한 결과"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Kết Quả Mong Đợi"
           }
         },
         "zh-Hans" : {
@@ -351,6 +387,12 @@
             "value" : "%@ 문제점 알리기"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Báo Cáo Sự Cố"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -401,6 +443,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 문제가 발생하기까지 조작한 순서"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Các Bước Tái Hiện Sự Cố"
           }
         },
         "zh-Hans" : {
@@ -455,6 +503,12 @@
             "value" : "# 문제점에 대한 간단한 설명"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Mô Tả Ngắn Gọn"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -505,6 +559,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 아래의 내용을 확인해주세요\n- 앱을 재실행 했습니다: 예/아니오\n- 러너 스토어에서 복구를 시도했습니다: 예/아니오\n- 앱을 제거 했습니다:  예/아니오"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Những Gì Bạn Đã Thử\n- Khởi động lại ứng dụng: Có/Không\n- Khôi phục tại Runners Store: Có/Không\n- Gỡ cài đặt ứng dụng: Có/Không"
           }
         },
         "zh-Hans" : {
@@ -559,6 +619,12 @@
             "value" : "서포트 페이지"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Trang Hỗ Trợ"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -611,6 +677,12 @@
             "value" : "시스템 정보"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông Tin Hệ Thống"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -661,6 +733,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "중국어 (간체) - Junjie Lin (junzilla)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Trung Giản Thể - Junjie Lin (junzilla)"
           }
         },
         "zh-Hans" : {
@@ -716,6 +794,12 @@
             "value" : "중국어 (번체) - Qing Bi Liao (Pencil126)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Trung Phồn Thể - Qing Bi Liao (Pencil126)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -766,6 +850,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "프랑스어 - Kravatox"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Pháp - Kravatox"
           }
         },
         "zh-Hans" : {
@@ -820,6 +910,12 @@
             "value" : "독일어 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Đức - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -870,6 +966,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일본어 - Takuto Nakamura (Kyome)"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Nhật - Takuto Nakamura (Kyome)"
           }
         },
         "zh-Hans" : {
@@ -924,6 +1026,12 @@
             "value" : "한국어 - Jaewon Gwon (Jake)"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Hàn - Jaewon Gwon (Jake)"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -976,6 +1084,12 @@
             "value" : "스페인어 - Facundo De Lima"
           }
         },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Tây Ban Nha - Facundo De Lima"
+          }
+        },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
@@ -986,6 +1100,64 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "西班牙語 - Facundo De Lima"
+          }
+        }
+      }
+    },
+    "translatorVietnamese" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vietnamesisch - Nguyen Minh Duc"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vietnamese - Nguyen Minh Duc"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vietnamita - Nguyen Minh Duc"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vietnamien - Nguyen Minh Duc"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ベトナム語 - Nguyen Minh Duc"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "베트남어 - Nguyen Minh Duc"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tiếng Việt - Nguyen Minh Duc"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "越南语 - Nguyen Minh Duc"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "越南語 - Nguyen Minh Duc"
           }
         }
       }
