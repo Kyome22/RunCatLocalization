@@ -44,6 +44,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
        case japanese
        case korean
        case spanish
+       case vietnamese
    +   case newLanguage
 
        ︙
@@ -54,7 +55,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
                Locale.current
            case .chineseSimplified:
                Locale(languageCode: .chinese, script: .hanSimplified)
-           case chineseTraditional:
+           case .chineseTraditional:
                Locale(languageCode: .chinese, script: .hanTraditional)
            case .english:
                Locale(languageCode: .english)
@@ -68,7 +69,9 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
                Locale(languageCode: .korean)
            case .spanish:
                Locale(languageCode: .spanish)
-   +       case .newLanguege:
+           case .vietnamese:
+               Locale(languageCode: .vietnamese)
+   +       case .newLanguage:
    +           Locale(languageCode: .newLanguageCode)
            }
        }
@@ -77,13 +80,14 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 
        public static let allCases: [RCLLanguage] = [
            .chineseSimplified,
-           .chineseTraditilnal,
+           .chineseTraditional,
            .english,
            .french,
            .german,
            .japanese,
            .korean,
            .spanish,
+           .vietnamese,
    +       .newLanguage,
        ]
    }
