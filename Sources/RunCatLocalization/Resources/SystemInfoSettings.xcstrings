@@ -39,6 +39,12 @@
             "value" : "활성화"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Активировать"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "상단 노치가 있는 맥북을 사용중이라면, 메뉴바의 시스템 정보가 보이지 않거나, 메뉴바의 항목을 선택하지 못할 수도 있습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если у вас MacBook с вырезом, вы можете не видеть панель системной информации в строке меню или не иметь доступа к другим элементам строки меню."
           }
         },
         "vi" : {
@@ -155,6 +167,12 @@
             "value" : "시스템 정보 사용 시 주의사항"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Примечания по использованию панели информации о системе"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "배터리 상태"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Состояние батареи"
           }
         },
         "vi" : {
@@ -271,6 +295,12 @@
             "value" : "그냥 둘래요"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не надо"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -327,6 +357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "실험적 기능"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Экспериментальная функция"
           }
         },
         "vi" : {
@@ -387,6 +423,12 @@
             "value" : "메모리 성능"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Производительность памяти"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -443,6 +485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모니터링"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мониторинг"
           }
         },
         "vi" : {
@@ -503,6 +551,12 @@
             "value" : "네트워크 연결"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сетевое подключение"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -561,6 +615,12 @@
             "value" : "저장 용량"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Объём хранилища"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -617,6 +677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시스템 정보 (베타)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Панель информации о системе (β)"
           }
         },
         "vi" : {

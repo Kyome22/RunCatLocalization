@@ -39,6 +39,12 @@
             "value" : "사용 가능"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Доступно"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "바형 그래프"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гистограмма"
           }
         },
         "vi" : {
@@ -155,6 +167,12 @@
             "value" : "아이콘만"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Только иконка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "퍼센트"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Процент"
           }
         },
         "vi" : {
@@ -271,6 +295,12 @@
             "value" : "원형 차트"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Круговая диаграмма"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -327,6 +357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "배터리 상태 보기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать состояние батареи"
           }
         },
         "vi" : {
@@ -387,6 +423,12 @@
             "value" : "CPU 사용량 보기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать использование процессора"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -443,6 +485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "메모리 성능 보기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать производительность памяти"
           }
         },
         "vi" : {
@@ -503,6 +551,12 @@
             "value" : "네트워크 속도 보기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать скорость сети"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -561,6 +615,12 @@
             "value" : "저장 용량 보기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Показать объём хранилища"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -617,6 +677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사용됨"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Использовано"
           }
         },
         "vi" : {

@@ -35,6 +35,7 @@ jq -r '
       "fr": .value.localizations.fr.stringUnit.value,
       "ja": .value.localizations.ja.stringUnit.value,
       "ko": .value.localizations.ko.stringUnit.value,
+      "ru": .value.localizations.ru.stringUnit.value,
       "vi": .value.localizations.vi.stringUnit.value,
       "zh-Hans": .value.localizations["zh-Hans"].stringUnit.value,
       "zh-Hant": .value.localizations["zh-Hant"].stringUnit.value

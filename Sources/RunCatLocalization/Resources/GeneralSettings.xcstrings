@@ -39,6 +39,12 @@
             "value" : "모든 러너중에서 선택"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать из всех бегунов"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "그냥 둘래요"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не надо"
           }
         },
         "vi" : {
@@ -155,6 +167,12 @@
             "value" : "수평 반전"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отразить по горизонтали"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "속도 반전"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Инвертировать скорость"
           }
         },
         "vi" : {
@@ -271,6 +295,12 @@
             "value" : "자동 실행"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Запуск"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -327,6 +357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "로그인 시 RunCat을 자동 실행"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Автоматический запуск RunCat при входе в систему"
           }
         },
         "vi" : {
@@ -387,6 +423,12 @@
             "value" : "흑백 러너중에서 선택"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выбрать только из монохромных"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -443,6 +485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "러너"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бегун"
           }
         },
         "vi" : {
@@ -503,6 +551,12 @@
             "value" : "10분마다 랜덤하게 러너 바꾸기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Случайный выбор каждые 10 минут"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -559,6 +613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "러너 멈추기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Остановить бегуна"
           }
         },
         "vi" : {
@@ -619,6 +679,12 @@
             "value" : "러너를 멈춰주세요"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Остановить бегуна"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -675,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "만약 러너를 멈춘다면, 이 애플리케이션의 특징을 잃게됩니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Если вы остановите бегуна, уникальность этого приложения будет утрачена."
           }
         },
         "vi" : {
@@ -735,6 +807,12 @@
             "value" : "정말로 러너를 멈추시겠습니까?"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вы действительно хотите остановить бегуна?"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -791,6 +869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "시스템 강조 색상 사용"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Использовать акцентный цвет системы"
           }
         },
         "vi" : {

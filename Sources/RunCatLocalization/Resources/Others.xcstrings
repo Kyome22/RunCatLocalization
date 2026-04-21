@@ -39,6 +39,12 @@
             "value" : "%@?lang=ko"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@?lang=ru"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "엔드리스 게임"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бесконечная игра"
           }
         },
         "vi" : {
@@ -155,6 +167,12 @@
             "value" : "일반"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Основные"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "현지화"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Локализация"
           }
         },
         "vi" : {
@@ -271,6 +295,12 @@
             "value" : "# 실행환경\n- %@: ver %@\n- %@\n- macOS: %@"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Окружение\n- %@: ver %@\n- %@\n- macOS: %@"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -327,6 +357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 기대한 결과"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Ожидаемый результат"
           }
         },
         "vi" : {
@@ -387,6 +423,12 @@
             "value" : "%@ 문제점 알리기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ Отчёт о проблеме"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -443,6 +485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 문제가 발생하기까지 조작한 순서"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Шаги для воспроизведения проблемы"
           }
         },
         "vi" : {
@@ -503,6 +551,12 @@
             "value" : "# 문제점에 대한 간단한 설명"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Краткое описание"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -559,6 +613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 아래의 내용을 확인해주세요\n- 앱을 재실행 했습니다: 예/아니오\n- 러너 스토어에서 복구를 시도했습니다: 예/아니오\n- 앱을 제거 했습니다:  예/아니오"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "# Что вы пробовали\n- Перезапустили приложение: Да/Нет\n- Восстановили в магазине бегунов: Да/Нет\n- Удалили приложение: Да/Нет"
           }
         },
         "vi" : {
@@ -619,6 +679,12 @@
             "value" : "서포트 페이지"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Страница поддержки"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -677,6 +743,12 @@
             "value" : "시스템 정보"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Информация о системе"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -733,6 +805,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "중국어 (간체) - Junjie Lin (junzilla)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Китайский, упрощённый - Junjie Lin (junzilla)"
           }
         },
         "vi" : {
@@ -794,6 +872,12 @@
             "value" : "중국어 (번체) - Qing Bi Liao (Pencil126)"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Китайский, традиционный - Qing Bi Liao (Pencil126)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -850,6 +934,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "프랑스어 - Kravatox"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Французский - Kravatox"
           }
         },
         "vi" : {
@@ -910,6 +1000,12 @@
             "value" : "독일어 - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Немецкий - Marius Schröder (schroedermarius), Sebastian Jensen (tsjdev-apps)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -966,6 +1062,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "일본어 - Takuto Nakamura (Kyome)"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Японский - Takuto Nakamura (Kyome)"
           }
         },
         "vi" : {
@@ -1026,6 +1128,12 @@
             "value" : "한국어 - Jaewon Gwon (Jake)"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Корейский - Jaewon Gwon (Jake)"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1084,6 +1192,12 @@
             "value" : "스페인어 - Facundo De Lima"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Испанский - Facundo De Lima"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1140,6 +1254,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "베트남어 - Nguyen Minh Duc"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вьетнамский - Nguyen Minh Duc"
           }
         },
         "vi" : {

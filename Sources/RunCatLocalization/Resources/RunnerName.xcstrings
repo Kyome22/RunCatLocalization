@@ -39,6 +39,12 @@
             "value" : "베타냥"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кот β"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "새"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Птичка"
           }
         },
         "vi" : {
@@ -155,6 +167,12 @@
             "value" : "모닥불"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Костёр"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "나비"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бабочка"
           }
         },
         "vi" : {
@@ -271,6 +295,12 @@
             "value" : "감마냥"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кот γ"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -327,6 +357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "알파냥"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кот α"
           }
         },
         "vi" : {
@@ -387,6 +423,12 @@
             "value" : "메탈냥"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Металлический кластер котов"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -443,6 +485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "플래시냥"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кот флэш"
           }
         },
         "vi" : {
@@ -503,6 +551,12 @@
             "value" : "골든냥"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Золотой кот"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -559,6 +613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "디스크 냥캣"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Имитация Нян кэт"
           }
         },
         "vi" : {
@@ -619,6 +679,12 @@
             "value" : "카멜레온"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хамелеон"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -675,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "치타"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гепард"
           }
         },
         "vi" : {
@@ -735,6 +807,12 @@
             "value" : "닭"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Курица"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -791,6 +869,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "풍경"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ветряной колокол"
           }
         },
         "vi" : {
@@ -851,6 +935,12 @@
             "value" : "도시"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Город"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -907,6 +997,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커피"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кофе"
           }
         },
         "vi" : {
@@ -967,6 +1063,12 @@
             "value" : "톱니바퀴"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Шестерёнка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1023,6 +1125,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "웰시코기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Валлийский корги"
           }
         },
         "vi" : {
@@ -1083,6 +1191,12 @@
             "value" : "뉴턴의 요람"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Колыбель Ньютона"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1139,6 +1253,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "사인함수"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Синусоидальная кривая"
           }
         },
         "vi" : {
@@ -1199,6 +1319,12 @@
             "value" : "공룡"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Динозавр"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1255,6 +1381,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Собака"
           }
         },
         "vi" : {
@@ -1315,6 +1447,12 @@
             "value" : "도게자"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Японское извинение"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1371,6 +1509,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "돌고래"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дельфин"
           }
         },
         "vi" : {
@@ -1431,6 +1575,12 @@
             "value" : "점"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Точки"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1487,6 +1637,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "용"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дракон"
           }
         },
         "vi" : {
@@ -1547,6 +1703,12 @@
             "value" : "버블티"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бабл-ти"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1603,6 +1765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "물방울"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Капля"
           }
         },
         "vi" : {
@@ -1663,6 +1831,12 @@
             "value" : "러버덕"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Резиновая уточка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1719,6 +1893,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "지구"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Земля"
           }
         },
         "vi" : {
@@ -1779,6 +1959,12 @@
             "value" : "엔진"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Двигатель"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1835,6 +2021,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Entaku"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Энтаку"
           }
         },
         "vi" : {
@@ -1895,6 +2087,12 @@
             "value" : "공장"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Завод"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1951,6 +2149,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "생선남"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Человек-рыба"
           }
         },
         "vi" : {
@@ -2011,6 +2215,12 @@
             "value" : "여우"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лиса"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2067,6 +2277,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "개구리"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лягушка"
           }
         },
         "vi" : {
@@ -2127,6 +2343,12 @@
             "value" : "후라이팬"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Жарка на сковородке"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2183,6 +2405,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "유령"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Призрак"
           }
         },
         "vi" : {
@@ -2243,6 +2471,12 @@
             "value" : "그레이하운드"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гончая"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2299,6 +2533,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "고슴도치"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ёжик"
           }
         },
         "vi" : {
@@ -2359,6 +2599,12 @@
             "value" : "말"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Лошадь"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2415,6 +2661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "인간"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Человек"
           }
         },
         "vi" : {
@@ -2475,6 +2727,12 @@
             "value" : "잭 오 랜턴"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Светильник Джека"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2531,6 +2789,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "증기기관차"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Паровоз"
           }
         },
         "vi" : {
@@ -2591,6 +2855,12 @@
             "value" : "커스텀 러너"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Самодельный бегун"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2647,6 +2917,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "모찌"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Моти"
           }
         },
         "vi" : {
@@ -2707,6 +2983,12 @@
             "value" : "쥐"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мышка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2763,6 +3045,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "마네키네코"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Денежный кот"
           }
         },
         "vi" : {
@@ -2823,6 +3111,12 @@
             "value" : "문어"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Осьминог"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2879,6 +3173,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "수달"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Выдра"
           }
         },
         "vi" : {
@@ -2939,6 +3239,12 @@
             "value" : "부엉이"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сова"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2995,6 +3301,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "앵무새"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Попугай"
           }
         },
         "vi" : {
@@ -3055,6 +3367,12 @@
             "value" : "펜듈럼"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Маятник"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3111,6 +3429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "펭귄"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пингвин"
           }
         },
         "vi" : {
@@ -3171,6 +3495,12 @@
             "value" : "펭귄 2"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пингвин 2"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3227,6 +3557,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "인싸 파티"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тусовка людей"
           }
         },
         "vi" : {
@@ -3287,6 +3623,12 @@
             "value" : "돼지"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Свинка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3343,6 +3685,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "파동"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пульс"
           }
         },
         "vi" : {
@@ -3403,6 +3751,12 @@
             "value" : "강아지"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щенок"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3459,6 +3813,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "토끼"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кролик"
           }
         },
         "vi" : {
@@ -3519,6 +3879,12 @@
             "value" : "원자로"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Реактор"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3575,6 +3941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "로켓"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ракета"
           }
         },
         "vi" : {
@@ -3635,6 +4007,12 @@
             "value" : "모든 러너 해제"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Разблокировать всех бегунов"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3691,6 +4069,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "소세지"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сосиска"
           }
         },
         "vi" : {
@@ -3751,6 +4135,12 @@
             "value" : "양"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Овечка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3807,6 +4197,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "루돌프와 썰매"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оленья упряжка"
           }
         },
         "vi" : {
@@ -3867,6 +4263,12 @@
             "value" : "슬라임"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Слайм"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3923,6 +4325,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "눈사람"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Снеговик"
           }
         },
         "vi" : {
@@ -3983,6 +4391,12 @@
             "value" : "불꽃놀이"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бенгальский огонёк"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4039,6 +4453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "다람쥐"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Белка"
           }
         },
         "vi" : {
@@ -4099,6 +4519,12 @@
             "value" : "초밥"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Суши"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4155,6 +4581,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "회전초밥"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Движущиеся суши"
           }
         },
         "vi" : {
@@ -4215,6 +4647,12 @@
             "value" : "누웠냥"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кошачий хвост"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4271,6 +4709,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "테리어"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Терьер"
           }
         },
         "vi" : {
@@ -4331,6 +4775,12 @@
             "value" : "힘, 지혜, 용기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сила, Мудрость и Мужество"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4387,6 +4837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Uhooi"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ухоой"
           }
         },
         "vi" : {
@@ -4447,6 +4903,12 @@
             "value" : "푸쉬업"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Отжимания"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4503,6 +4965,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "싯업"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скручивания"
           }
         },
         "vi" : {
@@ -4563,6 +5031,12 @@
             "value" : "고래"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кит"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4619,6 +5093,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "쳇바퀴"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Хомяк в колесе"
           }
         },
         "vi" : {

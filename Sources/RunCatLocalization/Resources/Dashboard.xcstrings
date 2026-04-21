@@ -39,6 +39,12 @@
             "value" : "RunCat에 관하여"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "О программе RunCat"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -95,6 +101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "활성 상태 보기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Монитор активности"
           }
         },
         "vi" : {
@@ -155,6 +167,12 @@
             "value" : "뒤로"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Назад"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -211,6 +229,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "동물 러너"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бегуны-животные"
           }
         },
         "vi" : {
@@ -271,6 +295,12 @@
             "value" : "기본 러너"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обычные бегуны"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -327,6 +357,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "무생물 러너"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Неживые бегуны"
           }
         },
         "vi" : {
@@ -387,6 +423,12 @@
             "value" : "계절한정 러너"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сезонные бегуны"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -443,6 +485,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "커스텀 러너"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Самодельные бегуны"
           }
         },
         "vi" : {
@@ -503,6 +551,12 @@
             "value" : "특별 컬러 러너"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Специальные цветные бегуны"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -559,6 +613,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RunCat에 기여"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Внести свой вклад в RunCat"
           }
         },
         "vi" : {
@@ -619,6 +679,12 @@
             "value" : "수면 디버깅"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debug овечка"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -675,6 +741,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "각성 디버깅"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Debug подъём"
           }
         },
         "vi" : {
@@ -735,6 +807,12 @@
             "value" : "엔드리스 게임 시작"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Играть в бесконечную игру"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -793,6 +871,12 @@
             "value" : "도움말"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помощь"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -849,6 +933,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "자주 묻는 질문"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Часто задаваемые вопросы"
           }
         },
         "vi" : {
@@ -910,6 +1000,12 @@
             "value" : "직접 만든 커스텀 러너를 추가하는 방법"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Как добавить самодельного бегуна"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -966,6 +1062,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "더보기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дополнительно"
           }
         },
         "vi" : {
@@ -1026,6 +1128,12 @@
             "value" : "문제점 알리기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сообщить об ошибке"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1082,6 +1190,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "러너"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Бегуны"
           }
         },
         "vi" : {
@@ -1142,6 +1256,12 @@
             "value" : "러너 만들기"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Самодельный"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1198,6 +1318,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "설정"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Настройки"
           }
         },
         "vi" : {
@@ -1258,6 +1384,12 @@
             "value" : "스토어"
           }
         },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Магазин"
+          }
+        },
         "vi" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1314,6 +1446,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "RunCat 종료"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Завершить RunCat"
           }
         },
         "vi" : {
