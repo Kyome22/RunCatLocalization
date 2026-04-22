@@ -20,6 +20,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
 - German
 - Japanese
 - Korean
+- Russian
 - Spanish
 - Vietnamese
 
@@ -43,6 +44,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
        case german
        case japanese
        case korean
+       case russian
        case spanish
        case vietnamese
    +   case newLanguage
@@ -67,6 +69,8 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
                Locale(languageCode: .japanese)
            case .korean:
                Locale(languageCode: .korean)
+           case .russian:
+               Locale(languageCode: .russian)
            case .spanish:
                Locale(languageCode: .spanish)
            case .vietnamese:
@@ -86,6 +90,7 @@ RunCat uses [SystemInfoKit](https://github.com/Kyome22/SystemInfoKit), so locali
            .german,
            .japanese,
            .korean,
+           .russian,
            .spanish,
            .vietnamese,
    +       .newLanguage,
