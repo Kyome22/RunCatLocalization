@@ -65,6 +65,198 @@
         }
       }
     },
+    "announcementIntro" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ich freue mich, die Veröffentlichung von RunCat Neo, der nächsten Anwendungsgeneration, bekannt zu geben. Daher wird der Support für die aktuelle Version Ende 2026 eingestellt. Die Anwendung bleibt zwar auch danach funktionsfähig, jedoch werden keine Fehlerbehebungen oder Kompatibilitäts-Updates für neue OS-Versionen mehr angeboten. Ich empfehle dringend, bei nächster Gelegenheit auf RunCat Neo umzusteigen."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I'm pleased to announce the release of RunCat Neo, the next-generation application. Consequently, support for the current version will conclude at the end of 2026. Although the application will remain functional after this date, please be advised that I will no longer offer bug fixes or compatibility updates for new OS versions. I highly recommend transitioning to RunCat Neo at your earliest convenience."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Me complace anunciar el lanzamiento de RunCat Neo, la aplicación de próxima generación. En consecuencia, el soporte para la versión actual finalizará a finales de 2026. Aunque la aplicación seguirá funcionando después de esa fecha, tenga en cuenta que ya no ofreceré correcciones de errores ni actualizaciones de compatibilidad para nuevas versiones del sistema operativo. Recomiendo encarecidamente migrar a RunCat Neo lo antes posible."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "J'ai le plaisir d'annoncer la sortie de RunCat Neo, l'application de nouvelle génération. Par conséquent, la prise en charge de la version actuelle prendra fin à la fin de 2026. Bien que l'application reste fonctionnelle après cette date, veuillez noter que je ne proposerai plus de corrections de bugs ni de mises à jour de compatibilité pour les nouvelles versions du système d'exploitation. Je recommande vivement de migrer vers RunCat Neo dès que possible."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このたび、次世代版となる RunCat Neo をリリースしました。これに伴い、本アプリは2026年いっぱいをもってサポートを終了させていただきます。サポート終了後も引き続きお使いいただけますが、不具合修正やの新しいOSバージョンへの対応は行われなくなりますので、ぜひ RunCat Neo への移行をご検討ください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "차세대 애플리케이션인 RunCat Neo의 출시를 알리게 되어 기쁩니다. 이에 따라 현재 버전에 대한 지원은 2026년 말에 종료됩니다. 종료 이후에도 앱은 계속 사용하실 수 있지만, 버그 수정이나 새로운 OS 버전 대응은 더 이상 제공되지 않으니, 가능한 한 빨리 RunCat Neo로 이전하시기를 적극 권장합니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Рад сообщить о выпуске RunCat Neo — приложения нового поколения. В связи с этим поддержка текущей версии завершится в конце 2026 года. Хотя приложение продолжит работать и после этой даты, обратите внимание, что исправления ошибок и обновления совместимости с новыми версиями ОС больше выпускаться не будут. Настоятельно рекомендую перейти на RunCat Neo при первой возможности."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tôi vui mừng thông báo về việc phát hành RunCat Neo, ứng dụng thế hệ mới. Do đó, hỗ trợ cho phiên bản hiện tại sẽ kết thúc vào cuối năm 2026. Mặc dù ứng dụng vẫn hoạt động sau thời điểm này, xin lưu ý rằng tôi sẽ không còn cung cấp các bản sửa lỗi hoặc cập nhật tương thích cho các phiên bản hệ điều hành mới. Tôi thực sự khuyến nghị bạn chuyển sang RunCat Neo trong thời gian sớm nhất."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我很高兴地宣布推出下一代应用 RunCat Neo。因此，当前版本的支持将于 2026 年底结束。在此之后应用仍可继续使用，但请注意，我将不再为其提供错误修复或针对新操作系统版本的兼容性更新。强烈建议您尽早迁移到 RunCat Neo。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我很高興宣布推出新一代應用程式 RunCat Neo。因此，目前版本的支援將於 2026 年底結束。在此之後應用程式仍可繼續使用，但請注意，我將不再為其提供錯誤修正或針對新作業系統版本的相容性更新。強烈建議您盡早遷移至 RunCat Neo。"
+          }
+        }
+      }
+    },
+    "announcementSignOff" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vielen Dank für Ihre langjährige Unterstützung von RunCat. Ich hoffe, Sie haben viel Freude mit dem neuen RunCat Neo!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you so much for your long-standing support of RunCat. I hope you enjoy the new RunCat Neo!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Muchas gracias por su apoyo continuo a RunCat. ¡Espero que disfrute del nuevo RunCat Neo!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Merci beaucoup pour votre soutien de longue date à RunCat. J'espère que vous apprécierez le nouveau RunCat Neo !"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "長らく RunCat を応援してくださり、本当にありがとうございました。これからは RunCat Neo をどうぞよろしくお願いいたします！"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "오랫동안 RunCat을 응원해 주셔서 진심으로 감사합니다. 앞으로 새로운 RunCat Neo도 많은 관심 부탁드립니다!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Большое спасибо за вашу многолетнюю поддержку RunCat. Надеюсь, вам понравится новый RunCat Neo!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cảm ơn bạn rất nhiều vì đã ủng hộ RunCat trong suốt thời gian qua. Hy vọng bạn sẽ thích RunCat Neo mới!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非常感谢您长期以来对 RunCat 的支持。希望您会喜欢全新的 RunCat Neo！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非常感謝您長期以來對 RunCat 的支持。希望您會喜歡全新的 RunCat Neo！"
+          }
+        }
+      }
+    },
+    "downloadRunCatNeo" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo herunterladen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Download RunCat Neo"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Descargar RunCat Neo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Télécharger RunCat Neo"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo をダウンロード"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo 다운로드"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Скачать RunCat Neo"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tải xuống RunCat Neo"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下载 RunCat Neo"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "下載 RunCat Neo"
+          }
+        }
+      }
+    },
     "endlessGameTitle" : {
       "localizations" : {
         "de" : {
@@ -189,6 +381,198 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "一般"
+          }
+        }
+      }
+    },
+    "highlightsOfRunCatNeoBody" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo ist jetzt Open Source, und alle Funktionen sind kostenlos verfügbar. Ich habe die vorhandenen Funktionen verschlankt, um mich auf die Kernessenz von RunCat zu konzentrieren. Ein herausragendes neues Feature ist „Eigene Metriken“, mit dem Nutzer JSON-Dateien überwachen und ihre bevorzugten Metriken anzeigen können."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo is now open-source, with all features available free of charge. I have streamlined the existing functionality to focus on the core essence of RunCat. A standout addition is the Custom Metrics feature, which allows users to monitor JSON files and display their preferred metrics."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo ahora es de código abierto, con todas las funciones disponibles de forma gratuita. He simplificado la funcionalidad existente para centrarme en la esencia principal de RunCat. Una incorporación destacada es la función Métricas personalizadas, que permite a los usuarios monitorear archivos JSON y mostrar las métricas que prefieran."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo est désormais open source, avec toutes les fonctionnalités disponibles gratuitement. J'ai rationalisé les fonctionnalités existantes afin de me concentrer sur l'essence même de RunCat. Une nouveauté marquante est la fonctionnalité Métriques personnalisées, qui permet aux utilisateurs de surveiller des fichiers JSON et d'afficher les métriques de leur choix."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オープンソース化し、すべての機能を無料で提供することにしました。また、既存機能の取捨選択を行い、よりRunCatの魅力を凝縮しました。目玉機能として、JSONファイルを監視してお好みのメトリクスを表示可能な機能であるカスタムメトリクスを実装しました。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo는 이제 오픈 소스가 되었으며, 모든 기능을 무료로 제공합니다. 기존 기능을 정리하여 RunCat의 핵심에 더욱 집중했습니다. 특히 눈에 띄는 추가 기능으로, JSON 파일을 모니터링하여 원하는 지표를 표시할 수 있는 사용자 설정 메트릭 기능을 구현했습니다."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo теперь с открытым исходным кодом, и все функции доступны бесплатно. Я упростил существующий функционал, чтобы сосредоточиться на самой сути RunCat. Заметным нововведением стала функция Пользовательские метрики, которая позволяет отслеживать JSON-файлы и отображать нужные пользователю метрики."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo giờ đây là mã nguồn mở, với tất cả tính năng được cung cấp miễn phí. Tôi đã tinh giản các chức năng hiện có để tập trung vào tinh túy cốt lõi của RunCat. Một bổ sung nổi bật là tính năng Số liệu tùy chỉnh, cho phép người dùng theo dõi các tệp JSON và hiển thị những chỉ số mà họ ưa thích."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo 现已开源，所有功能均免费提供。我精简了现有功能，以专注于 RunCat 的核心精髓。其中一项亮点功能是自定义指标，它允许用户监控 JSON 文件并显示自己喜欢的指标。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo 現已開源，所有功能均免費提供。我精簡了現有功能，以專注於 RunCat 的核心精髓。其中一項亮點功能是自訂指標，它允許使用者監控 JSON 檔案並顯示自己喜歡的指標。"
+          }
+        }
+      }
+    },
+    "highlightsOfRunCatNeoTitle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Highlights von RunCat Neo"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Highlights of RunCat Neo"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aspectos destacados de RunCat Neo"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Points forts de RunCat Neo"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo の特徴"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo의 특징"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Особенности RunCat Neo"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Điểm nổi bật của RunCat Neo"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo 的亮点"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RunCat Neo 的特色"
+          }
+        }
+      }
+    },
+    "importantAnnouncement" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wichtige Mitteilung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Important Announcement"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anuncio importante"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Annonce importante"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大事なお知らせ"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "중요한 공지"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Важное объявление"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thông Báo Quan Trọng"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重要通知"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "重要通知"
           }
         }
       }
@@ -582,7 +966,7 @@
         "de" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "# Was hast du probiert\n- Neustart der app: Ja/Nein\n- Läufer Store wiederhergestellt: Ja/Nein\n- App deinstalliert: Ja/Nein"
+            "value" : "# Was haben Sie versucht\n- Neustart der app: Ja/Nein\n- Läufer Store wiederhergestellt: Ja/Nein\n- App deinstalliert: Ja/Nein"
           }
         },
         "en" : {
@@ -637,6 +1021,198 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "# 嘗試過的操作\n- 重新啟動 App：是/否\n- 從跑者商店還原：是/否\n- 解除安裝 App：是/否"
+          }
+        }
+      }
+    },
+    "notesOnRunnerMigrationBody%@" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bitte beachten Sie, dass in RunCat gekaufte Runner nicht auf RunCat Neo übertragen werden können. Sie können jedoch weiterhin verschiedene Runner aus der [Runner Gallery](%@) über die Funktion „Eigener Runner“ nutzen. Möglicherweise füge ich der Runner Gallery in Zukunft gewünschte Runner hinzu – lassen Sie mich also wissen, wenn Sie Favoriten haben!"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please note that Runners purchased in RunCat cannot be transferred to RunCat Neo. However, you can still use various runners available in the [Runner Gallery](%@) by using the \"Custom Runner\" feature. I may add requested runners to the Runner Gallery in the future, so please let me know if you have any favorites!"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tenga en cuenta que los Runners comprados en RunCat no se pueden transferir a RunCat Neo. Sin embargo, aún puede usar varios runners disponibles en la [Runner Gallery](%@) mediante la función «runner personalizado». Es posible que en el futuro añada a la Runner Gallery los runners solicitados, así que ¡avíseme si tiene algún favorito!"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veuillez noter que les Runners achetés dans RunCat ne peuvent pas être transférés vers RunCat Neo. Vous pouvez toutefois utiliser les différents runners disponibles dans la [Runner Gallery](%@) grâce à la fonctionnalité « runner personnalisé ». Il se peut que j'ajoute à l'avenir des runners demandés à la Runner Gallery, alors n'hésitez pas à me faire part de vos favoris !"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "恐れ入りますが、RunCat で購入されたランナーは RunCat Neo へ引き継ぐことができません。ただし、カスタムランナーの追加機能を活用し、 [Runner Gallery](%@)で配布されているランナーは利用できます。ご要望いただいたランナーは、今後 Runner Gallery に追加される可能性があります。お気に入りのランナーがあれば、ぜひお知らせください。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "죄송하지만 RunCat에서 구매한 러너는 RunCat Neo로 이전할 수 없습니다. 다만 \"사용자 설정 러너\" 기능을 활용하면 [Runner Gallery](%@)에서 배포되는 다양한 러너를 사용하실 수 있습니다. 요청해 주신 러너는 앞으로 Runner Gallery에 추가될 수 있으니, 마음에 드는 러너가 있다면 꼭 알려 주세요!"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Обратите внимание, что бегуны, приобретённые в RunCat, нельзя перенести в RunCat Neo. Тем не менее вы по-прежнему можете использовать различных бегунов из [Runner Gallery](%@) с помощью функции «пользовательский раннер». В будущем я могу добавлять запрошенных бегунов в Runner Gallery, так что дайте знать, если у вас есть любимые!"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Xin lưu ý rằng các Runner đã mua trong RunCat không thể chuyển sang RunCat Neo. Tuy nhiên, bạn vẫn có thể sử dụng nhiều runner có sẵn trong [Runner Gallery](%@) thông qua tính năng \"runner tùy chỉnh\". Trong tương lai, tôi có thể thêm những runner được yêu cầu vào Runner Gallery, vì vậy hãy cho tôi biết nếu bạn có runner yêu thích nhé!"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请注意，在 RunCat 中购买的跑者无法迁移到 RunCat Neo。不过，您仍可通过 “自定义跑者” 功能使用 [Runner Gallery](%@) 中提供的各种跑者。今后我可能会将大家请求的跑者添加到 Runner Gallery，如果您有喜欢的跑者，欢迎告诉我！"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請注意，在 RunCat 中購買的跑者無法遷移到 RunCat Neo。不過，您仍可透過「自訂跑者」功能使用 [Runner Gallery](%@) 中提供的各種跑者。今後我可能會將大家請求的跑者加入 Runner Gallery，如果您有喜歡的跑者，歡迎告訴我！"
+          }
+        }
+      }
+    },
+    "notesOnRunnerMigrationTitle" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinweise zur Runner-Übertragung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notes on Runner Migration"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Notas sobre la migración de Runners"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Remarques sur la migration des Runners"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ランナーの引き継ぎに関する注意点"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "러너 이전에 관한 주의사항"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Примечания о переносе бегунов"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lưu Ý về Việc Chuyển Runner"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "关于跑者迁移的注意事项"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "關於跑者遷移的注意事項"
+          }
+        }
+      }
+    },
+    "notShowAnnouncementAgain" : {
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Diese Mitteilung nicht mehr anzeigen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Don’t show this announcement again"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No volver a mostrar este anuncio"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne plus afficher cette annonce"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このお知らせを再表示しない"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "이 공지를 다시 표시하지 않기"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Больше не показывать это объявление"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Không hiển thị thông báo này nữa"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不再显示此通知"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不再顯示此通知"
           }
         }
       }
