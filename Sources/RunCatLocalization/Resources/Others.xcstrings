@@ -1667,7 +1667,6 @@
       }
     },
     "translatorRussian" : {
-      "extractionState" : "manual",
       "generatesSymbol" : false,
       "localizations" : {
         "de" : {
